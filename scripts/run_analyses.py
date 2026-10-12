@@ -178,6 +178,94 @@ def run_wpca(city, shared, schemas, tables, city_root, config):
     target_time.write_text(json.dumps(time_records, ensure_ascii=False, indent=2, allow_nan=False) + "\n")
     print(f"{city}: wpca output validated ({len(records)} members, {len(time_records)} time windows)")
 
+    run_detect_government_axis(city, city_root)
+
+
+def run_detect_government_axis(city, city_root):
+    wpca_output_path = city_root / "analyses/wpca/outputs/wpca.json"
+    wpca_definition_path = city_root / "analyses/wpca/wpca_definition.json"
+    govity_definition_path = city_root / "analyses/govity/govity_definition.json"
+    memberships_path = city_root / "data/memberships.csv"
+    output_path = city_root / "analyses/wpca/outputs/government_axis.json"
+
+    if not (wpca_output_path.is_file() and govity_definition_path.is_file()):
+        return
+
+    import csv
+    from datetime import datetime, timezone
+
+    wpca_people = json.loads(wpca_output_path.read_text(encoding="utf-8"))
+    wpca_definition = json.loads(wpca_definition_path.read_text(encoding="utf-8"))
+    govity_definition = json.loads(govity_definition_path.read_text(encoding="utf-8"))
+
+    government_groups = set(govity_definition.get("government_groups") or [])
+    government_ids = set()
+    with open(memberships_path, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            if row["organization_id"] in government_groups:
+                government_ids.add(row["person_id"])
+
+    included = [p for p in wpca_people if p.get("included", True)]
+    n_dims = len(included[0]["dims"]) if included else 0
+
+    correlations = []
+    for dim_index in range(n_dims):
+        values = [p["dims"][dim_index] for p in included]
+        labels = [1 if p["person_id"] in government_ids else 0 for p in included]
+        n = len(values)
+        if n == 0:
+            r = 0.0
+        else:
+            mean_x = sum(values) / n
+            mean_y = sum(labels) / n
+            cov = sum((x - mean_x) * (y - mean_y) for x, y in zip(values, labels)) / n
+            var_x = sum((x - mean_x) ** 2 for x in values) / n
+            var_y = sum((y - mean_y) ** 2 for y in labels) / n
+            r = cov / (var_x**0.5 * var_y**0.5) if var_x > 0 and var_y > 0 else 0.0
+        correlations.append({"dim_index": dim_index, "correlation": r})
+
+    detected_dim_index = max(correlations, key=lambda c: abs(c["correlation"]))["dim_index"]
+    override = (wpca_definition.get("extras") or {}).get("government_axis_override")
+    overridden = override is not None
+    effective_dim_index = override if overridden else detected_dim_index
+
+    gov_values = [p["dims"][effective_dim_index] for p in included if p["person_id"] in government_ids]
+    opp_values = [p["dims"][effective_dim_index] for p in included if p["person_id"] not in government_ids]
+    government_mean = sum(gov_values) / len(gov_values) if gov_values else 0.0
+    opposition_mean = sum(opp_values) / len(opp_values) if opp_values else 0.0
+    government_sign = 1 if government_mean >= opposition_mean else -1
+
+    result = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "method": "point_biserial_correlation",
+        "n_dims": n_dims,
+        "n_included_people": len(included),
+        "government_groups": list(government_groups),
+        "government_person_count": len(gov_values),
+        "opposition_person_count": len(opp_values),
+        "correlations": correlations,
+        "detected_dim_index": detected_dim_index,
+        "override_dim_index": override,
+        "overridden": overridden,
+        "effective_dim_index": effective_dim_index,
+        "government_mean": government_mean,
+        "opposition_mean": opposition_mean,
+        "government_sign": government_sign,
+    }
+    output_path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n")
+    print(f"{city}: government axis detected (dim {effective_dim_index}, sign {government_sign:+d})")
+
+
+def write_run_status(city, city_root, tables):
+    from datetime import datetime, timezone
+    status = {
+        "last_successful_run_utc": datetime.now(timezone.utc).isoformat(),
+        "last_data_change_utc": datetime.now(timezone.utc).isoformat(),
+        "latest_vote_event_date": max(e["start_date"] for e in tables["vote_events"]),
+        "vote_events_count": len(tables["vote_events"]),
+    }
+    (city_root / "analyses/_run_status.json").write_text(json.dumps(status, indent=2) + "\n")
+
 
 def run(city, shared, schemas, target_analyses=None):
     city_root = ROOT / city
@@ -196,6 +284,8 @@ def run(city, shared, schemas, target_analyses=None):
         run_govity(city, shared, schemas, tables, city_root, config)
     if "wpca" in selected:
         run_wpca(city, shared, schemas, tables, city_root, config)
+
+    write_run_status(city, city_root, tables)
 
 
 if __name__ == "__main__":
