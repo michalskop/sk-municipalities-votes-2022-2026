@@ -1,0 +1,75 @@
+{
+  "name": "Mestské zastupiteľstvo v Košiciach",
+  "archive_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+  "meeting_pattern": "^/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/\\d+/?$",
+  "term_start": "2022-11-11",
+  "example_meeting": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1",
+  "format": "PDF roll calls, sometimes split across multiple files",
+  "city": "kosice",
+  "term": "2022–2026",
+  "research_date": "2026-10-11",
+  "status": "source-adapter-samples",
+  "analyses": [
+    "attendance"
+  ],
+  "groups_status": "unverified",
+  "coalition_status": "unverified",
+  "attendance_present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "attendance_absent_options": [
+    "absent",
+    "not_voting"
+  ],
+  "source_present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "vocabulary_note": "Košice H.E.R. PDFs exclude NEHLASOVAL from POČET PRÍTOMNÝCH; retain it separately from NEPRÍTOMNÝ in raw votes.",
+  "source_present_options_by_date": {
+    "2023-06-13": {
+      "options": [
+        "yes",
+        "no",
+        "abstain",
+        "not_voting"
+      ],
+      "sources": [
+        {
+          "url": "https://static.kosice.sk/meeting/vote/0qqIubiK423OCuj63Q/JgQ9X6f5c0B903r/ssrOx4bp3ORa7pXR7eJQ/hlasovanie_130623_31_60.pdf",
+          "note": "Vote 31: present39=yes37+nonvoting2; absent2. Verified from original PDF using embedded-font Unicode cmap."
+        }
+      ]
+    },
+    "2023-06-14": {
+      "options": [
+        "yes",
+        "no",
+        "abstain",
+        "not_voting"
+      ],
+      "sources": [
+        {
+          "url": "https://static.kosice.sk/meeting/vote/0k5X04gepaxeHOsYm/Ec282qG2TN0voObw0Iw3/kfQmaZFtiXjuYHP38I/hlasovanie_130623_91_106.pdf",
+          "note": "Continuation after midnight, vote104 on14June: present31=yes29+abstain1+nonvoting1."
+        }
+      ]
+    }
+  },
+  "source_present_options_by_event": {
+    "202410-2024-10-28-001": {
+      "options": [
+        "not_voting"
+      ],
+      "sources": [
+        {
+          "url": "https://static.kosice.sk/meeting/results/piY2Y1tJYrGqAbLY41e0/5WfmBQLTSvGdf1Hw/y6sRKo1nTAgkQlAOK/zoznam_hlasovani_temy_a_vysledky.pdf",
+          "note": "Vote 1 reports 37 present and zero yes/no/abstain; the manual matrix marks those 37 as Z and four as A. It is recorded as a test attendance check, with Z represented as not_voting."
+        }
+      ]
+    }
+  }
+}

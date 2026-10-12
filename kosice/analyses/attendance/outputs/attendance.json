@@ -1,0 +1,658 @@
+[
+  {
+    "person_id": "kosice:person:1",
+    "vote_events_total": 2072,
+    "present": 1705,
+    "absent": 367,
+    "name": "Iveta Adamčíková",
+    "given_names": [
+      "Iveta"
+    ],
+    "family_names": [
+      "Adamčíková"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8228764479
+  },
+  {
+    "person_id": "kosice:person:10",
+    "vote_events_total": 2072,
+    "present": 1829,
+    "absent": 243,
+    "name": "Patrik Géci",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Géci"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8827220077
+  },
+  {
+    "person_id": "kosice:person:11",
+    "vote_events_total": 2072,
+    "present": 1598,
+    "absent": 474,
+    "name": "Marcel Gibóda",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Gibóda"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7712355212
+  },
+  {
+    "person_id": "kosice:person:12",
+    "vote_events_total": 2072,
+    "present": 1988,
+    "absent": 84,
+    "name": "Lucia Gurbáľová",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Gurbáľová"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.9594594595
+  },
+  {
+    "person_id": "kosice:person:13",
+    "vote_events_total": 2072,
+    "present": 1965,
+    "absent": 107,
+    "name": "Marián Horenský",
+    "given_names": [
+      "Marián"
+    ],
+    "family_names": [
+      "Horenský"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.9483590734
+  },
+  {
+    "person_id": "kosice:person:14",
+    "vote_events_total": 2072,
+    "present": 2031,
+    "absent": 41,
+    "name": "Miloš Ihnát",
+    "given_names": [
+      "Miloš"
+    ],
+    "family_names": [
+      "Ihnát"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.9802123552
+  },
+  {
+    "person_id": "kosice:person:15",
+    "vote_events_total": 2072,
+    "present": 1361,
+    "absent": 711,
+    "name": "Lucia Iľaščíková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Iľaščíková"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.6568532819
+  },
+  {
+    "person_id": "kosice:person:16",
+    "vote_events_total": 2072,
+    "present": 1414,
+    "absent": 658,
+    "name": "Marek Kandráč",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Kandráč"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.6824324324
+  },
+  {
+    "person_id": "kosice:person:17",
+    "vote_events_total": 2072,
+    "present": 1434,
+    "absent": 638,
+    "name": "Jozef Karabin",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Karabin"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.6920849421
+  },
+  {
+    "person_id": "kosice:person:18",
+    "vote_events_total": 2072,
+    "present": 1705,
+    "absent": 367,
+    "name": "Dominik Karaffa",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Karaffa"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8228764479
+  },
+  {
+    "person_id": "kosice:person:19",
+    "vote_events_total": 2072,
+    "present": 997,
+    "absent": 1075,
+    "name": "Viliam Knap",
+    "given_names": [
+      "Viliam"
+    ],
+    "family_names": [
+      "Knap"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.4811776062
+  },
+  {
+    "person_id": "kosice:person:2",
+    "vote_events_total": 2072,
+    "present": 1648,
+    "absent": 424,
+    "name": "Jozef Andrejčák",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Andrejčák"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7953667954
+  },
+  {
+    "person_id": "kosice:person:20",
+    "vote_events_total": 2072,
+    "present": 1562,
+    "absent": 510,
+    "name": "Lenka Kovačevičová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Kovačevičová"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7538610039
+  },
+  {
+    "person_id": "kosice:person:21",
+    "vote_events_total": 2072,
+    "present": 1849,
+    "absent": 223,
+    "name": "Michal Krcho",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Krcho"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8923745174
+  },
+  {
+    "person_id": "kosice:person:22",
+    "vote_events_total": 2072,
+    "present": 1622,
+    "absent": 450,
+    "name": "Matej Kundrát",
+    "given_names": [
+      "Matej"
+    ],
+    "family_names": [
+      "Kundrát"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7828185328
+  },
+  {
+    "person_id": "kosice:person:23",
+    "vote_events_total": 2072,
+    "present": 1335,
+    "absent": 737,
+    "name": "Štefan Lasky",
+    "given_names": [
+      "Štefan"
+    ],
+    "family_names": [
+      "Lasky"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.6443050193
+  },
+  {
+    "person_id": "kosice:person:24",
+    "vote_events_total": 2072,
+    "present": 1794,
+    "absent": 278,
+    "name": "Ladislav Lörinc",
+    "given_names": [
+      "Ladislav"
+    ],
+    "family_names": [
+      "Lörinc"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8658301158
+  },
+  {
+    "person_id": "kosice:person:25",
+    "vote_events_total": 2072,
+    "present": 1961,
+    "absent": 111,
+    "name": "Roman Matoušek",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Matoušek"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.9464285714
+  },
+  {
+    "person_id": "kosice:person:26",
+    "vote_events_total": 2072,
+    "present": 1870,
+    "absent": 202,
+    "name": "Peter Múdry",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Múdry"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.9025096525
+  },
+  {
+    "person_id": "kosice:person:27",
+    "vote_events_total": 2072,
+    "present": 1472,
+    "absent": 600,
+    "name": "Igor Petrovčik",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Petrovčik"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7104247104
+  },
+  {
+    "person_id": "kosice:person:28",
+    "vote_events_total": 2072,
+    "present": 1983,
+    "absent": 89,
+    "name": "Vladimír Saxa",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Saxa"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.957046332
+  },
+  {
+    "person_id": "kosice:person:29",
+    "vote_events_total": 2072,
+    "present": 889,
+    "absent": 1183,
+    "name": "Ján Sekáč",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Sekáč"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.4290540541
+  },
+  {
+    "person_id": "kosice:person:3",
+    "vote_events_total": 2072,
+    "present": 1807,
+    "absent": 265,
+    "name": "Dominik Babušík",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Babušík"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8721042471
+  },
+  {
+    "person_id": "kosice:person:30",
+    "vote_events_total": 2072,
+    "present": 961,
+    "absent": 1111,
+    "name": "Martin Seman",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Seman"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.4638030888
+  },
+  {
+    "person_id": "kosice:person:31",
+    "vote_events_total": 2072,
+    "present": 1664,
+    "absent": 408,
+    "name": "Róbert Schwarcz",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Schwarcz"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8030888031
+  },
+  {
+    "person_id": "kosice:person:32",
+    "vote_events_total": 2072,
+    "present": 1210,
+    "absent": 862,
+    "name": "Andrej Sitkár",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Sitkár"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.583976834
+  },
+  {
+    "person_id": "kosice:person:33",
+    "vote_events_total": 2072,
+    "present": 1609,
+    "absent": 463,
+    "name": "Zuzana Slivenská",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Slivenská"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7765444015
+  },
+  {
+    "person_id": "kosice:person:34",
+    "vote_events_total": 2072,
+    "present": 1652,
+    "absent": 420,
+    "name": "Anna Súkeníková",
+    "given_names": [
+      "Anna"
+    ],
+    "family_names": [
+      "Súkeníková"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7972972973
+  },
+  {
+    "person_id": "kosice:person:35",
+    "vote_events_total": 2072,
+    "present": 1697,
+    "absent": 375,
+    "name": "Marcel Šaňa",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Šaňa"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.819015444
+  },
+  {
+    "person_id": "kosice:person:36",
+    "vote_events_total": 2072,
+    "present": 1692,
+    "absent": 380,
+    "name": "Miroslav Špak",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Špak"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8166023166
+  },
+  {
+    "person_id": "kosice:person:37",
+    "vote_events_total": 2072,
+    "present": 1715,
+    "absent": 357,
+    "name": "František Ténai",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Ténai"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8277027027
+  },
+  {
+    "person_id": "kosice:person:38",
+    "vote_events_total": 2072,
+    "present": 1735,
+    "absent": 337,
+    "name": "Tomáš Vasok",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Vasok"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8373552124
+  },
+  {
+    "person_id": "kosice:person:39",
+    "vote_events_total": 2072,
+    "present": 1747,
+    "absent": 325,
+    "name": "Marcel Vrchota",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Vrchota"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8431467181
+  },
+  {
+    "person_id": "kosice:person:4",
+    "vote_events_total": 2072,
+    "present": 1842,
+    "absent": 230,
+    "name": "Tibor Bačinský",
+    "given_names": [
+      "Tibor"
+    ],
+    "family_names": [
+      "Bačinský"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.888996139
+  },
+  {
+    "person_id": "kosice:person:40",
+    "vote_events_total": 2072,
+    "present": 1629,
+    "absent": 443,
+    "name": "Erik Weiss",
+    "given_names": [
+      "Erik"
+    ],
+    "family_names": [
+      "Weiss"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7861969112
+  },
+  {
+    "person_id": "kosice:person:41",
+    "vote_events_total": 2072,
+    "present": 2014,
+    "absent": 58,
+    "name": "Beáta Zemková",
+    "given_names": [
+      "Beáta"
+    ],
+    "family_names": [
+      "Zemková"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.972007722
+  },
+  {
+    "person_id": "kosice:person:5",
+    "vote_events_total": 2072,
+    "present": 1978,
+    "absent": 94,
+    "name": "Bernard Berberich",
+    "given_names": [
+      "Bernard"
+    ],
+    "family_names": [
+      "Berberich"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.9546332046
+  },
+  {
+    "person_id": "kosice:person:6",
+    "vote_events_total": 2072,
+    "present": 1651,
+    "absent": 421,
+    "name": "Peter Berinšter",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Berinšter"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.7968146718
+  },
+  {
+    "person_id": "kosice:person:7",
+    "vote_events_total": 2072,
+    "present": 1747,
+    "absent": 325,
+    "name": "Ľubica Blaškovičová",
+    "given_names": [
+      "Ľubica"
+    ],
+    "family_names": [
+      "Blaškovičová"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8431467181
+  },
+  {
+    "person_id": "kosice:person:8",
+    "vote_events_total": 2072,
+    "present": 1884,
+    "absent": 188,
+    "name": "Michal Djordjevič",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Djordjevič"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.9092664093
+  },
+  {
+    "person_id": "kosice:person:9",
+    "vote_events_total": 2072,
+    "present": 1664,
+    "absent": 408,
+    "name": "Marek Fedoročko",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Fedoročko"
+    ],
+    "since": "2022-11-11",
+    "until": "2026-10-05",
+    "present_share": 0.8030888031
+  }
+]

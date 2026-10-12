@@ -1,0 +1,922 @@
+{
+  "city": "bratislava",
+  "review_status": "draft",
+  "note": "Observed official-profile links connect identities; roster-derived name order needs final review. Former members retained, mayor excluded. Add sourced mandates and same-day oath handling before promotion.",
+  "members": [
+    {
+      "id": "bratislava:person:212609",
+      "name": "Lenka Antalová Plavuchová",
+      "given_name": "Lenka",
+      "family_name": "Antalová Plavuchová",
+      "source_names": [
+        "Mgr. Antalová Plavuchová Lenka"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212609-sk/antalova-plavuchova-lenka/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:143964",
+      "name": "Katarína Augustinič",
+      "given_name": "Katarína",
+      "family_name": "Augustinič",
+      "source_names": [
+        "Ing. Augustinič Katarína"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/143964-sk/augustinic-katarina/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212682",
+      "name": "Adam Berka",
+      "given_name": "Adam",
+      "family_name": "Berka",
+      "source_names": [
+        "Mgr. art. Berka Adam"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212682-sk/berka-adam/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145440",
+      "name": "Dana Čahojová",
+      "given_name": "Dana",
+      "family_name": "Čahojová",
+      "source_names": [
+        "MUDr. Čahojová Dana"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145440-sk/cahojova-dana/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145466",
+      "name": "Martin Chren",
+      "given_name": "Martin",
+      "family_name": "Chren",
+      "source_names": [
+        "Ing. Chren Martin"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145466-sk/chren-martin/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145445",
+      "name": "Gabriela Ferenčáková",
+      "given_name": "Gabriela",
+      "family_name": "Ferenčáková",
+      "source_names": [
+        "Ferenčáková Gabriela"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145445-sk/ferencakova-gabriela/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145474",
+      "name": "Ján Hrčka",
+      "given_name": "Ján",
+      "family_name": "Hrčka",
+      "source_names": [
+        "Ing. Hrčka Ján"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145474-sk/hrcka-jan/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145476",
+      "name": "Radovan Jenčík",
+      "given_name": "Radovan",
+      "family_name": "Jenčík",
+      "source_names": [
+        "Jenčík Radovan"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145476-sk/jencik-radovan/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145477",
+      "name": "Juraj Káčer",
+      "given_name": "Juraj",
+      "family_name": "Káčer",
+      "source_names": [
+        "Ing. Káčer Juraj"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145477-sk/kacer-juraj/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212687",
+      "name": "Ján Karman",
+      "given_name": "Ján",
+      "family_name": "Karman",
+      "source_names": [
+        "Ing. Karman Ján"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212687-sk/karman-jan/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212920",
+      "name": "Dárius Krajčír",
+      "given_name": "Dárius",
+      "family_name": "Krajčír",
+      "source_names": [
+        "Krajčír Dárius"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212920-sk/krajcir-darius/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212690",
+      "name": "Tatiana Kratochvílová",
+      "given_name": "Tatiana",
+      "family_name": "Kratochvílová",
+      "source_names": [
+        "Ing. Kratochvílová Tatiana"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212690-sk/kratochvilova-tatiana/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145451",
+      "name": "Jozef Krúpa",
+      "given_name": "Jozef",
+      "family_name": "Krúpa",
+      "source_names": [
+        "Ing. Krúpa Jozef"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145451-sk/krupa-jozef/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": [
+        {
+          "since": "2022-11-29",
+          "since_event": "2022-11-29-007",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+              "note": "Printed pp25–26: both councillors took oath before vote on resolution2/2022. Named HTML lists omit them in votes1–6 and include them from vote7."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bratislava:person:145452",
+      "name": "Martin Kuruc",
+      "given_name": "Martin",
+      "family_name": "Kuruc",
+      "source_names": [
+        "JUDr. Ing. Kuruc Martin"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145452-sk/kuruc-martin/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212692",
+      "name": "Roman Lamoš",
+      "given_name": "Roman",
+      "family_name": "Lamoš",
+      "source_names": [
+        "Ing. Lamoš Roman"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212692-sk/lamos-roman/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212693",
+      "name": "Jakub Mrva",
+      "given_name": "Jakub",
+      "family_name": "Mrva",
+      "source_names": [
+        "Ing. Mrva Jakub"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212693-sk/mrva-jakub/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145455",
+      "name": "Alžbeta Ožvaldová",
+      "given_name": "Alžbeta",
+      "family_name": "Ožvaldová",
+      "source_names": [
+        "PhDr. Ožvaldová Alžbeta"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145455-sk/ozvaldova-alzbeta/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212849",
+      "name": "Igor Polakovič",
+      "given_name": "Igor",
+      "family_name": "Polakovič",
+      "source_names": [
+        "Polakovič Igor"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212849-sk/polakovic-igor/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145485",
+      "name": "Lucia Štasselová",
+      "given_name": "Lucia",
+      "family_name": "Štasselová",
+      "source_names": [
+        "Ing. arch. Štasselová Lucia"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145485-sk/stasselova-lucia/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145488",
+      "name": "Jozef Uhler",
+      "given_name": "Jozef",
+      "family_name": "Uhler",
+      "source_names": [
+        "JUDr. Mgr. Uhler Jozef"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145488-sk/uhler-jozef/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212708",
+      "name": "Matej Vagač",
+      "given_name": "Matej",
+      "family_name": "Vagač",
+      "source_names": [
+        "Ing. Vagač Matej"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212708-sk/vagac-matej/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212709",
+      "name": "Jakub Vallo",
+      "given_name": "Jakub",
+      "family_name": "Vallo",
+      "source_names": [
+        "MUDr. Vallo Jakub, MPH"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212709-sk/vallo-jakub/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212710",
+      "name": "Martin Vlačiky",
+      "given_name": "Martin",
+      "family_name": "Vlačiky",
+      "source_names": [
+        "Mgr. Vlačiky Martin, PhD."
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212710-sk/vlaciky-martin/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:212918",
+      "name": "Michal Vlček",
+      "given_name": "Michal",
+      "family_name": "Vlček",
+      "source_names": [
+        "Ing. Vlček Michal"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/212918-sk/vlcek-michal/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": [
+        {
+          "since": "2022-11-29",
+          "since_event": "2022-11-29-007",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+              "note": "Printed pp25–26: both councillors took oath before vote on resolution2/2022. Named HTML lists omit them in votes1–6 and include them from vote7."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bratislava:person:197872",
+      "name": "Branislav Záhradník",
+      "given_name": "Branislav",
+      "family_name": "Záhradník",
+      "source_names": [
+        "PhDr. JUDr. Záhradník Branislav"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/197872-sk/zahradnik-branislav/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:145464",
+      "name": "Zdenka Zaťovičová",
+      "given_name": "Zdenka",
+      "family_name": "Zaťovičová",
+      "source_names": [
+        "Mgr. Zaťovičová Zdenka"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/145464-sk/zatovicova-zdenka/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297320",
+      "name": "Kamil Bodnár",
+      "given_name": "Kamil",
+      "family_name": "Bodnár",
+      "source_names": [
+        "Mgr. Bodnár Kamil"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297320-sk/bodnar-kamil/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297321",
+      "name": "Matúš Čupka",
+      "given_name": "Matúš",
+      "family_name": "Čupka",
+      "source_names": [
+        "Mgr. Čupka Matúš"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297321-sk/cupka-matus/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297322",
+      "name": "Dávid Dej",
+      "given_name": "Dávid",
+      "family_name": "Dej",
+      "source_names": [
+        "Mgr. Dej Dávid"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297322-sk/dej-david/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297323",
+      "name": "Monika Ďurajková",
+      "given_name": "Monika",
+      "family_name": "Ďurajková",
+      "source_names": [
+        "Ing. Ďurajková Monika"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297323-sk/durajkova-monika/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297324",
+      "name": "Oskar Dvořák",
+      "given_name": "Oskar",
+      "family_name": "Dvořák",
+      "source_names": [
+        "Mgr. Dvořák Oskar"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297324-sk/dvorak-oskar/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297325",
+      "name": "Petra Hudáková",
+      "given_name": "Petra",
+      "family_name": "Hudáková",
+      "source_names": [
+        "JUDr. Hudáková Petra"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297325-sk/hudakova-petra/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297326",
+      "name": "Lenka Jakubčová",
+      "given_name": "Lenka",
+      "family_name": "Jakubčová",
+      "source_names": [
+        "Mgr. Jakubčová Lenka"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297326-sk/jakubcova-lenka/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297336",
+      "name": "Jana Jakubkovič",
+      "given_name": "Jana",
+      "family_name": "Jakubkovič",
+      "source_names": [
+        "JUDr. Jakubkovič Jana"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297336-sk/jakubkovic-jana/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297327",
+      "name": "Dana Kleinert",
+      "given_name": "Dana",
+      "family_name": "Kleinert",
+      "source_names": [
+        "Mgr. art. Kleinert Dana"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297327-sk/kleinert-dana/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297337",
+      "name": "Daniel Klimovský",
+      "given_name": "Daniel",
+      "family_name": "Klimovský",
+      "source_names": [
+        "doc. PhDr. Klimovský Daniel, PhD."
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297337-sk/klimovsky-daniel/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297328",
+      "name": "Marek et Mgr. Machata",
+      "given_name": "Marek",
+      "family_name": "et Mgr. Machata",
+      "source_names": [
+        "Mgr. et Mgr. Machata Marek"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297328-sk/machata-marek/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297329",
+      "name": "Miroslav Macko",
+      "given_name": "Miroslav",
+      "family_name": "Macko",
+      "source_names": [
+        "Mgr. Macko Miroslav"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297329-sk/macko-miroslav/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297330",
+      "name": "Róbert Pajdlhauser",
+      "given_name": "Róbert",
+      "family_name": "Pajdlhauser",
+      "source_names": [
+        "Ing. Pajdlhauser Róbert"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297330-sk/pajdlhauser-robert/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297331",
+      "name": "Martin Patoprstý",
+      "given_name": "Martin",
+      "family_name": "Patoprstý",
+      "source_names": [
+        "Ing. Patoprstý Martin"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297331-sk/patoprsty-martin/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297332",
+      "name": "Lucia Plaváková",
+      "given_name": "Lucia",
+      "family_name": "Plaváková",
+      "source_names": [
+        "JUDr. Plaváková Lucia, PhD."
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297332-sk/plavakova-lucia/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297334",
+      "name": "Adam Sarlós",
+      "given_name": "Adam",
+      "family_name": "Sarlós",
+      "source_names": [
+        "Bc. Sarlós Adam"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297334-sk/sarlos-adam/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297335",
+      "name": "Martin Winkler",
+      "given_name": "Martin",
+      "family_name": "Winkler",
+      "source_names": [
+        "Mgr. Winkler Martin"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297335-sk/winkler-martin/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:313925",
+      "name": "Pavol Škápik",
+      "given_name": "Pavol",
+      "family_name": "Škápik",
+      "source_names": [
+        "Mgr. Škápik Pavol"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/313925-sk/skapik-pavol/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "nastúpil 29.02.2024",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:slug-patoprsta-smatana-elena",
+      "name": "Elena Pätoprstá Smatana",
+      "given_name": "Elena",
+      "family_name": "Pätoprstá Smatana",
+      "source_names": [
+        "Ing. arch. Mgr. art. Pätoprstá Smatana Elena"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/patoprsta-smatana-elena/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "nastúpila 25.04.2024",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:215312",
+      "name": "Jakub Kuruc",
+      "given_name": "Jakub",
+      "family_name": "Kuruc",
+      "source_names": [
+        "Kuruc Jakub"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/215312-sk/kuruc-jakub/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "vzdal sa mandátu k 15.4.2024",
+      "mandates": []
+    },
+    {
+      "id": "bratislava:person:297333",
+      "name": "Michal Sabo",
+      "given_name": "Michal",
+      "family_name": "Sabo",
+      "source_names": [
+        "Mgr. Sabo Michal"
+      ],
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/297333-sk/sabo-michal/"
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+        }
+      ],
+      "mandate_note": "vzdanie sa mandátu ku dňu 15.12.2023",
+      "mandates": []
+    }
+  ]
+}

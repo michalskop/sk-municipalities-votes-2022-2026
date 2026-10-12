@@ -1,0 +1,980 @@
+{
+  "city": "bratislava",
+  "review_status": "reviewed",
+  "identity_review_status": "reviewed",
+  "mandate_review_status": "reviewed",
+  "checked_on": "2026-10-11",
+  "method": "Membership starts are based on oath minutes. Delayed oaths and replacement oaths are ordered against numbered roll-call events; resignations use the official effective date, represented as the prior inclusive service day.",
+  "sources": [
+    {
+      "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+    },
+    {
+      "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+    },
+    {
+      "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+    },
+    {
+      "url": "https://zastupitelstvo.bratislava.sk/data/att/71788.pdf"
+    },
+    {
+      "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-29022024/bod-1/"
+    },
+    {
+      "url": "https://zastupitelstvo.bratislava.sk/data/att/72718.pdf"
+    },
+    {
+      "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-25042024/bod-1/"
+    }
+  ],
+  "members": [
+    {
+      "person_id": "bratislava:person:212609",
+      "name": "Lenka Antalová Plavuchová",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212609-sk/antalova-plavuchova-lenka/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:143964",
+      "name": "Katarína Augustinič",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/143964-sk/augustinic-katarina/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212682",
+      "name": "Adam Berka",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212682-sk/berka-adam/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145440",
+      "name": "Dana Čahojová",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145440-sk/cahojova-dana/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145466",
+      "name": "Martin Chren",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145466-sk/chren-martin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145445",
+      "name": "Gabriela Ferenčáková",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145445-sk/ferencakova-gabriela/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145474",
+      "name": "Ján Hrčka",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145474-sk/hrcka-jan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145476",
+      "name": "Radovan Jenčík",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145476-sk/jencik-radovan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145477",
+      "name": "Juraj Káčer",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145477-sk/kacer-juraj/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212687",
+      "name": "Ján Karman",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212687-sk/karman-jan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212920",
+      "name": "Dárius Krajčír",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212920-sk/krajcir-darius/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212690",
+      "name": "Tatiana Kratochvílová",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212690-sk/kratochvilova-tatiana/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145451",
+      "name": "Jozef Krúpa",
+      "periods": [
+        {
+          "since": "2022-11-29",
+          "since_event": "2022-11-29-007",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145451-sk/krupa-jozef/"
+            }
+          ],
+          "note": "The minutes place this oath before vote 7; votes 1–6 contain 43 sworn members and vote 7 contains all 45."
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145452",
+      "name": "Martin Kuruc",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145452-sk/kuruc-martin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212692",
+      "name": "Roman Lamoš",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212692-sk/lamos-roman/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212693",
+      "name": "Jakub Mrva",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212693-sk/mrva-jakub/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145455",
+      "name": "Alžbeta Ožvaldová",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145455-sk/ozvaldova-alzbeta/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212849",
+      "name": "Igor Polakovič",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212849-sk/polakovic-igor/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145485",
+      "name": "Lucia Štasselová",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145485-sk/stasselova-lucia/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145488",
+      "name": "Jozef Uhler",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145488-sk/uhler-jozef/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212708",
+      "name": "Matej Vagač",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212708-sk/vagac-matej/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212709",
+      "name": "Jakub Vallo",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212709-sk/vallo-jakub/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212710",
+      "name": "Martin Vlačiky",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212710-sk/vlaciky-martin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212918",
+      "name": "Michal Vlček",
+      "periods": [
+        {
+          "since": "2022-11-29",
+          "since_event": "2022-11-29-007",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/212918-sk/vlcek-michal/"
+            }
+          ],
+          "note": "The minutes place this oath before vote 7; votes 1–6 contain 43 sworn members and vote 7 contains all 45."
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:197872",
+      "name": "Branislav Záhradník",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/197872-sk/zahradnik-branislav/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145464",
+      "name": "Zdenka Zaťovičová",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/145464-sk/zatovicova-zdenka/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297320",
+      "name": "Kamil Bodnár",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297320-sk/bodnar-kamil/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297321",
+      "name": "Matúš Čupka",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297321-sk/cupka-matus/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297322",
+      "name": "Dávid Dej",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297322-sk/dej-david/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297323",
+      "name": "Monika Ďurajková",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297323-sk/durajkova-monika/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297324",
+      "name": "Oskar Dvořák",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297324-sk/dvorak-oskar/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297325",
+      "name": "Petra Hudáková",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297325-sk/hudakova-petra/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297326",
+      "name": "Lenka Jakubčová",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297326-sk/jakubcova-lenka/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297336",
+      "name": "Jana Jakubkovič",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297336-sk/jakubkovic-jana/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297327",
+      "name": "Dana Kleinert",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297327-sk/kleinert-dana/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297337",
+      "name": "Daniel Klimovský",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297337-sk/klimovsky-daniel/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297328",
+      "name": "Marek et Mgr. Machata",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297328-sk/machata-marek/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297329",
+      "name": "Miroslav Macko",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297329-sk/macko-miroslav/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297330",
+      "name": "Róbert Pajdlhauser",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297330-sk/pajdlhauser-robert/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297331",
+      "name": "Martin Patoprstý",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297331-sk/patoprsty-martin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297332",
+      "name": "Lucia Plaváková",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297332-sk/plavakova-lucia/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297334",
+      "name": "Adam Sarlós",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297334-sk/sarlos-adam/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297335",
+      "name": "Martin Winkler",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297335-sk/winkler-martin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:313925",
+      "name": "Pavol Škápik",
+      "periods": [
+        {
+          "since": "2024-02-29",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/71788.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-29022024/bod-1/"
+            }
+          ],
+          "note": "The minutes record the oath before all roll-call votes; the first roll-call is the inclusive boundary.",
+          "since_event": "2024-02-29-001"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+      "name": "Elena Pätoprstá Smatana",
+      "periods": [
+        {
+          "since": "2024-04-25",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/72718.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-25042024/bod-1/"
+            }
+          ],
+          "note": "The minutes record the oath before all roll-call votes. Vote 1 records her absent; she is still an active member for that event.",
+          "since_event": "2024-04-25-001"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:215312",
+      "name": "Jakub Kuruc",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/215312-sk/kuruc-jakub/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-25042024/bod-1/"
+            }
+          ],
+          "until": "2024-04-14",
+          "note": "Resolution 477/2024 records resignation effective 15 April 2024; 14 April is the last day before that effective date."
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297333",
+      "name": "Michal Sabo",
+      "periods": [
+        {
+          "since": "2022-11-15",
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297353-sk/uznesenia/uznesenie/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/297333-sk/sabo-michal/"
+            },
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/"
+            }
+          ],
+          "until": "2023-12-14",
+          "note": "The official roster records resignation effective 15 December 2023; 14 December is the last day before that effective date."
+        }
+      ]
+    }
+  ],
+  "identity_review_note": "Every Bratislava roll-call source name matches one reviewed official profile ID. Košice H.E.R. names match one official ID; the five distinct manual-matrix title variants are mapped explicitly in source/manual-matrix-identities.json, tied to the original PDF hash."
+}

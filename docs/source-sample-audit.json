@@ -1,0 +1,239 @@
+{
+  "scope": "pinned source samples; not full-term coverage or production data",
+  "events": 11,
+  "individual_votes": 455,
+  "samples": [
+    {
+      "city": "bratislava",
+      "input": "bratislava/source/extracts/2023-12-14-vote-32.json",
+      "input_sha256": "d4b0221ab8b95c79bffadef61e7b1f37e5e2cd2ee101cadadcf656cb30b33dc5",
+      "status": "draft",
+      "events": [
+        {
+          "id": "2023-12-14-032",
+          "date": "2023-12-14",
+          "votes": 45,
+          "counts": {
+            "yes": 29,
+            "no": 0,
+            "abstain": 0,
+            "not_voting": 3,
+            "absent": 13
+          },
+          "source_present": 32,
+          "sources": [
+            {
+              "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-14122023/bod-20/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "kosice",
+      "input": "kosice/source/extracts/2022-11-11-votes-21-29.json",
+      "input_sha256": "77e64e728a35ddfd09b67285f41b51cb6b3406ccbfed5b856a4b75c773c48d55",
+      "status": "draft",
+      "events": [
+        {
+          "id": "202201-2022-11-11-021",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 36,
+            "no": 0,
+            "abstain": 3,
+            "not_voting": 2,
+            "absent": 0
+          },
+          "source_present": 39,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 1"
+            }
+          ]
+        },
+        {
+          "id": "202201-2022-11-11-022",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 13,
+            "no": 4,
+            "abstain": 19,
+            "not_voting": 5,
+            "absent": 0
+          },
+          "source_present": 36,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 2"
+            }
+          ]
+        },
+        {
+          "id": "202201-2022-11-11-023",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 40,
+            "no": 0,
+            "abstain": 0,
+            "not_voting": 1,
+            "absent": 0
+          },
+          "source_present": 40,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 3"
+            }
+          ]
+        },
+        {
+          "id": "202201-2022-11-11-024",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 40,
+            "no": 1,
+            "abstain": 0,
+            "not_voting": 0,
+            "absent": 0
+          },
+          "source_present": 41,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 4"
+            }
+          ]
+        },
+        {
+          "id": "202201-2022-11-11-025",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 40,
+            "no": 1,
+            "abstain": 0,
+            "not_voting": 0,
+            "absent": 0
+          },
+          "source_present": 41,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 5"
+            }
+          ]
+        },
+        {
+          "id": "202201-2022-11-11-026",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 40,
+            "no": 1,
+            "abstain": 0,
+            "not_voting": 0,
+            "absent": 0
+          },
+          "source_present": 41,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 6"
+            }
+          ]
+        },
+        {
+          "id": "202201-2022-11-11-027",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 37,
+            "no": 0,
+            "abstain": 1,
+            "not_voting": 3,
+            "absent": 0
+          },
+          "source_present": 38,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 7"
+            }
+          ]
+        },
+        {
+          "id": "202201-2022-11-11-028",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 38,
+            "no": 0,
+            "abstain": 1,
+            "not_voting": 2,
+            "absent": 0
+          },
+          "source_present": 39,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 8"
+            }
+          ]
+        },
+        {
+          "id": "202201-2022-11-11-029",
+          "date": "2022-11-11",
+          "votes": 41,
+          "counts": {
+            "yes": 38,
+            "no": 0,
+            "abstain": 0,
+            "not_voting": 3,
+            "absent": 0
+          },
+          "source_present": 38,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/o7KRUTVCfzGUFDOZp/CLIo1zL8GhC59Ofne2w/FtsurQh83ccJW4/hlasovanie_111122_21_29.pdf",
+              "note": "PDF page 9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "kosice",
+      "input": "kosice/source/extracts/2025-02-27-vote-49.json",
+      "input_sha256": "ea9776e4d3bdce8f0f66c2d63d0614b602abf12582d475bdd626cdb3d84a62d2",
+      "status": "draft",
+      "events": [
+        {
+          "id": "202501-2025-02-27-049",
+          "date": "2025-02-27",
+          "votes": 41,
+          "counts": {
+            "yes": 31,
+            "no": 0,
+            "abstain": 0,
+            "not_voting": 4,
+            "absent": 6
+          },
+          "source_present": 31,
+          "sources": [
+            {
+              "url": "https://static.kosice.sk/meeting/vote/18neCDSndmaEenNu/1BP5a2ASpWP4OFybSWL/P3FmDRddG2eKrOu8v/hlasovanie270225_41_60.pdf",
+              "note": "PDF page 9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

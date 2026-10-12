@@ -1,0 +1,19 @@
+{
+  "city": "kosice",
+  "exceptions": [
+    {
+      "review_status": "reviewed source fact; not full coverage approval",
+      "meeting_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/18",
+      "date": "2024-03-22",
+      "kind": "inquorate_no_votes",
+      "present_members": 18,
+      "sources": [
+        {
+          "url": "https://static.kosice.sk/meeting/memorandum/SYYy7RgnmEbXueEJX/V6BvqocNNX7dVuvn9TEa/hzMRMenvr2URue9RX253/xviii_mz_mimoriadne_22_03_2024.pdf",
+          "sha256": "3f722ad55e08b64307642b4bd1eeb72375f510b190ac7a78bb9c65e33d9193c9",
+          "note": "PDF pages1–2: meeting ended without quorum; next sitting announced."
+        }
+      ]
+    }
+  ]
+}

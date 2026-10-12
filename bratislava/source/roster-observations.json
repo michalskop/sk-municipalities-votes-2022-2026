@@ -1,0 +1,298 @@
+{
+  "city": "bratislava",
+  "review_status": "draft",
+  "observed_on": "2026-10-11",
+  "source_url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026/",
+  "original_sha256": "a5a30d3425a25bb4c07639cdd8f7d831da9aa0eb30d414ca5ca0c8dae1ba899b",
+  "note": "Official roster observations; do not assume continuous mandates or current club labels for earlier votes. Bratislava roster also includes the mayor.",
+  "members": [
+    {
+      "source_person_id": "212609",
+      "source_name": "Mgr. Antalová Plavuchová Lenka",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212609-sk/antalova-plavuchova-lenka/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "143964",
+      "source_name": "Ing. Augustinič Katarína",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/143964-sk/augustinic-katarina/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212682",
+      "source_name": "Mgr. art. Berka Adam",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212682-sk/berka-adam/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145440",
+      "source_name": "MUDr. Čahojová Dana",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145440-sk/cahojova-dana/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145466",
+      "source_name": "Ing. Chren Martin",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145466-sk/chren-martin/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145445",
+      "source_name": "Ferenčáková Gabriela",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145445-sk/ferencakova-gabriela/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145474",
+      "source_name": "Ing. Hrčka Ján",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145474-sk/hrcka-jan/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145476",
+      "source_name": "Jenčík Radovan",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145476-sk/jencik-radovan/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145477",
+      "source_name": "Ing. Káčer Juraj",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145477-sk/kacer-juraj/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212687",
+      "source_name": "Ing. Karman Ján",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212687-sk/karman-jan/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212920",
+      "source_name": "Krajčír Dárius",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212920-sk/krajcir-darius/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212690",
+      "source_name": "Ing. Kratochvílová Tatiana",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212690-sk/kratochvilova-tatiana/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145451",
+      "source_name": "Ing. Krúpa Jozef",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145451-sk/krupa-jozef/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145452",
+      "source_name": "JUDr. Ing. Kuruc Martin",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145452-sk/kuruc-martin/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212692",
+      "source_name": "Ing. Lamoš Roman",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212692-sk/lamos-roman/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212693",
+      "source_name": "Ing. Mrva Jakub",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212693-sk/mrva-jakub/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145455",
+      "source_name": "PhDr. Ožvaldová Alžbeta",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145455-sk/ozvaldova-alzbeta/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212849",
+      "source_name": "Polakovič Igor",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212849-sk/polakovic-igor/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145485",
+      "source_name": "Ing. arch. Štasselová Lucia",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145485-sk/stasselova-lucia/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145488",
+      "source_name": "JUDr. Mgr. Uhler Jozef",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145488-sk/uhler-jozef/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212708",
+      "source_name": "Ing. Vagač Matej",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212708-sk/vagac-matej/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212709",
+      "source_name": "MUDr. Vallo Jakub, MPH",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212709-sk/vallo-jakub/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212710",
+      "source_name": "Mgr. Vlačiky Martin, PhD.",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212710-sk/vlaciky-martin/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212918",
+      "source_name": "Ing. Vlček Michal",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212918-sk/vlcek-michal/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "197872",
+      "source_name": "PhDr. JUDr. Záhradník Branislav",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/197872-sk/zahradnik-branislav/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "145464",
+      "source_name": "Mgr. Zaťovičová Zdenka",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/145464-sk/zatovicova-zdenka/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297320",
+      "source_name": "Mgr. Bodnár Kamil",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297320-sk/bodnar-kamil/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297321",
+      "source_name": "Mgr. Čupka Matúš",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297321-sk/cupka-matus/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297322",
+      "source_name": "Mgr. Dej Dávid",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297322-sk/dej-david/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297323",
+      "source_name": "Ing. Ďurajková Monika",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297323-sk/durajkova-monika/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297324",
+      "source_name": "Mgr. Dvořák Oskar",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297324-sk/dvorak-oskar/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297325",
+      "source_name": "JUDr. Hudáková Petra",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297325-sk/hudakova-petra/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297326",
+      "source_name": "Mgr. Jakubčová Lenka",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297326-sk/jakubcova-lenka/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297336",
+      "source_name": "JUDr. Jakubkovič Jana",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297336-sk/jakubkovic-jana/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297327",
+      "source_name": "Mgr. art. Kleinert Dana",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297327-sk/kleinert-dana/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297337",
+      "source_name": "doc. PhDr. Klimovský Daniel, PhD.",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297337-sk/klimovsky-daniel/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297328",
+      "source_name": "Mgr. et Mgr. Machata Marek",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297328-sk/machata-marek/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297329",
+      "source_name": "Mgr. Macko Miroslav",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297329-sk/macko-miroslav/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297330",
+      "source_name": "Ing. Pajdlhauser Róbert",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297330-sk/pajdlhauser-robert/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297331",
+      "source_name": "Ing. Patoprstý Martin",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297331-sk/patoprsty-martin/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297332",
+      "source_name": "JUDr. Plaváková Lucia, PhD.",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297332-sk/plavakova-lucia/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297334",
+      "source_name": "Bc. Sarlós Adam",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297334-sk/sarlos-adam/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "297335",
+      "source_name": "Mgr. Winkler Martin",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297335-sk/winkler-martin/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "212589",
+      "source_name": "Ing. arch. Vallo Matúš",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/212589-sk/vallo-matus/",
+      "mandate_note": ""
+    },
+    {
+      "source_person_id": "313925",
+      "source_name": "Mgr. Škápik Pavol",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/313925-sk/skapik-pavol/",
+      "mandate_note": "nastúpil 29.02.2024"
+    },
+    {
+      "source_person_id": "slug-patoprsta-smatana-elena",
+      "source_name": "Ing. arch. Mgr. art. Pätoprstá Smatana Elena",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/patoprsta-smatana-elena/",
+      "mandate_note": "nastúpila 25.04.2024"
+    },
+    {
+      "source_person_id": "215312",
+      "source_name": "Kuruc Jakub",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/215312-sk/kuruc-jakub/",
+      "mandate_note": "vzdal sa mandátu k 15.4.2024"
+    },
+    {
+      "source_person_id": "297333",
+      "source_name": "Mgr. Sabo Michal",
+      "profile_url": "https://zastupitelstvo.bratislava.sk/297333-sk/sabo-michal/",
+      "mandate_note": "vzdanie sa mandátu ku dňu 15.12.2023"
+    }
+  ]
+}

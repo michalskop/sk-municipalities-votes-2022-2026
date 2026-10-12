@@ -1,0 +1,26 @@
+import type { CityTranslations } from "../city.config";
+
+export const citySk: CityTranslations = {
+  nav: { overview: "Prehľad", members: "Poslanci" },
+  member: { singular: "poslanec/poslankyňa", plural: "Poslanci a poslankyne",
+    current: "Súčasní poslanci a poslankyne", former: "Bývalí poslanci a poslankyne" },
+  metrics: { attendance: "Účasť na hlasovaniach", rebelity: "Rebelita", govity: "Zhoda s koalíciou",
+    corrections: "Opravy hlasovania", wpca: "Podobnosť hlasovania" },
+  ui: { memberCount: "{n} poslancov", voteCount: "z {total} hlasovaní", rebelVotes: "{n} hlasovaní proti klubu",
+    announcedCorrections: "{n} oznámených", outOf: "z", currentMembers: "Súčasní poslanci a poslankyne",
+    backToOverview: "← Späť na prehľad" },
+  home: { title: "{city} — mestské zastupiteľstvo",
+    description: "Menovité hlasovania mestského zastupiteľstva vo volebnom období 2022–2026.",
+    membersCardTitle: "Poslanci a poslankyne", membersCardDescription: "Členovia zastupiteľstva a ich účasť na hlasovaniach.",
+    groupsCardTitle: "Kluby", groupsCardDescription: "Historické členstvo v kluboch zatiaľ nie je overené." },
+  about: { navLabel: "O projekte" },
+  seo: { siteTitle: "{city} — Mestá.DataTimes.sk", titleSuffix: " — {city} — Mestá.DataTimes.sk",
+    defaultDescription: "Menovité hlasovania mestského zastupiteľstva a účasť poslancov a poslankýň, 2022–2026." },
+  footer: { dataSource: "Dáta: oficiálny archív mestského zastupiteľstva, 2022–2026",
+    aboutSection: "O projekte", projectsSection: "Naše projekty", contactSection: "Kontakt" },
+  table: { allFilter: "Všetci", sortAsc: "Zoradiť vzostupne", sortDesc: "Zoradiť zostupne",
+    name: "Poslanec/poslankyňa", party: "Klub", attendance: "Účasť", rebelity: "Rebelita",
+    govity: "Zhoda s koalíciou", corrections: "Opravy hlasovania" },
+  charts: { average: "Priemer", wpca: { govAxisLabelPositive: "Koalícia",
+    govAxisLabelNegative: "Koalícia", otherAxisLabel: "Hlasovanie" } },
+};

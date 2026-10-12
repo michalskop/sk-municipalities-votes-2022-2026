@@ -1,0 +1,796 @@
+{
+  "city": "kosice",
+  "review_status": "draft",
+  "note": "Aliases cross-checked against all extracted H.E.R. rows and official profile IDs. Mandate sources/dates and final review remain required. Do not promote a draft by changing its flag alone.",
+  "members": [
+    {
+      "id": "kosice:person:1",
+      "name": "Iveta Adamčíková",
+      "given_name": "Iveta",
+      "family_name": "Adamčíková",
+      "source_person_id": "1",
+      "source_names": [
+        "Iveta Adamčíková"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/1-adamcikova-iveta"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:3",
+      "name": "Dominik Babušík",
+      "given_name": "Dominik",
+      "family_name": "Babušík",
+      "source_person_id": "3",
+      "source_names": [
+        "PhDr. Dominik Babušík"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/3-babusik-dominik"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:9",
+      "name": "Marek Fedoročko",
+      "given_name": "Marek",
+      "family_name": "Fedoročko",
+      "source_person_id": "9",
+      "source_names": [
+        "Mgr. Marek Fedoročko"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/9-fedorocko-marek"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:13",
+      "name": "Marián Horenský",
+      "given_name": "Marián",
+      "family_name": "Horenský",
+      "source_person_id": "13",
+      "source_names": [
+        "Mgr. Marián Horenský, PhD."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/13-horensky-marian"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:22",
+      "name": "Matej Kundrát",
+      "given_name": "Matej",
+      "family_name": "Kundrát",
+      "source_person_id": "22",
+      "source_names": [
+        "Bc. Matej Kundrát",
+        "Mgr. Matej Kundrát"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/22-kundrat-matej"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:24",
+      "name": "Ladislav Lörinc",
+      "given_name": "Ladislav",
+      "family_name": "Lörinc",
+      "source_person_id": "24",
+      "source_names": [
+        "Mgr. Ladislav Lörinc"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/24-lorinc-ladislav"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:25",
+      "name": "Roman Matoušek",
+      "given_name": "Roman",
+      "family_name": "Matoušek",
+      "source_person_id": "25",
+      "source_names": [
+        "Ing. Roman Matoušek"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/25-matousek-roman"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:28",
+      "name": "Vladimír Saxa",
+      "given_name": "Vladimír",
+      "family_name": "Saxa",
+      "source_person_id": "28",
+      "source_names": [
+        "Ing. Vladimír Saxa"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/28-saxa-vladimir"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:31",
+      "name": "Róbert Schwarcz",
+      "given_name": "Róbert",
+      "family_name": "Schwarcz",
+      "source_person_id": "31",
+      "source_names": [
+        "PhDr. Róbert Schwarcz"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/31-schwarcz-robert"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:30",
+      "name": "Martin Seman",
+      "given_name": "Martin",
+      "family_name": "Seman",
+      "source_person_id": "30",
+      "source_names": [
+        "Mgr. Martin Seman"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/30-seman-martin"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:33",
+      "name": "Zuzana Slivenská",
+      "given_name": "Zuzana",
+      "family_name": "Slivenská",
+      "source_person_id": "33",
+      "source_names": [
+        "Mgr. Zuzana Slivenská"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/33-slivenska-zuzana"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:40",
+      "name": "Erik Weiss",
+      "given_name": "Erik",
+      "family_name": "Weiss",
+      "source_person_id": "40",
+      "source_names": [
+        "doc. Ing. Erik Weiss",
+        "doc. Ing. Erik Weiss, PhD.",
+        "doc. Ing. Erok Weiss"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/40-weiss-erik"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:5",
+      "name": "Bernard Berberich",
+      "given_name": "Bernard",
+      "family_name": "Berberich",
+      "source_person_id": "5",
+      "source_names": [
+        "Mgr. Bernard Berberich"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/5-berberich-bernard"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:6",
+      "name": "Peter Berinšter",
+      "given_name": "Peter",
+      "family_name": "Berinšter",
+      "source_person_id": "6",
+      "source_names": [
+        "Mgr. Peter Berinšter"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/6-berinster-peter"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:11",
+      "name": "Marcel Gibóda",
+      "given_name": "Marcel",
+      "family_name": "Gibóda",
+      "source_person_id": "11",
+      "source_names": [
+        "Mgr. Marcel Gibóda"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/11-giboda-marcel"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:12",
+      "name": "Lucia Gurbáľová",
+      "given_name": "Lucia",
+      "family_name": "Gurbáľová",
+      "source_person_id": "12",
+      "source_names": [
+        "Mgr. Lucia Gurbáľová"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/12-gurbalova-lucia"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:23",
+      "name": "Štefan Lasky",
+      "given_name": "Štefan",
+      "family_name": "Lasky",
+      "source_person_id": "23",
+      "source_names": [
+        "Ing. Štefan Lasky"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/23-lasky-stefan"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:26",
+      "name": "Peter Múdry",
+      "given_name": "Peter",
+      "family_name": "Múdry",
+      "source_person_id": "26",
+      "source_names": [
+        "Mgr. Peter Múdry"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/26-mudry-peter"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:35",
+      "name": "Marcel Šaňa",
+      "given_name": "Marcel",
+      "family_name": "Šaňa",
+      "source_person_id": "35",
+      "source_names": [
+        "PhDr. Marcel Šaňa"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/35-sana-marcel"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:29",
+      "name": "Ján Sekáč",
+      "given_name": "Ján",
+      "family_name": "Sekáč",
+      "source_person_id": "29",
+      "source_names": [
+        "MUDr. Ján Sekáč"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/29-sekac-jan"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:38",
+      "name": "Tomáš Vasok",
+      "given_name": "Tomáš",
+      "family_name": "Vasok",
+      "source_person_id": "38",
+      "source_names": [
+        "Tomáš Vasok"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/38-vasok-tomas"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:2",
+      "name": "Jozef Andrejčák",
+      "given_name": "Jozef",
+      "family_name": "Andrejčák",
+      "source_person_id": "2",
+      "source_names": [
+        "Mgr. Jozef Andrejčák",
+        "Mgr. Jozef Andrejčák, PhD."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/2-andrejcak-jozef"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:15",
+      "name": "Lucia Iľaščíková",
+      "given_name": "Lucia",
+      "family_name": "Iľaščíková",
+      "source_person_id": "15",
+      "source_names": [
+        "Ing. Lucia Iľaščíková, PhD."
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/15-ilascikova-lucia"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:16",
+      "name": "Marek Kandráč",
+      "given_name": "Marek",
+      "family_name": "Kandráč",
+      "source_person_id": "16",
+      "source_names": [
+        "Ing. Marek Kandráč"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/16-kandrac-marek"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:19",
+      "name": "Viliam Knap",
+      "given_name": "Viliam",
+      "family_name": "Knap",
+      "source_person_id": "19",
+      "source_names": [
+        "doc. PhDr. Viliam Knap, PhD.,MHA, MPH"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/19-knap-viliam"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:20",
+      "name": "Lenka Kovačevičová",
+      "given_name": "Lenka",
+      "family_name": "Kovačevičová",
+      "source_person_id": "20",
+      "source_names": [
+        "Ing. Mgr. Lenka Kovačevičová"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/20-kovacevicova-lenka"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:21",
+      "name": "Michal Krcho",
+      "given_name": "Michal",
+      "family_name": "Krcho",
+      "source_person_id": "21",
+      "source_names": [
+        "Ing. Michal Krcho"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/21-krcho-michal"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:27",
+      "name": "Igor Petrovčik",
+      "given_name": "Igor",
+      "family_name": "Petrovčik",
+      "source_person_id": "27",
+      "source_names": [
+        "Ing. Igor Petrovčik",
+        "Ing. Igor Petrovčík"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/27-petrovcik-igor"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:36",
+      "name": "Miroslav Špak",
+      "given_name": "Miroslav",
+      "family_name": "Špak",
+      "source_person_id": "36",
+      "source_names": [
+        "Miroslav Špak"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/36-spak-miroslav"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:34",
+      "name": "Anna Súkeníková",
+      "given_name": "Anna",
+      "family_name": "Súkeníková",
+      "source_person_id": "34",
+      "source_names": [
+        "Ing. Anna Súkeníková"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/34-sukenikova-anna"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:4",
+      "name": "Tibor Bačinský",
+      "given_name": "Tibor",
+      "family_name": "Bačinský",
+      "source_person_id": "4",
+      "source_names": [
+        "Ing. Tibor Bačinský"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/4-bacinsky-tibor"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:7",
+      "name": "Ľubica Blaškovičová",
+      "given_name": "Ľubica",
+      "family_name": "Blaškovičová",
+      "source_person_id": "7",
+      "source_names": [
+        "Mgr. art. Ľubica Blaškovičová"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/7-blaskovicova-lubica"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:8",
+      "name": "Michal Djordjevič",
+      "given_name": "Michal",
+      "family_name": "Djordjevič",
+      "source_person_id": "8",
+      "source_names": [
+        "Michal Djordjevič, MBA"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/8-djordjevic-michal"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:10",
+      "name": "Patrik Géci",
+      "given_name": "Patrik",
+      "family_name": "Géci",
+      "source_person_id": "10",
+      "source_names": [
+        "Mgr. Patrik Géci",
+        "PhDr. Patrik Géci"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/10-geci-patrik"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:14",
+      "name": "Miloš Ihnát",
+      "given_name": "Miloš",
+      "family_name": "Ihnát",
+      "source_person_id": "14",
+      "source_names": [
+        "JUDr. Ing. Miloš Ihnát",
+        "Mgr. Ing. Miloš Ihnát"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/14-ihnat-milos"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:17",
+      "name": "Jozef Karabin",
+      "given_name": "Jozef",
+      "family_name": "Karabin",
+      "source_person_id": "17",
+      "source_names": [
+        "Ing. Jozef Karabin",
+        "Ing. Jozef Karabin, MBA"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/17-karabin-jozef"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:18",
+      "name": "Dominik Karaffa",
+      "given_name": "Dominik",
+      "family_name": "Karaffa",
+      "source_person_id": "18",
+      "source_names": [
+        "Mgr. Dominik Karafa",
+        "Mgr. Dominik Karaffa"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/18-karaffa-dominik"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:32",
+      "name": "Andrej Sitkár",
+      "given_name": "Andrej",
+      "family_name": "Sitkár",
+      "source_person_id": "32",
+      "source_names": [
+        "Ing. Andrej Sitkár"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/32-sitkar-andrej"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:37",
+      "name": "František Ténai",
+      "given_name": "František",
+      "family_name": "Ténai",
+      "source_person_id": "37",
+      "source_names": [
+        "Ing. František Ténai, MBA"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/37-tenai-frantisek"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:39",
+      "name": "Marcel Vrchota",
+      "given_name": "Marcel",
+      "family_name": "Vrchota",
+      "source_person_id": "39",
+      "source_names": [
+        "Mgr. Marcel Vrchota"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/39-vrchota-marcel"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    },
+    {
+      "id": "kosice:person:41",
+      "name": "Beáta Zemková",
+      "given_name": "Beáta",
+      "family_name": "Zemková",
+      "source_person_id": "41",
+      "source_names": [
+        "JUDr. Beáta Zemková"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/41-zemkova-beata"
+        },
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+        }
+      ],
+      "mandates": []
+    }
+  ],
+  "unmatched_aliases": []
+}

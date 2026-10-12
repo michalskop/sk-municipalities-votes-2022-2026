@@ -1,0 +1,37 @@
+{
+  "source_url": "https://static.kosice.sk/meeting/vote/aiB2tgHd5bt16ee/LDuzd9FBWKfuOQB/vtqNCVyqyDhIulTdh/hlasovanie281024_1_6_rucne.pdf",
+  "source_sha256": "f83050ce4932eb1f8798042757dbe922d7fee781f553f91a57f8ab22a91bf887",
+  "review_status": "reviewed alias observations; source identity registry remains draft",
+  "mappings": [
+    {
+      "source_name": "Ing. Lucia Iľaščíková, PhD., ING-PAED IGIP",
+      "person_id": "kosice:person:15",
+      "source_person_id": "15",
+      "note": "Unique full-name match to the official roster profile; academic suffix differs from the H.E.R. voting report."
+    },
+    {
+      "source_name": "doc. PhDr. Viliam Knap, PhD., MHA, MPH",
+      "person_id": "kosice:person:19",
+      "source_person_id": "19",
+      "note": "Unique full-name match to the official roster profile; title punctuation differs from the H.E.R. voting report."
+    },
+    {
+      "source_name": "Mgr. Marcel Šaňa",
+      "person_id": "kosice:person:35",
+      "source_person_id": "35",
+      "note": "Unique full-name match to the official roster profile; academic title differs from the H.E.R. voting report."
+    },
+    {
+      "source_name": "Ing. Mgr. Miloš Ihnát",
+      "person_id": "kosice:person:14",
+      "source_person_id": "14",
+      "note": "Unique full-name match to the official roster profile; the manual matrix includes an additional academic title."
+    },
+    {
+      "source_name": "Ing. František Ténai",
+      "person_id": "kosice:person:37",
+      "source_person_id": "37",
+      "note": "Unique full-name match to the official roster profile; the H.E.R. voting report includes the MBA suffix."
+    }
+  ]
+}

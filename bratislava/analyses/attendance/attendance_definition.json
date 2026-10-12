@@ -1,0 +1,13 @@
+{
+  "since": "2022-11-29",
+  "until": "2026-09-17",
+  "present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "absent_options": [
+    "absent",
+    "not_voting"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "city": "bratislava",
+  "exceptions": [
+    {
+      "date": "2022-11-15",
+      "kind": "aggregate_only_inaugural_votes",
+      "meeting_url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-zasadnutie-15112022/",
+      "review_status": "reviewed source fact; no person-level options available",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/64702.pdf",
+          "sha256": "a000c61ee1ce3a7b972348fd292203f695a88427fc9d9a1c282a73ffa5e319f6",
+          "pages": [44, 45],
+          "note": "Minutes record three acclamation votes: election of minute verifiers, election of the drafting committee, and adoption of resolution 1/2022. Each had 43 present, 43 yes, zero no, and zero abstentions. They provide no individual choices, so none is added as a named event."
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "kind": "meeting_sequence_number_gap_resolved",
+      "meeting_url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-06112025/",
+      "review_status": "reviewed source fact; meeting #30 was cancelled/replaced and resolutions are continuous",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/85a/113411.eedf74.pdf",
+          "sha256": "03e6b370a95af414ecaf753ed2f748a1d652dadb8fed1e8a0fc631d666514e8d",
+          "pages": [100],
+          "note": "Minutes of meeting 29 (6 November 2025, Bod 7) and resolution 1037/2025 confirm the schedule change: the originally planned late-November sitting (#30) was replaced by this 6 November sitting, and no further November sitting took place. The next sitting was held on 11 December 2025 (#31). Resolutions are strictly contiguous: meeting 28 ended at resolution 1030/2025, meeting 29 adopted resolutions 1031/2025–1037/2025, and meeting 31 began immediately at resolution 1038/2025."
+        },
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/8d7/120063.6b9589.pdf",
+          "sha256": "44d16f17c325efd022198a870613db12fd5f1809d953f3b066604103dfee9b7d",
+          "pages": [1, 5],
+          "note": "Minutes of meeting 31 (11 December 2025) confirm resolutions begin at 1038/2025, verifying uninterrupted resolution continuity after meeting 29."
+        }
+      ]
+    }
+  ]
+}

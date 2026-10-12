@@ -1,0 +1,54 @@
+{
+  "retrieved_on": "2026-10-11",
+  "files": [
+    {
+      "file": "kosice-encoded.pdf",
+      "transport": "PDF page subset for regression tests; original embedded fonts retained",
+      "original_url": "https://static.kosice.sk/meeting/vote/BKzcFhUhCKKVupW4i/qxJMJWuhHw2POu3jR/K9lKEMdtnStiDQiOR/hlasovanie_130623_1_30.pdf",
+      "original_sha256": "b8a3c3a657f587f89f3cfc6fcf49f57a9020cfedace83a750be420a412b3d6e5",
+      "original_pages": [
+        1,
+        8
+      ],
+      "fixture_sha256": "d319a229c8e68ce423e884353e9191c9b5f4b7a263062cb4c610a2c1ac0d3e7e"
+    },
+    {
+      "file": "kosice-secret.pdf",
+      "transport": "PDF page subset for regression tests; original embedded fonts retained",
+      "original_url": "https://static.kosice.sk/meeting/vote/8h7vzTfdjO6sd910/zlwcCiuBjChfu7NR/zYo1eKxuW0WSPSM/hlasovanie_291123_11_23.pdf",
+      "original_sha256": "2779d5b8957bdd3358d9aa633e25171aa0ce3452508013c5adbd4f8695a3fc63",
+      "original_pages": [
+        1,
+        4
+      ],
+      "fixture_sha256": "358e8330398559e93935473c928c4123b8d7e950b5e029008594b42e1130b0f1"
+    },
+    {
+      "file": "kosice-correction.pdf",
+      "transport": "PDF page subset for regression tests; original embedded fonts retained",
+      "original_url": "https://static.kosice.sk/meeting/vote/B6rLjBNm4xOhSbjlgJ/62HGxEWgV1iBwup3/u6pn5h6kg1RQYOnCFPvk/hlasovanie_120923_61_90_z.pdf",
+      "original_sha256": "0b74354a9657a04a2ed4764c4a8428199e659c43c7c0ee196c9975d8c878633d",
+      "original_pages": [
+        1,
+        31
+      ],
+      "fixture_sha256": "f2d36bf83189022729cf795f5da7bb9928e41fef0606036d466bc5bd6c459388"
+    },
+    {
+      "file": "bratislava-vote.html",
+      "transport": "original HTML downloaded using cookie-preserving session",
+      "original_url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-14122023/bod-20/?bod-typ-312040=hlasovania",
+      "fixture_sha256": "03652a83a21e3ab2a364cd1c0d97e04508e9923a379c97eb7697b7050158f27b"
+    },
+    {
+      "file": "kosice-manual-matrix.pdf",
+      "transport": "original official one-page manual matrix PDF",
+      "original_url": "https://static.kosice.sk/meeting/vote/aiB2tgHd5bt16ee/LDuzd9FBWKfuOQB/vtqNCVyqyDhIulTdh/hlasovanie281024_1_6_rucne.pdf",
+      "original_sha256": "f83050ce4932eb1f8798042757dbe922d7fee781f553f91a57f8ab22a91bf887",
+      "original_pages": [
+        1
+      ],
+      "fixture_sha256": "f83050ce4932eb1f8798042757dbe922d7fee781f553f91a57f8ab22a91bf887"
+    }
+  ]
+}

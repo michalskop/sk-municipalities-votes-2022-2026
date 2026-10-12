@@ -1,0 +1,754 @@
+[
+  {
+    "person_id": "bratislava:person:143964",
+    "vote_events_total": 1677,
+    "present": 1063,
+    "absent": 614,
+    "name": "Katarína Augustinič",
+    "given_names": [
+      "Katarína"
+    ],
+    "family_names": [
+      "Augustinič"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.633870006
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "vote_events_total": 1677,
+    "present": 1212,
+    "absent": 465,
+    "name": "Dana Čahojová",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Čahojová"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7227191413
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "vote_events_total": 1677,
+    "present": 1260,
+    "absent": 417,
+    "name": "Gabriela Ferenčáková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Ferenčáková"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7513416816
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "vote_events_total": 1671,
+    "present": 1084,
+    "absent": 587,
+    "name": "Jozef Krúpa",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Krúpa"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.6487133453
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "vote_events_total": 1677,
+    "present": 1204,
+    "absent": 473,
+    "name": "Martin Kuruc",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kuruc"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7179487179
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "vote_events_total": 1677,
+    "present": 1093,
+    "absent": 584,
+    "name": "Alžbeta Ožvaldová",
+    "given_names": [
+      "Alžbeta"
+    ],
+    "family_names": [
+      "Ožvaldová"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.6517590936
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "vote_events_total": 1677,
+    "present": 1200,
+    "absent": 477,
+    "name": "Zdenka Zaťovičová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Zaťovičová"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7155635063
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "vote_events_total": 1677,
+    "present": 662,
+    "absent": 1015,
+    "name": "Martin Chren",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Chren"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.3947525343
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "vote_events_total": 1677,
+    "present": 937,
+    "absent": 740,
+    "name": "Ján Hrčka",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Hrčka"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.5587358378
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "vote_events_total": 1677,
+    "present": 571,
+    "absent": 1106,
+    "name": "Radovan Jenčík",
+    "given_names": [
+      "Radovan"
+    ],
+    "family_names": [
+      "Jenčík"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.3404889684
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "vote_events_total": 1677,
+    "present": 1191,
+    "absent": 486,
+    "name": "Juraj Káčer",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Káčer"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.71019678
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "vote_events_total": 1677,
+    "present": 1409,
+    "absent": 268,
+    "name": "Lucia Štasselová",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Štasselová"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8401908169
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "vote_events_total": 1677,
+    "present": 1182,
+    "absent": 495,
+    "name": "Jozef Uhler",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Uhler"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7048300537
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "vote_events_total": 1677,
+    "present": 1205,
+    "absent": 472,
+    "name": "Branislav Záhradník",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Záhradník"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7185450209
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "vote_events_total": 1677,
+    "present": 1482,
+    "absent": 195,
+    "name": "Lenka Antalová Plavuchová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Antalová Plavuchová"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8837209302
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "vote_events_total": 1677,
+    "present": 1235,
+    "absent": 442,
+    "name": "Adam Berka",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Berka"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7364341085
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "vote_events_total": 1677,
+    "present": 1135,
+    "absent": 542,
+    "name": "Ján Karman",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Karman"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.6768038163
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "vote_events_total": 1677,
+    "present": 1652,
+    "absent": 25,
+    "name": "Tatiana Kratochvílová",
+    "given_names": [
+      "Tatiana"
+    ],
+    "family_names": [
+      "Kratochvílová"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.985092427
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "vote_events_total": 1677,
+    "present": 1090,
+    "absent": 587,
+    "name": "Roman Lamoš",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Lamoš"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.6499701849
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "vote_events_total": 1677,
+    "present": 1475,
+    "absent": 202,
+    "name": "Jakub Mrva",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Mrva"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8795468098
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "vote_events_total": 1677,
+    "present": 1601,
+    "absent": 76,
+    "name": "Matej Vagač",
+    "given_names": [
+      "Matej"
+    ],
+    "family_names": [
+      "Vagač"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.9546809779
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "vote_events_total": 1677,
+    "present": 1191,
+    "absent": 486,
+    "name": "Jakub Vallo",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Vallo"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.71019678
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "vote_events_total": 1677,
+    "present": 1608,
+    "absent": 69,
+    "name": "Martin Vlačiky",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Vlačiky"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.9588550984
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "vote_events_total": 1677,
+    "present": 1637,
+    "absent": 40,
+    "name": "Igor Polakovič",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Polakovič"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.9761478831
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "vote_events_total": 1671,
+    "present": 1154,
+    "absent": 517,
+    "name": "Michal Vlček",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Vlček"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.6906044285
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "vote_events_total": 1677,
+    "present": 1150,
+    "absent": 527,
+    "name": "Dárius Krajčír",
+    "given_names": [
+      "Dárius"
+    ],
+    "family_names": [
+      "Krajčír"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.6857483602
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "vote_events_total": 589,
+    "present": 557,
+    "absent": 32,
+    "name": "Jakub Kuruc",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Kuruc"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.9456706282
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "vote_events_total": 1677,
+    "present": 1433,
+    "absent": 244,
+    "name": "Kamil Bodnár",
+    "given_names": [
+      "Kamil"
+    ],
+    "family_names": [
+      "Bodnár"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8545020871
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "vote_events_total": 1677,
+    "present": 1503,
+    "absent": 174,
+    "name": "Matúš Čupka",
+    "given_names": [
+      "Matúš"
+    ],
+    "family_names": [
+      "Čupka"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8962432916
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "vote_events_total": 1677,
+    "present": 1026,
+    "absent": 651,
+    "name": "Dávid Dej",
+    "given_names": [
+      "Dávid"
+    ],
+    "family_names": [
+      "Dej"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.6118067979
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "vote_events_total": 1677,
+    "present": 1525,
+    "absent": 152,
+    "name": "Monika Ďurajková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Ďurajková"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.9093619559
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "vote_events_total": 1677,
+    "present": 747,
+    "absent": 930,
+    "name": "Oskar Dvořák",
+    "given_names": [
+      "Oskar"
+    ],
+    "family_names": [
+      "Dvořák"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.4454382826
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "vote_events_total": 1677,
+    "present": 1566,
+    "absent": 111,
+    "name": "Petra Hudáková",
+    "given_names": [
+      "Petra"
+    ],
+    "family_names": [
+      "Hudáková"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.9338103757
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "vote_events_total": 1677,
+    "present": 1428,
+    "absent": 249,
+    "name": "Lenka Jakubčová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Jakubčová"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8515205725
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "vote_events_total": 1677,
+    "present": 1268,
+    "absent": 409,
+    "name": "Dana Kleinert",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Kleinert"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7561121049
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "vote_events_total": 1677,
+    "present": 1353,
+    "absent": 324,
+    "name": "Marek et Mgr. Machata",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "et Mgr. Machata"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8067978533
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "vote_events_total": 1677,
+    "present": 1424,
+    "absent": 253,
+    "name": "Miroslav Macko",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Macko"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8491353608
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "vote_events_total": 1677,
+    "present": 1486,
+    "absent": 191,
+    "name": "Róbert Pajdlhauser",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Pajdlhauser"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8861061419
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "vote_events_total": 1677,
+    "present": 949,
+    "absent": 728,
+    "name": "Martin Patoprstý",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Patoprstý"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.5658914729
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "vote_events_total": 1677,
+    "present": 583,
+    "absent": 1094,
+    "name": "Lucia Plaváková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Plaváková"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.3476446035
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "vote_events_total": 526,
+    "present": 346,
+    "absent": 180,
+    "name": "Michal Sabo",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Sabo"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.6577946768
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "vote_events_total": 1677,
+    "present": 1530,
+    "absent": 147,
+    "name": "Adam Sarlós",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Sarlós"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.9123434705
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "vote_events_total": 1677,
+    "present": 1382,
+    "absent": 295,
+    "name": "Martin Winkler",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Winkler"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.824090638
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "vote_events_total": 1677,
+    "present": 1259,
+    "absent": 418,
+    "name": "Jana Jakubkovič",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Jakubkovič"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7507453787
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "vote_events_total": 1677,
+    "present": 1211,
+    "absent": 466,
+    "name": "Daniel Klimovský",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Klimovský"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7221228384
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "vote_events_total": 1151,
+    "present": 852,
+    "absent": 299,
+    "name": "Pavol Škápik",
+    "given_names": [
+      "Pavol"
+    ],
+    "family_names": [
+      "Škápik"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.7402258905
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "vote_events_total": 1088,
+    "present": 903,
+    "absent": 185,
+    "name": "Elena Pätoprstá Smatana",
+    "given_names": [
+      "Elena"
+    ],
+    "family_names": [
+      "Pätoprstá Smatana"
+    ],
+    "since": "2022-11-29",
+    "until": "2026-09-17",
+    "present_share": 0.8299632353
+  }
+]

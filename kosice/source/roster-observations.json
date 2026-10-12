@@ -1,0 +1,215 @@
+{
+  "city": "kosice",
+  "review_status": "draft",
+  "observed_on": "2026-10-11",
+  "source_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci",
+  "original_sha256": "f3b620c5c813b88f6178a211087a230aeb3788eed5e47c74b4dbf507228737bc",
+  "note": "Official roster observations; do not assume continuous mandates or current club labels for earlier votes. Bratislava roster also includes the mayor.",
+  "members": [
+    {
+      "source_person_id": "1",
+      "source_name": "Adamčíková Iveta",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/1-adamcikova-iveta"
+    },
+    {
+      "source_person_id": "3",
+      "source_name": "PhDr. Babušík Dominik",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/3-babusik-dominik"
+    },
+    {
+      "source_person_id": "9",
+      "source_name": "Mgr. Fedoročko Marek",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/9-fedorocko-marek"
+    },
+    {
+      "source_person_id": "13",
+      "source_name": "Mgr.  Horenský Marián PhD.",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/13-horensky-marian"
+    },
+    {
+      "source_person_id": "22",
+      "source_name": "Mgr.  Kundrát Matej",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/22-kundrat-matej"
+    },
+    {
+      "source_person_id": "24",
+      "source_name": "Mgr. Lörinc Ladislav",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/24-lorinc-ladislav"
+    },
+    {
+      "source_person_id": "25",
+      "source_name": "Ing. Matoušek Roman",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/25-matousek-roman"
+    },
+    {
+      "source_person_id": "28",
+      "source_name": "Ing. Saxa Vladimír",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/28-saxa-vladimir"
+    },
+    {
+      "source_person_id": "31",
+      "source_name": "PhDr. Schwarcz Róbert",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/31-schwarcz-robert"
+    },
+    {
+      "source_person_id": "30",
+      "source_name": "Mgr. Seman Martin",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/30-seman-martin"
+    },
+    {
+      "source_person_id": "33",
+      "source_name": "Mgr.  Slivenská Zuzana",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/33-slivenska-zuzana"
+    },
+    {
+      "source_person_id": "40",
+      "source_name": "doc. Ing.  Weiss Erik PhD.",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/40-weiss-erik"
+    },
+    {
+      "source_person_id": "5",
+      "source_name": "Mgr. Berberich Bernard",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/5-berberich-bernard"
+    },
+    {
+      "source_person_id": "6",
+      "source_name": "Mgr. Berinšter Peter",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/6-berinster-peter"
+    },
+    {
+      "source_person_id": "11",
+      "source_name": "Mgr. Gibóda Marcel",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/11-giboda-marcel"
+    },
+    {
+      "source_person_id": "12",
+      "source_name": "Mgr. Gurbáľová Lucia MBA",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/12-gurbalova-lucia"
+    },
+    {
+      "source_person_id": "23",
+      "source_name": "Ing. Lasky Štefan",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/23-lasky-stefan"
+    },
+    {
+      "source_person_id": "26",
+      "source_name": "Mgr. Múdry Peter",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/26-mudry-peter"
+    },
+    {
+      "source_person_id": "35",
+      "source_name": "PhDr. Šaňa Marcel",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/35-sana-marcel"
+    },
+    {
+      "source_person_id": "29",
+      "source_name": "MUDr. Sekáč Ján",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/29-sekac-jan"
+    },
+    {
+      "source_person_id": "38",
+      "source_name": "Vasok Tomáš",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/38-vasok-tomas"
+    },
+    {
+      "source_person_id": "2",
+      "source_name": "Mgr. Andrejčák Jozef PhD.",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/2-andrejcak-jozef"
+    },
+    {
+      "source_person_id": "15",
+      "source_name": "Ing. Iľaščíková Lucia PhD., ING-PAED IGIP",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/15-ilascikova-lucia"
+    },
+    {
+      "source_person_id": "16",
+      "source_name": "Ing. Kandráč Marek",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/16-kandrac-marek"
+    },
+    {
+      "source_person_id": "19",
+      "source_name": "doc. PhDr.  Knap Viliam PhD., MHA, MPH",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/19-knap-viliam"
+    },
+    {
+      "source_person_id": "20",
+      "source_name": "Ing. Mgr.  Kovačevičová Lenka",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/20-kovacevicova-lenka"
+    },
+    {
+      "source_person_id": "21",
+      "source_name": "Ing. Krcho Michal",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/21-krcho-michal"
+    },
+    {
+      "source_person_id": "27",
+      "source_name": "Ing. Petrovčik Igor",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/27-petrovcik-igor"
+    },
+    {
+      "source_person_id": "36",
+      "source_name": "Špak Miroslav",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/36-spak-miroslav"
+    },
+    {
+      "source_person_id": "34",
+      "source_name": "Ing. Súkeníková Anna",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/34-sukenikova-anna"
+    },
+    {
+      "source_person_id": "4",
+      "source_name": "Ing. Bačinský Tibor",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/4-bacinsky-tibor"
+    },
+    {
+      "source_person_id": "7",
+      "source_name": "Mgr. art. Blaškovičová Ľubica",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/7-blaskovicova-lubica"
+    },
+    {
+      "source_person_id": "8",
+      "source_name": "Djordjevič Michal MBA",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/8-djordjevic-michal"
+    },
+    {
+      "source_person_id": "10",
+      "source_name": "PhDr. Géci Patrik",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/10-geci-patrik"
+    },
+    {
+      "source_person_id": "14",
+      "source_name": "JUDr. Ing. Ihnát Miloš",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/14-ihnat-milos"
+    },
+    {
+      "source_person_id": "17",
+      "source_name": "Ing. Karabin Jozef MBA",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/17-karabin-jozef"
+    },
+    {
+      "source_person_id": "18",
+      "source_name": "Mgr. Karaffa Dominik",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/18-karaffa-dominik"
+    },
+    {
+      "source_person_id": "32",
+      "source_name": "Ing. Sitkár Andrej",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/32-sitkar-andrej"
+    },
+    {
+      "source_person_id": "37",
+      "source_name": "Ing. Ténai František MBA",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/37-tenai-frantisek"
+    },
+    {
+      "source_person_id": "39",
+      "source_name": "Mgr. Vrchota Marcel",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/39-vrchota-marcel"
+    },
+    {
+      "source_person_id": "41",
+      "source_name": "JUDr. Zemková Beáta",
+      "profile_url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanec/41-zemkova-beata"
+    }
+  ]
+}

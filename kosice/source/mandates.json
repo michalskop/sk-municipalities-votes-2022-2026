@@ -1,0 +1,757 @@
+{
+  "city": "kosice",
+  "review_status": "reviewed",
+  "identity_review_status": "reviewed",
+  "mandate_review_status": "reviewed",
+  "checked_on": "2026-10-11",
+  "method": "All 41 official roster IDs are present in the opening sitting on 11 November 2022 and in the full-period named event rows; no council mandate replacement was found in the checked official sources.",
+  "sources": [
+    {
+      "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+    },
+    {
+      "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+    }
+  ],
+  "members": [
+    {
+      "person_id": "kosice:person:1",
+      "name": "Iveta Adamčíková",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:3",
+      "name": "Dominik Babušík",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:9",
+      "name": "Marek Fedoročko",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:13",
+      "name": "Marián Horenský",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:22",
+      "name": "Matej Kundrát",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:24",
+      "name": "Ladislav Lörinc",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:25",
+      "name": "Roman Matoušek",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:28",
+      "name": "Vladimír Saxa",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:31",
+      "name": "Róbert Schwarcz",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:30",
+      "name": "Martin Seman",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:33",
+      "name": "Zuzana Slivenská",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:40",
+      "name": "Erik Weiss",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:5",
+      "name": "Bernard Berberich",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:6",
+      "name": "Peter Berinšter",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:11",
+      "name": "Marcel Gibóda",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:12",
+      "name": "Lucia Gurbáľová",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:23",
+      "name": "Štefan Lasky",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:26",
+      "name": "Peter Múdry",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:35",
+      "name": "Marcel Šaňa",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:29",
+      "name": "Ján Sekáč",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:38",
+      "name": "Tomáš Vasok",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:2",
+      "name": "Jozef Andrejčák",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:15",
+      "name": "Lucia Iľaščíková",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:16",
+      "name": "Marek Kandráč",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:19",
+      "name": "Viliam Knap",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:20",
+      "name": "Lenka Kovačevičová",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:21",
+      "name": "Michal Krcho",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:27",
+      "name": "Igor Petrovčik",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:36",
+      "name": "Miroslav Špak",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:34",
+      "name": "Anna Súkeníková",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:4",
+      "name": "Tibor Bačinský",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:7",
+      "name": "Ľubica Blaškovičová",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:8",
+      "name": "Michal Djordjevič",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:10",
+      "name": "Patrik Géci",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:14",
+      "name": "Miloš Ihnát",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:17",
+      "name": "Jozef Karabin",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:18",
+      "name": "Dominik Karaffa",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:32",
+      "name": "Andrej Sitkár",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:37",
+      "name": "František Ténai",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:39",
+      "name": "Marcel Vrchota",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:41",
+      "name": "Beáta Zemková",
+      "periods": [
+        {
+          "since": "2022-11-11",
+          "sources": [
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/poslanci"
+            },
+            {
+              "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026/zasadnutie/1"
+            }
+          ],
+          "note": "The official roster IDs match all 41 rows in the opening named roll calls."
+        }
+      ]
+    }
+  ],
+  "identity_review_note": "Every Bratislava roll-call source name matches one reviewed official profile ID. Košice H.E.R. names match one official ID; the five distinct manual-matrix title variants are mapped explicitly in source/manual-matrix-identities.json, tied to the original PDF hash."
+}
