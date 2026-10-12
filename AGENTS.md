@@ -1,27 +1,43 @@
-# Repository Guidelines
+# Repository Guidelines: Slovak Municipal Votes (2022–2026)
 
-## Project Structure & Module Organization
+## Project Purpose & Scope
+This repository processes named roll-call votes and assembly data for **Bratislava** and **Košice** (2022–2026 election term) to power the Slovak municipal voting dashboard at [mesta.datatimes.sk](https://mesta.datatimes.sk).
 
-This workspace currently contains no source code, datasets, tests, or build configuration. Hidden environment directories (`.agents/`, `.codex/`, `.aws/`, and `.git/`) are not application modules; leave them unchanged.
+## Workspace Structure
+- `bratislava/`, `kosice/`:
+  - `config/sources.json`: Official source registry and configuration.
+  - `source/clubs.json`: Sourced political party clubs and historical member affiliations across 2022–2026.
+  - `source/reviewed.json`: Extracted and verified vote data from council meetings.
+  - `data/`: Standard Popolo tabular datasets (`organizations.csv`, `memberships.csv`, `persons.csv`, `vote_events.csv`, `votes.csv`).
+  - `analyses/`: Generated analysis outputs validated against shared JSON schemas (`attendance`, `rebelity`, `govity`, `wpca`, `_run_status.json`).
+- `scripts/`:
+  - `scripts/standardize.py`: Normalizes reviewed data into standard Popolo files and prepares analysis inputs.
+  - `scripts/run_analyses.py`: Orchestrates shared analysis engines (`legislature-data-analyses`), runs government axis detection, writes `_run_status.json`, and validates against schemas.
+- `tests/`: Automated unit tests and source regression tests.
 
-As the project develops, group related files by purpose. Suggested directories are `src/` for processing code, `tests/` for automated checks, `data/` for election inputs and outputs, and `docs/` for methodology. These are proposed conventions, not existing directories. Document the actual layout in a README when adding the first implementation.
+## Development & Pipeline Commands
+Runtime: Python 3.10+
+Shared analysis engines: `/home/michal/project/legislature-data/legislature-data-analyses`
+Shared schemas: `/home/michal/project/legislature-data/legislature-data-standard/dist`
 
-## Build, Test, and Development Commands
+```bash
+# Run standardization and all analyses for a city:
+python3 -m scripts.run_analyses bratislava
+python3 -m scripts.run_analyses kosice
 
-No build, test, or local run commands are currently configured. When introducing tooling, document the exact installation and execution commands in the README, including required runtime versions. Prefer reproducible scripts over undocumented manual steps. Do not assume `npm test`, `make build`, or any language-specific command is available.
+# Run unit tests:
+python3 -m unittest discover -s tests -v
+```
 
-## Coding Style & Naming Conventions
+## Dashboard & Domain Integration
+- Frontend dashboard: `apps/sk-cities` in `/home/michal/project/legislature-dashboard`.
+- Production deployment: Vercel project `legislature-dashboard` aliased to `mesta.datatimes.sk`.
+- Cloudflare DNS requirement: `mesta.datatimes.sk` must be configured as **CNAME `cname.vercel-dns.com`** with **Proxy status: DNS only (Grey cloud ☁️ OFF)**. Enabling Cloudflare Proxy causes Error 525 (SSL handshake failed) with Vercel.
 
-No language, formatter, or linter has been established. Follow the conventions of the chosen language and configure formatting alongside the first source files. Use descriptive names that identify the municipality, election year, or processing stage where relevant. Keep raw inputs separate from generated outputs and record their provenance.
-
-## Testing Guidelines
-
-No testing framework or coverage threshold exists. Add tests for transformations, missing values, municipality identifiers, and vote totals as those features are implemented. Use descriptive test names and small fixtures. Document how contributors run the suite.
-
-## Commit & Pull Request Guidelines
-
-Git history is unavailable in this workspace, so no existing commit convention can be verified. Use concise, imperative commit subjects, such as `Add municipality identifier validation`. Pull requests should explain the change, data sources affected, and validation performed; link relevant issues when available.
-
-## Security & Data Handling
-
-Never commit credentials or private configuration. Record source URLs, retrieval dates, and election years for imported data. Preserve original files so derived results can be reproduced.
+## Analysis Rules & Constraints
+1. **Shared Engines**: Never fork or rewrite core analysis calculation formulas. Always invoke the shared engine scripts in `legislature-data-analyses`.
+2. **Coalitions & Administration Groups**:
+   - Bratislava: Coalition majority club `team-bratislava-ps-sas`.
+   - Košice: Mayor & administration faction club `spolupraca-pre-kosice`.
+3. **Government Axis**: Determined via point-biserial correlation with government club membership across WPCA dimensions.
+4. **Data Provenance**: Always preserve source URLs, extraction hashes, and dates for all council documents.
