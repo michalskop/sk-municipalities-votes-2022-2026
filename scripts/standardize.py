@@ -60,11 +60,15 @@ def validate_schema(records, schemas, relative):
     schema_validator(schemas / relative).validate(records)
 
 
-def transform(city, source):
+def transform(city, source, clubs=None):
     if source.get("city") != city or source.get("review_status") != "reviewed":
         raise ValueError("Input must identify the city and be marked reviewed")
     if not source.get("members") or not source.get("events"):
         raise ValueError("Members and events must both be nonempty")
+    if clubs is None:
+        clubs_path = ROOT / city / "source/clubs.json"
+        if clubs_path.is_file():
+            clubs = json.loads(clubs_path.read_text())
     cfg = json.loads((ROOT / city / "config/sources.json").read_text())
     boundary_days = {p['since'] if field == 'since_event' else p.get('until')
                      for m in source['members'] for p in m.get('mandates', [])
@@ -78,6 +82,34 @@ def transform(city, source):
     event_order = {event['id']: i for i, event in enumerate(ordered_events)}
     event_dates = {event['id']: event['date'] for event in ordered_events}
     org_id = f"{city}:org:assembly"
+    organizations = [{"id": org_id, "name": cfg["name"], "classification": "assembly",
+                      "sources": [{"url": cfg["archive_url"]}]}]
+    org_names = {org_id: cfg["name"]}
+    group_memberships_by_person = {}
+    club_memberships = []
+    if clubs:
+        for group in clubs.get("groups", []):
+            organizations.append(group)
+            org_names[group["id"]] = group["name"]
+        for j, gm in enumerate(clubs.get("memberships", [])):
+            pid = gm["person_id"]
+            pslug = pid.rsplit(":", 1)[-1]
+            mem_entry = {
+                "id": f"{city}:membership:group:{pslug}:{j}",
+                "person_id": pid,
+                "organization_id": gm["organization_id"],
+                "start_date": gm["start_date"],
+                "sources": gm.get("sources", [{"url": cfg["archive_url"]}]),
+            }
+            if gm.get("end_date"):
+                mem_entry["end_date"] = gm["end_date"]
+            club_memberships.append(mem_entry)
+            group_memberships_by_person.setdefault(pid, []).append({
+                "id": gm["organization_id"],
+                "name": org_names.get(gm["organization_id"], gm["organization_id"]),
+                "start_date": gm["start_date"],
+                "end_date": gm.get("end_date"),
+            })
     persons, memberships, all_members = [], [], []
     people = {}
     for member in sorted(source["members"], key=lambda m: m["id"]):
@@ -115,9 +147,9 @@ def transform(city, source):
             intervals.append({"id": org_id, "name": cfg["name"],
                               "start_date": start, "end_date": end})
         all_members.append({**person, "memberships": {"parliament": intervals,
-                            "groups": [], "candidate_list": [], "constituency": []}})
-    organizations = [{"id": org_id, "name": cfg["name"], "classification": "assembly",
-                      "sources": [{"url": cfg["archive_url"]}]}]
+                            "groups": group_memberships_by_person.get(pid, []),
+                            "candidate_list": [], "constituency": []}})
+    memberships.extend(club_memberships)
     events, motions, votes, seen = [], [], [], set()
     for event in ordered_events:
         key, day = event["id"], event["date"]

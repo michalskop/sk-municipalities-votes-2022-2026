@@ -1,0 +1,23 @@
+{
+  "since": "2022-11-11",
+  "until": null,
+  "present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "absent_options": [
+    "absent",
+    "not_voting"
+  ],
+  "yes_options": [
+    "yes"
+  ],
+  "no_options": [
+    "no"
+  ],
+  "extras": {
+    "source_status": "verified",
+    "note": "Rebelity measures voting against own council club majority."
+  }
+}

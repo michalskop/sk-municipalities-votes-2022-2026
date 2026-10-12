@@ -1,0 +1,5501 @@
+[
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.8331403035608536,
+      1.0641721448561077,
+      0.1810304455922709
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.11209170561625408,
+      -0.047228977092779074,
+      0.1538704685373777
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.6100655310273626,
+      -2.8309203001452423,
+      -1.4457575356739223
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.27343054612208906,
+      0.12759510820563458,
+      -0.26017478687496975
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.023174558078298345,
+      0.05798677440415048,
+      -0.0011323306394422682
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6897672692196453,
+      0.9045469330047152,
+      0.17841113902489183
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.1226638781667777,
+      -3.8393916833883566,
+      -2.161463052928169
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.3733060710470176,
+      1.1520829971595143,
+      3.2245752532883447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.023174558078298345,
+      0.05798677440415048,
+      -0.0011323306394422682
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.30242138058773943,
+      0.6115719074312144,
+      -1.0891882293944943
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.107270505282774,
+      -3.885470497691711,
+      -2.115114147473401
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.12255121998846023,
+      -0.06521118379359027,
+      0.19534442687356748
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.11209170561625408,
+      -0.047228977092779074,
+      0.1538704685373777
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.8280021837954428,
+      1.1177613989441073,
+      0.884838162664369
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.5880747411397669,
+      -2.8931531121148026,
+      -1.6110786493768168
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6897672692196453,
+      0.9045469330047152,
+      0.17841113902489183
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.11209170561625408,
+      -0.047228977092779074,
+      0.1538704685373777
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7647238633725753,
+      0.9262146850858867,
+      0.1888217861245526
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.5384316594536782,
+      -2.7763306605938864,
+      -1.5537213330733743
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6897672692196453,
+      0.9045469330047152,
+      0.17841113902489183
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.0334346954374434,
+      -3.6251459127020293,
+      0.4827493203541101
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.551461156809821,
+      -3.8988499449870253,
+      -2.6728662977289837
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7204713669596822,
+      0.8804722516048515,
+      0.16834459241768518
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.774029467785797,
+      -2.5865862698121576,
+      1.1618643675453726
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.30332610139758936,
+      1.0015754069196996,
+      2.725078176270573
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.11209170561625408,
+      -0.047228977092779074,
+      0.1538704685373777
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7366493806608051,
+      0.9093598677752441,
+      0.12293785188629121
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.287341670828426,
+      1.1698191780467335,
+      -0.5128866732060798
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.6710564847811842,
+      0.8714739150325024,
+      0.17533858951052317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.8790223581094866,
+      0.9387794045246532,
+      -1.562796848832462
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.293985866534506,
+      -2.237852491475969,
+      1.8983655115089988
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.509884303830143,
+      -2.288231015516588,
+      -1.0101169425375403
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.77682375408362,
+      -4.091496453459577,
+      0.9465397410405424
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.8645794476100975,
+      0.9780827315783013,
+      -1.5161735660490572
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.193840216405489,
+      -1.2409782302461008,
+      -3.458023371726425
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.528430021129431,
+      -4.840611937667433,
+      0.35885856400560723
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.798170102512994,
+      1.1195908333252784,
+      -3.274323809288577
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.354028806336791,
+      -2.782525398838856,
+      -0.6378345942508723
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.4028032651686826,
+      -0.4011018011712558,
+      -3.0629441638322636
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.440534435125188,
+      -4.497576694015304,
+      -1.974051072008239
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.4708330573577832,
+      1.363316785796618,
+      1.2455244583969034
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.4750135739482295,
+      -0.3760553872906886,
+      -4.641400946299013
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.4016517688012895,
+      -2.41693413688114,
+      1.7620781583665168
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.3376454063908607,
+      1.3156009089572196,
+      0.5450249261666646
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.1687342333987065,
+      0.3253308859143303,
+      1.7449817507216827
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.4816308477849491,
+      0.6087513949687341,
+      0.14871579852868488
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.2903342328661935,
+      1.2895839763578685,
+      0.5614779574326628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.3276038206367367,
+      1.493530733713608,
+      0.0422401374460249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.418707432613269,
+      1.3174862076604912,
+      1.2142473538546794
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.2855737465898964,
+      1.285170685703147,
+      0.5531607589126403
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.324343118579507,
+      1.2997933802271773,
+      0.5700139148919131
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.908243964146646,
+      0.6279181071264822,
+      2.3237163318736362
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.2855737465898964,
+      1.285170685703147,
+      0.5531607589126403
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.9087247000705765,
+      -0.34813581803116145,
+      -3.5749979501078304
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.087359243181442,
+      -4.7619772094592605,
+      2.6553075467215006
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.328184080878247,
+      1.4872435172886835,
+      0.34837202399685113
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.345472051025631,
+      1.4879145494988397,
+      0.3528911304903629
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.908243964146646,
+      0.6279181071264822,
+      2.3237163318736362
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.337015572398872,
+      1.4883349776532777,
+      0.3455846511824303
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.293624405072742,
+      1.2847859756948,
+      0.5595275991287112
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.31838462459308,
+      1.2538689313510516,
+      1.2445737901301035
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.420428397253139,
+      1.4234512251065736,
+      0.5377645117455231
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.292343739028451,
+      1.3032235320387842,
+      0.5556585476113624
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.2855737465898964,
+      1.285170685703147,
+      0.5531607589126403
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.8951660219085233,
+      1.449220814987285,
+      -0.9291742551470333
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.392295599378519,
+      1.294041571327158,
+      0.9766266916001719
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.383503568290515,
+      -1.6216465358746879,
+      -2.769765752551389
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.662574976312944,
+      0.18451944966324896,
+      -4.895669274930081
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.3328862797340943,
+      1.303092631799127,
+      0.5714725178100956
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.3908929965299004,
+      1.5206584544852486,
+      0.36020953428538255
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.641373721279799,
+      1.0881430032008166,
+      1.182534686454443
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.2041600985990322,
+      0.4555214974759817,
+      2.919922608826806
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.481907971311167,
+      -4.633712472303746,
+      -1.327931537087925
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.4793530225374503,
+      1.73554916827823,
+      0.3208411419847835
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.48882715730216153,
+      0.42055492397060024,
+      0.4543557807905019
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.6553904798324538,
+      -0.5835640493689215,
+      0.8348877967034026
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.5118120011438174,
+      -1.9192928058733265,
+      1.2832602445531767
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.5729010779943082,
+      -2.040660865053914,
+      0.6831322359442122
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6852853970114163,
+      0.6047194331037803,
+      0.44072204372308016
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.46488997585529396,
+      0.37706428854618423,
+      0.45858385659114964
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.8982023020003838,
+      -4.0381877905181955,
+      -2.9790224882507728
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.7679665226217505,
+      0.6043872045052585,
+      0.5601760093580124
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.318237951034067,
+      0.06386128237516975,
+      -3.9466052483012573
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.4830114526672242,
+      0.3201630515663901,
+      0.6542476864616215
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.72782550186624,
+      -2.8284886724699017,
+      -2.9460466420169777
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6116890920992578,
+      0.6398780019988932,
+      0.3275625094160859
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.5400444988631083,
+      0.4551153855963883,
+      0.5767995369104579
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.382085963286729,
+      -0.13575851865754934,
+      -0.47999124490898865
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6573224756838327,
+      0.5762295147151423,
+      0.4112942890655671
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6643385316183107,
+      0.5790298259954805,
+      0.4141353983640194
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.1099492465918175,
+      0.2049097463871513,
+      -2.5066457508370723
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6573224756838327,
+      0.5762295147151423,
+      0.4112942890655671
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6651159489654815,
+      0.5634585555717659,
+      0.3439440268993285
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.669130729503949,
+      0.5804548747335346,
+      0.41944667186579127
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6573224756838327,
+      0.5762295147151423,
+      0.4112942890655671
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6958977716522835,
+      0.6123434967101123,
+      0.4239358799821275
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6506578824997714,
+      0.5578455764214428,
+      0.3366272545960218
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6573224756838327,
+      0.5762295147151423,
+      0.4112942890655671
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.8541832201616357,
+      -0.7401669691423032,
+      0.8163693411039179
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.6465459294361167,
+      -3.7983226842877937,
+      -2.0005735871000683
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6625746984849934,
+      0.5465589000244274,
+      0.47357131700829785
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.4789479857554796,
+      0.3763892994035924,
+      0.5569851320403059
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6573224756838327,
+      0.5762295147151423,
+      0.4112942890655671
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6928232807122424,
+      0.5972798007912118,
+      0.42668106973824627
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6755545675816351,
+      0.6104560329863596,
+      0.4184400383183288
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6908056738425753,
+      0.5806476673929161,
+      0.3488945387645354
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6606857986148624,
+      0.5885814394116785,
+      0.4127481366306243
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6817856657963086,
+      0.5972310376968216,
+      0.4454938963072838
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6765792724506241,
+      0.5855871380009484,
+      0.422579148111361
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6754134386994701,
+      0.5952956664410665,
+      0.44246467081039403
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6632481401617321,
+      0.584366919171855,
+      0.42314008393465014
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.9360331616973941,
+      0.4247084123830096,
+      -0.4284941980532384
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.43211541927120334,
+      0.27150140167553055,
+      0.5688637487409752
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6765792724506241,
+      0.5855871380009484,
+      0.422579148111361
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6765792724506241,
+      0.5855871380009484,
+      0.422579148111361
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6606857986148624,
+      0.5885814394116785,
+      0.4127481366306243
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.9034252644691814,
+      -0.5047557879927188,
+      -4.6687463558122095
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.129434001486747,
+      -2.9773422194390484,
+      0.5211160953630392
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6544353917229819,
+      0.5710805455704543,
+      0.3379041082402505
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.2372324699263424,
+      0.8256767792332494,
+      0.06870029568398367
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.190656626766848,
+      -0.5203102134400486,
+      0.8377191562524657
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.65360816226851,
+      -2.1059277035028705,
+      -2.070242493057688
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.385013927709713,
+      -3.238822300154751,
+      -0.20308982984822627
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.7672560874058503,
+      0.337506306160787,
+      -0.5298817124887216
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.139823218169483,
+      0.08622617564275417,
+      -0.32634401164255716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.3150481711402024,
+      -3.42965690805243,
+      2.0513936386678475
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.0610167054478403,
+      2.3648003777902757,
+      -0.7795447672659742
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.668530145161546,
+      -1.0714632794610575,
+      -1.1812264873198177
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.940514601176549,
+      1.2145693051096276,
+      -1.512635476713936
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.004113406967478,
+      -4.341339878917865,
+      0.2812400972885733
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.2828837163627496,
+      0.8477664005638328,
+      0.15133447510693648
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.524675156693059,
+      -0.09992434723734075,
+      -2.3904359613675217
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.163757695759856,
+      -0.550216071900075,
+      2.1830088266799628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.300604956651163,
+      0.8156206898444539,
+      0.008225754862856708
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.995832384726255,
+      0.6673896175207928,
+      -0.2128152855074532
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.3117082842696137,
+      1.1733554350822395,
+      -0.24626033263716193
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.179396597816056,
+      0.7279331041801367,
+      0.04611575228504345
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.2173639169337576,
+      0.5599635893098956,
+      0.3844399557862448
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.320925464520837,
+      0.5458064733695275,
+      0.09395784992775036
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.6839407979051653,
+      1.0691236987943522,
+      0.1480305450825036
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.976062331689824,
+      1.3938066063429888,
+      0.44777731877641486
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.1821327636703365,
+      0.7304179674138459,
+      0.047108140171776315
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.9036614101092963,
+      1.0600204473730506,
+      0.33671344259587194
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.603139458654052,
+      -0.7302384999250462,
+      -1.1161025975868006
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.599525190342863,
+      -4.202106379471244,
+      0.6535433606943103
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.252831227248713,
+      0.7096953441640195,
+      -0.08380602654759875
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.3268937167485864,
+      0.900263511389561,
+      0.41094854771420597
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.0308067000622585,
+      0.6934685548843094,
+      -0.2173751721179939
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.239963865698068,
+      1.1708984728826002,
+      0.020538892658077398
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.16904642627229,
+      1.5741354101047382,
+      -0.4534904486776775
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.185110278485528,
+      0.5644996337526786,
+      0.006172122283622666
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.027050691662411,
+      0.615844253807532,
+      -0.221962668039166
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.704849689685162,
+      1.0201040727046986,
+      0.4023231882682806
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.203993126894206,
+      0.6869471401128912,
+      0.10735858270857249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.2209598711322616,
+      0.7016360212832674,
+      0.1892265079775802
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.003806811205927,
+      -0.3023096114167257,
+      -0.01792938380696088
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.130762683441276,
+      -1.584847822240889,
+      -1.029035321056685
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.787118329139801,
+      1.7676041248582735,
+      0.5290956702403701
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.1937818651343206,
+      0.7207186716867832,
+      0.06956196041885529
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.736427813990628,
+      -1.5178838573412012,
+      2.6372140069301815
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.581426616222087,
+      -3.5333766449224777,
+      -0.46079114243827446
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.473443438798671,
+      0.381634139815044,
+      0.00983055539690335
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.6850330738466788,
+      1.2642816319803458,
+      0.2902263331961028
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.6339824458356664,
+      0.05008485165878508,
+      -2.4740453936001554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.330720558856348,
+      0.883944622051404,
+      0.3243691032363186
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -4.910460342084774,
+      -2.467973979384444,
+      -4.5631604046434875
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.3959105913821916,
+      1.5556787954779578,
+      0.37851965156620776
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.7357674100247713,
+      1.9460980233382048,
+      -1.4319531587034613
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.504305344659081,
+      0.4647182504359391,
+      0.9026967656791935
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.1429899522964324,
+      -3.3498391121811504,
+      0.36916600875052663
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.448134511923062,
+      2.4432377749103096,
+      -3.2050356927226837
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.9300061500050634,
+      -1.4222724201824333,
+      1.7681818200838177
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.962612586580263,
+      -3.4726573304765345,
+      -2.268849282067479
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.4204826861206965,
+      -3.7570497979402955,
+      0.9577436716804726
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.4728019722935843,
+      2.3247523871476727,
+      -2.157500681398197
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.668991907590324,
+      0.394710349420923,
+      0.9713703837914461
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.488591704093578,
+      -2.4936516743688486,
+      0.12184909029482947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.008702917719176,
+      -2.23362752000719,
+      -4.695185143871368
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.7637102509560334,
+      0.3569623265136562,
+      1.233773371542758
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.7958103290626386,
+      0.364340976901466,
+      1.2934844222314874
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.915338936670701,
+      0.8900185248359371,
+      -3.1582394602256625
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.6878202819213417,
+      0.5570923797404383,
+      0.9710584195431009
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.7639989028133596,
+      0.8190867815966122,
+      1.008362108281116
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.604484906849083,
+      1.1391714544302114,
+      0.5389037030266219
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.6686958705581105,
+      0.4019366510538743,
+      1.0303576746629415
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.8403105591126885,
+      0.892770284160052,
+      1.107951089671146
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.7669968145630508,
+      0.8405810827434504,
+      0.9939729099002766
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.588411768707141,
+      0.8857077824495512,
+      0.8547463031059309
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.8570020548832997,
+      -2.9809074598919265,
+      0.8989113288346628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.7005066829575206,
+      0.11211872526807701,
+      -0.43743887231307843
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.490110824702201,
+      0.4470633507599751,
+      0.8911310678685956
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.588411768707141,
+      0.8857077824495512,
+      0.8547463031059309
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.6611426086200116,
+      0.5745717458113024,
+      1.1286715856724145
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.5851252051001237,
+      0.402089026219757,
+      1.0945467647484122
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.93602068472369,
+      1.524503763953073,
+      0.615643087407431
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.5851252051001237,
+      0.402089026219757,
+      1.0945467647484122
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.588411768707141,
+      0.8857077824495512,
+      0.8547463031059309
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.4676855876728143,
+      0.22837383508531964,
+      0.889220058181643
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.5935747604796222,
+      0.4041415903699902,
+      1.1077135599690957
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.643919830892327,
+      0.8835332935494197,
+      0.9342651790148144
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -4.133955264632658,
+      -2.798265822146834,
+      -2.115845686253122
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.6753297340772724,
+      -1.444286082789309,
+      0.3708380641925226
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      2.1200638888445917,
+      1.4267547277740156,
+      1.1803226349322637
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.5919656146543726,
+      0.9303147427547834,
+      0.8656057385470514
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.092137299947795,
+      -2.6369599589029833,
+      -5.254198048835291
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.4681176829394995,
+      0.7521064347341081,
+      -0.8153732993259319
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.4545757567533224,
+      1.1477020613665783,
+      0.45842489737922676
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.6465039321879944,
+      0.15337980828985415,
+      1.0795846760142263
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.648768727324785,
+      -1.053523738929701,
+      1.2149543209396245
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.4651872286208858,
+      0.19258363194093345,
+      1.698548860608073
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.4256688052888595,
+      -3.421548899827626,
+      -5.677461706921728
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.08250945704222448,
+      1.3781122839906308,
+      -1.2203213551440129
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.009086305801500293,
+      1.7760198870297483,
+      -0.09713425846590233
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.2469755893174104,
+      1.0651813218790642,
+      0.6348288021547717
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -2.9552703481070552,
+      -3.5928020128357248,
+      0.15395053112514007
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.038432135572614184,
+      1.7822867261296644,
+      -0.279123602376583
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.5339280702160665,
+      -1.028564222639848,
+      2.9146238512451768
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.9012489321348416,
+      -4.202533163935363,
+      -3.623270739417405
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -2.050600680066852,
+      -2.2517657966605094,
+      -0.8348730622341326
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.7047544486785597,
+      1.6513368675199949,
+      -0.3363482071098363
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.4270569741593713,
+      0.1724977546506808,
+      1.6261576102379585
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -2.7297994887076134,
+      -3.2288148316944674,
+      1.1498955847485552
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.404455513431896,
+      -3.1801289354607776,
+      -5.129721159887501
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.44642491892858,
+      0.18482774841260038,
+      1.6801076284328123
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.18514279810237447,
+      1.7023789244184033,
+      -2.017499270614005
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.8766130300724523,
+      -2.345802714112403,
+      -0.38124015132278405
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.3898364559128291,
+      0.1973811049967676,
+      1.5765996722208668
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.4497074445094682,
+      0.09270591642547633,
+      1.8690308633711852
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.1242541789271525,
+      -0.032527998733181046,
+      2.0436131723685578
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.5687954844335977,
+      1.8357383119578587,
+      -0.8281700389527742
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9651436783087157,
+      1.571588146776013,
+      -0.41378216842986015
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.379662087617304,
+      0.04219354238728494,
+      1.0883191813271427
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.0016022862390475,
+      1.4572544398106873,
+      -0.865210901161302
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.45374444926183,
+      -1.7197403709193866,
+      1.7887300854560468
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.01414290155583584,
+      1.6548227686482064,
+      -0.24234342558450245
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.492099724049802,
+      0.13095575436047494,
+      1.7069847352509318
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.4022174116074275,
+      0.18918327138860003,
+      1.570745910599683
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.491960334772372,
+      0.1922332164078558,
+      1.7811674858940274
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.0116466494266596,
+      1.4751908666291789,
+      -0.8955692965448884
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.356414202656143,
+      1.0332304074578555,
+      0.8139087839325175
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9979282271456383,
+      1.4489208604132098,
+      -0.8405564923926485
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9747393044351195,
+      1.551985012909035,
+      -0.482670624694704
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.05638840492348663,
+      2.68319456587534,
+      -1.9671039722913348
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.0326432228010134,
+      1.587386853355707,
+      -0.32138355476154146
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.2476126528028009,
+      0.8990871600508573,
+      0.6641080784949596
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -2.369729631162423,
+      -0.9033169557896922,
+      -1.075729073030077
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.057907492854268,
+      -1.5299096119202398,
+      2.4232915825277845
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.1490286827420166,
+      1.2155151695800177,
+      1.2326440603744855
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9655665386542146,
+      1.4835448595799698,
+      -0.6237731838961253
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.5410953487210515,
+      -3.3320285769917453,
+      -5.230649985847567
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.08466183308315142,
+      0.8865203612823682,
+      1.4585862103549099
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.1839660022948288,
+      -0.5282054136790644,
+      1.9521593394036594
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9092427626613246,
+      1.6871469881358154,
+      -0.6671757235152854
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.6880667513320424,
+      -0.4017515773639569,
+      1.5780563395428875
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1321558029408407,
+      1.16022660292113,
+      1.1348795509698666
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.500053672264528,
+      -4.406820511699722,
+      -4.949680712993909
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.5218107915898014,
+      -0.7796260865619189,
+      -0.9193920070971636
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.654959035159923,
+      0.7262924331708157,
+      0.4422233998790121
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.02663096737535,
+      1.0012723646317905,
+      0.8291416572829449
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -2.2299807782051353,
+      -2.4784758486725624,
+      -1.2061894574736405
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.7290087906646343,
+      0.7144893231920462,
+      0.220955866521974
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -2.512682315105406,
+      -2.8864416621989863,
+      -1.0966916056087674
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.328698251150328,
+      -2.61006532514882,
+      -3.6195302449746554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.1052294984332245,
+      -2.9669055770742494,
+      -2.1067550400392663
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.0067154927175856,
+      0.999728854932833,
+      0.8297502274940433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.022535325416469,
+      1.03834097262171,
+      0.7672874599466122
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.23305116370231113,
+      -0.22920626701434363,
+      0.5957436748183231
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.273389491884198,
+      -4.1856708037960875,
+      -4.497176953272314
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.0176831164052766,
+      1.0254636020358112,
+      0.9840517912454048
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.9234480086715683,
+      0.8896408042930115,
+      0.9106799691150038
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.085798291093037,
+      -2.920802043368508,
+      -2.032827384817941
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.9521249744747244,
+      0.9510868237142295,
+      0.8769902564981152
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1193936089284162,
+      1.02712951491956,
+      0.6305751392479598
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1141758308016074,
+      1.057957817219969,
+      0.7040175385973497
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1141758308016074,
+      1.057957817219969,
+      0.7040175385973497
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.6108545696011868,
+      0.6563629969802555,
+      0.6714581884775691
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.095829035225931,
+      1.0407372592706559,
+      0.6940355083575929
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.9521487012323493,
+      0.9494101124697423,
+      0.8708948543139112
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1317835710670363,
+      1.117679530741808,
+      0.9401019245142895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.6664726242661677,
+      0.7462482555672141,
+      0.4108626302761566
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.9521249744747244,
+      0.9510868237142295,
+      0.8769902564981152
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1141758308016074,
+      1.057957817219969,
+      0.7040175385973497
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.9968888757117822,
+      0.9695533245547808,
+      1.013466272453342
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1688744184034032,
+      1.1144256319356816,
+      0.6944434912953941
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.6902985201090416,
+      0.5764480704848731,
+      0.7291129648982239
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.8839523727367667,
+      0.8944634404642935,
+      0.6070529682115086
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.044806512956317,
+      1.0123693945831405,
+      0.8207541180157414
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.0039807333840973,
+      0.9441442593898498,
+      0.8564322136274684
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.0330987084575651,
+      1.006124321391439,
+      1.0168439613520102
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.9715807355164305,
+      0.9711465961594341,
+      0.8884172943922672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -2.5092254096693725,
+      -2.5137101707404605,
+      -0.8942695219426582
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -2.7812269195216768,
+      -3.101372677735222,
+      -1.4970468888655506
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.4054189086641504,
+      1.4333379022980381,
+      1.424125016052585
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1640499017030383,
+      1.0954125271834327,
+      0.6951334244995759
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.33814885016082,
+      -4.344227050547292,
+      -4.891516245258288
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.9301562827784801,
+      1.0921357097521514,
+      0.7724381392785414
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1673303007997557,
+      1.1962809668050518,
+      1.1690615317175568
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.1850323743857316,
+      1.2194898554658111,
+      1.2334849210855374
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.5553224254618686,
+      0.6161133459991396,
+      0.6586060853160236
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.6497862892949128,
+      -0.20642129118725291,
+      -1.1456597211949686
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -5.036381360104591,
+      -5.071068469618061,
+      3.490841094812125
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.797394736855143,
+      -1.863575929494775,
+      -0.7767225983567945
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.3488957038051717,
+      -0.444514511677543,
+      -1.2685692896633411
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.8740664834575338,
+      1.1530822166794774,
+      -0.5569534426004963
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.1779060595321926,
+      -3.7984652944061352,
+      0.579762284540191
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.8352629697713037,
+      -1.032839928175693,
+      -0.43532094084759904
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.106815323818285,
+      -2.665205067990301,
+      -0.7456176827946293
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -5.078810053118051,
+      -5.285711993545367,
+      2.2441873906090675
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.0313410048701828,
+      -1.6276894404610713,
+      -0.477704590807793
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.1886563327276614,
+      2.382821317442079,
+      -0.4067174161536894
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.943394622034791,
+      2.3829522685626587,
+      -0.20585134639151875
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.271515520445132,
+      -2.623983042764405,
+      -0.6728022037051915
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -5.274456760070602,
+      -5.1730140330129535,
+      2.7700573987551205
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.9728032907476063,
+      2.372364343272889,
+      0.024743428004242847
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.829424761833897,
+      2.492004345250574,
+      0.10410639928078172
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -4.998538607023095,
+      -5.123879374988678,
+      1.5968393457198866
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.5166219830153589,
+      0.1294312832642136,
+      -0.8856910889951539
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.7968248913704632,
+      1.4072556889959886,
+      -0.735665648410187
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.862079970320232,
+      2.3257952996503644,
+      -0.14881959397195008
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.1729613924639843,
+      2.3749375916708693,
+      -0.4065925020374726
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.699082512645386,
+      2.410606138699993,
+      -0.14915626683785932
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.1318261242969703,
+      2.3129117029211494,
+      -0.42249827141214624
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.9018048892643438,
+      2.3388756215181434,
+      -0.15191266405360362
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.226257706224796,
+      -2.6071089208160263,
+      -0.6682687727514581
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.168078236711655,
+      2.3602295606411143,
+      -0.4019017296055728
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.862079970320232,
+      2.3257952996503644,
+      -0.14881959397195008
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.959636532226441,
+      2.3365939485808243,
+      0.017289119225083
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.16344205388335,
+      2.890683896487874,
+      -0.07645162846417629
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.9018048892643438,
+      2.3388756215181434,
+      -0.15191266405360362
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.878660827207818,
+      3.519285028059064,
+      0.8314416638141368
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.085738167336245,
+      2.500999961594914,
+      0.22753753578458152
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.1425007826469735,
+      1.075689807046928,
+      -0.019939581772221326
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.1787431432611326,
+      2.6277450128761664,
+      -0.22943511598477792
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.300925063167006,
+      1.2545882391993033,
+      -0.42948707009667836
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.184399373586528,
+      1.6680135655909265,
+      -0.6003910677654615
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -4.336582621544219,
+      -4.204843449851073,
+      0.10350154236901146
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.7944554647400266,
+      -3.808799889180814,
+      0.09043129393173857
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.5584805021362632,
+      0.1456428588210653,
+      -0.9083666464729152
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -5.055603948842403,
+      -5.179143608970996,
+      3.6107188957490277
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.035071770380275,
+      1.7913841475531975,
+      -0.5481455755519681
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.803629643158331,
+      2.595327124559553,
+      -0.41687565425483286
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.795823614377282,
+      2.5392799455089734,
+      -0.12023416240750087
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.76586207393999,
+      -3.3210822743207062,
+      -0.3563083113810383
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:143964",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -2.0546377745065896,
+      -4.465627040518412,
+      -1.2446818279245677
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.7392313085235305,
+      -7.318347346134573,
+      -4.322104036971302
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      1.569287825809137,
+      4.07990745325631,
+      1.0803316020622558
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -2.0546377745065896,
+      -4.465627040518412,
+      -1.2446818279245677
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.117365837057367,
+      5.914305652744781,
+      2.264529580897311
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.383088518309197,
+      6.934119718720504,
+      4.094201612316608
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.7392313085235305,
+      -7.318347346134573,
+      -4.322104036971302
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      1.569287825809137,
+      4.07990745325631,
+      1.0803316020622558
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.117365837057367,
+      5.914305652744781,
+      2.264529580897311
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.071135693229073,
+      5.89081102360501,
+      2.2606497963001115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.5564856419265265,
+      -6.276530610867113,
+      -2.4250000221624237
+    ],
+    "included": true
+  }
+]

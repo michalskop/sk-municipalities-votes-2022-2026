@@ -1,0 +1,27 @@
+{
+  "since": "2022-11-11",
+  "until": null,
+  "present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "absent_options": [
+    "absent",
+    "not_voting"
+  ],
+  "yes_options": [
+    "yes"
+  ],
+  "no_options": [
+    "no"
+  ],
+  "government_groups": [
+    "kosice:org:group:spolupraca-pre-kosice"
+  ],
+  "government_members": [],
+  "extras": {
+    "coalition_status": "verified",
+    "coalition_note": "Ko\u0161ice has no formal majority coalition agreement; Mayor Jaroslav Pola\u010dek and leadership are anchored in Spolupr\u00e1ca pre Ko\u0161ice."
+  }
+}

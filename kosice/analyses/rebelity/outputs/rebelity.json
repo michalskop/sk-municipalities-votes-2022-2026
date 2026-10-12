@@ -1,0 +1,904 @@
+[
+  {
+    "person_id": "kosice:person:1",
+    "rebelity_total": 41,
+    "rebelity_possible": 2050,
+    "rebelity": 0.02,
+    "name": "Iveta Adamčíková",
+    "given_names": [
+      "Iveta"
+    ],
+    "family_names": [
+      "Adamčíková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:10",
+    "rebelity_total": 35,
+    "rebelity_possible": 2026,
+    "rebelity": 0.017275,
+    "name": "Patrik Géci",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Géci"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:11",
+    "rebelity_total": 41,
+    "rebelity_possible": 2041,
+    "rebelity": 0.020088,
+    "name": "Marcel Gibóda",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Gibóda"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:12",
+    "rebelity_total": 32,
+    "rebelity_possible": 2041,
+    "rebelity": 0.015679,
+    "name": "Lucia Gurbáľová",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Gurbáľová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:13",
+    "rebelity_total": 35,
+    "rebelity_possible": 2050,
+    "rebelity": 0.017073,
+    "name": "Marián Horenský",
+    "given_names": [
+      "Marián"
+    ],
+    "family_names": [
+      "Horenský"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:14",
+    "rebelity_total": 65,
+    "rebelity_possible": 2026,
+    "rebelity": 0.032083,
+    "name": "Miloš Ihnát",
+    "given_names": [
+      "Miloš"
+    ],
+    "family_names": [
+      "Ihnát"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:15",
+    "rebelity_total": 25,
+    "rebelity_possible": 2046,
+    "rebelity": 0.012219,
+    "name": "Lucia Iľaščíková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Iľaščíková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:16",
+    "rebelity_total": 27,
+    "rebelity_possible": 2046,
+    "rebelity": 0.013196,
+    "name": "Marek Kandráč",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Kandráč"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:17",
+    "rebelity_total": 89,
+    "rebelity_possible": 2026,
+    "rebelity": 0.043929,
+    "name": "Jozef Karabin",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Karabin"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:18",
+    "rebelity_total": 176,
+    "rebelity_possible": 2026,
+    "rebelity": 0.086871,
+    "name": "Dominik Karaffa",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Karaffa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:19",
+    "rebelity_total": 24,
+    "rebelity_possible": 2046,
+    "rebelity": 0.01173,
+    "name": "Viliam Knap",
+    "given_names": [
+      "Viliam"
+    ],
+    "family_names": [
+      "Knap"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:2",
+    "rebelity_total": 38,
+    "rebelity_possible": 2046,
+    "rebelity": 0.018573,
+    "name": "Jozef Andrejčák",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Andrejčák"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:20",
+    "rebelity_total": 17,
+    "rebelity_possible": 2046,
+    "rebelity": 0.008309,
+    "name": "Lenka Kovačevičová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Kovačevičová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:21",
+    "rebelity_total": 36,
+    "rebelity_possible": 2046,
+    "rebelity": 0.017595,
+    "name": "Michal Krcho",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Krcho"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:22",
+    "rebelity_total": 31,
+    "rebelity_possible": 2050,
+    "rebelity": 0.015122,
+    "name": "Matej Kundrát",
+    "given_names": [
+      "Matej"
+    ],
+    "family_names": [
+      "Kundrát"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:23",
+    "rebelity_total": 41,
+    "rebelity_possible": 2041,
+    "rebelity": 0.020088,
+    "name": "Štefan Lasky",
+    "given_names": [
+      "Štefan"
+    ],
+    "family_names": [
+      "Lasky"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:24",
+    "rebelity_total": 63,
+    "rebelity_possible": 2050,
+    "rebelity": 0.030732,
+    "name": "Ladislav Lörinc",
+    "given_names": [
+      "Ladislav"
+    ],
+    "family_names": [
+      "Lörinc"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:25",
+    "rebelity_total": 28,
+    "rebelity_possible": 2050,
+    "rebelity": 0.013659,
+    "name": "Roman Matoušek",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Matoušek"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:26",
+    "rebelity_total": 32,
+    "rebelity_possible": 2041,
+    "rebelity": 0.015679,
+    "name": "Peter Múdry",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Múdry"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:27",
+    "rebelity_total": 76,
+    "rebelity_possible": 2046,
+    "rebelity": 0.037146,
+    "name": "Igor Petrovčik",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Petrovčik"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:28",
+    "rebelity_total": 45,
+    "rebelity_possible": 2050,
+    "rebelity": 0.021951,
+    "name": "Vladimír Saxa",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Saxa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:29",
+    "rebelity_total": 23,
+    "rebelity_possible": 2041,
+    "rebelity": 0.011269,
+    "name": "Ján Sekáč",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Sekáč"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:3",
+    "rebelity_total": 24,
+    "rebelity_possible": 2050,
+    "rebelity": 0.011707,
+    "name": "Dominik Babušík",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Babušík"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:30",
+    "rebelity_total": 27,
+    "rebelity_possible": 2050,
+    "rebelity": 0.013171,
+    "name": "Martin Seman",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Seman"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:31",
+    "rebelity_total": 28,
+    "rebelity_possible": 2050,
+    "rebelity": 0.013659,
+    "name": "Róbert Schwarcz",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Schwarcz"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:32",
+    "rebelity_total": 13,
+    "rebelity_possible": 2026,
+    "rebelity": 0.006417,
+    "name": "Andrej Sitkár",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Sitkár"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:33",
+    "rebelity_total": 46,
+    "rebelity_possible": 2050,
+    "rebelity": 0.022439,
+    "name": "Zuzana Slivenská",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Slivenská"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:34",
+    "rebelity_total": 30,
+    "rebelity_possible": 2046,
+    "rebelity": 0.014663,
+    "name": "Anna Súkeníková",
+    "given_names": [
+      "Anna"
+    ],
+    "family_names": [
+      "Súkeníková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:35",
+    "rebelity_total": 47,
+    "rebelity_possible": 2041,
+    "rebelity": 0.023028,
+    "name": "Marcel Šaňa",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Šaňa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:36",
+    "rebelity_total": 130,
+    "rebelity_possible": 2046,
+    "rebelity": 0.063539,
+    "name": "Miroslav Špak",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Špak"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:37",
+    "rebelity_total": 31,
+    "rebelity_possible": 2026,
+    "rebelity": 0.015301,
+    "name": "František Ténai",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Ténai"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:38",
+    "rebelity_total": 27,
+    "rebelity_possible": 2041,
+    "rebelity": 0.013229,
+    "name": "Tomáš Vasok",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Vasok"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:39",
+    "rebelity_total": 65,
+    "rebelity_possible": 2050,
+    "rebelity": 0.031707,
+    "name": "Marcel Vrchota",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Vrchota"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:4",
+    "rebelity_total": 60,
+    "rebelity_possible": 2050,
+    "rebelity": 0.029268,
+    "name": "Tibor Bačinský",
+    "given_names": [
+      "Tibor"
+    ],
+    "family_names": [
+      "Bačinský"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:40",
+    "rebelity_total": 25,
+    "rebelity_possible": 2050,
+    "rebelity": 0.012195,
+    "name": "Erik Weiss",
+    "given_names": [
+      "Erik"
+    ],
+    "family_names": [
+      "Weiss"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:41",
+    "rebelity_total": 70,
+    "rebelity_possible": 2026,
+    "rebelity": 0.034551,
+    "name": "Beáta Zemková",
+    "given_names": [
+      "Beáta"
+    ],
+    "family_names": [
+      "Zemková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:5",
+    "rebelity_total": 34,
+    "rebelity_possible": 2041,
+    "rebelity": 0.016659,
+    "name": "Bernard Berberich",
+    "given_names": [
+      "Bernard"
+    ],
+    "family_names": [
+      "Berberich"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:6",
+    "rebelity_total": 29,
+    "rebelity_possible": 2041,
+    "rebelity": 0.014209,
+    "name": "Peter Berinšter",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Berinšter"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:7",
+    "rebelity_total": 55,
+    "rebelity_possible": 2026,
+    "rebelity": 0.027147,
+    "name": "Ľubica Blaškovičová",
+    "given_names": [
+      "Ľubica"
+    ],
+    "family_names": [
+      "Blaškovičová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:8",
+    "rebelity_total": 75,
+    "rebelity_possible": 2026,
+    "rebelity": 0.037019,
+    "name": "Michal Djordjevič",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Djordjevič"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:9",
+    "rebelity_total": 35,
+    "rebelity_possible": 2050,
+    "rebelity": 0.017073,
+    "name": "Marek Fedoročko",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Fedoročko"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  }
+]

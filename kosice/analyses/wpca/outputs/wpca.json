@@ -1,0 +1,1396 @@
+[
+  {
+    "person_id": "kosice:person:1",
+    "dims": [
+      0.7438147081934342,
+      0.04209137331598941,
+      0.037825666562073805
+    ],
+    "weight": 0.8333540449857091,
+    "included": true,
+    "name": "Iveta Adamčíková",
+    "given_names": [
+      "Iveta"
+    ],
+    "family_names": [
+      "Adamčíková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:10",
+    "dims": [
+      -0.4925194853299323,
+      -0.2977046421650447,
+      -0.4280274372660014
+    ],
+    "weight": 0.8483907046104139,
+    "included": true,
+    "name": "Patrik Géci",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Géci"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:11",
+    "dims": [
+      -0.773332142887859,
+      0.32535212167449346,
+      0.06315572235569368
+    ],
+    "weight": 0.8245308810736921,
+    "included": true,
+    "name": "Marcel Gibóda",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Gibóda"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:12",
+    "dims": [
+      -0.8311923941000694,
+      0.3944541556353552,
+      0.12885452120009372
+    ],
+    "weight": 0.9658257735802162,
+    "included": true,
+    "name": "Lucia Gurbáľová",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Gurbáľová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:13",
+    "dims": [
+      0.849237148133363,
+      0.1249345710012627,
+      -0.004056695077417926
+    ],
+    "weight": 0.9218342239343855,
+    "included": true,
+    "name": "Marián Horenský",
+    "given_names": [
+      "Marián"
+    ],
+    "family_names": [
+      "Horenský"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:14",
+    "dims": [
+      -0.3820380911095626,
+      -0.14075461681694945,
+      -0.3992763924314048
+    ],
+    "weight": 0.9624704858953647,
+    "included": true,
+    "name": "Miloš Ihnát",
+    "given_names": [
+      "Miloš"
+    ],
+    "family_names": [
+      "Ihnát"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:15",
+    "dims": [
+      -0.005590433236280298,
+      -0.5666020077663015,
+      0.03340539266320093
+    ],
+    "weight": 0.6365105008077544,
+    "included": true,
+    "name": "Lucia Iľaščíková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Iľaščíková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:16",
+    "dims": [
+      -0.23282383082721683,
+      -0.5690496404404696,
+      0.15707608985650792
+    ],
+    "weight": 0.6808748601963466,
+    "included": true,
+    "name": "Marek Kandráč",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Kandráč"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:17",
+    "dims": [
+      0.20966205323432754,
+      -0.2966052192952635,
+      -0.19162321405446417
+    ],
+    "weight": 0.6777681123400024,
+    "included": true,
+    "name": "Jozef Karabin",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Karabin"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:18",
+    "dims": [
+      0.033478654531540544,
+      0.25780971059018165,
+      -0.3124207033360265
+    ],
+    "weight": 0.8329812352429476,
+    "included": true,
+    "name": "Dominik Karaffa",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Karaffa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:19",
+    "dims": [
+      -0.32082149453644593,
+      -0.5640771959163889,
+      0.14371065680207848
+    ],
+    "weight": 0.4708587051074935,
+    "included": true,
+    "name": "Viliam Knap",
+    "given_names": [
+      "Viliam"
+    ],
+    "family_names": [
+      "Knap"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:2",
+    "dims": [
+      -0.21265431216377942,
+      -0.49937641844991654,
+      0.06062558459655367
+    ],
+    "weight": 0.7691064993165153,
+    "included": true,
+    "name": "Jozef Andrejčák",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Andrejčák"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:20",
+    "dims": [
+      -0.334180269422355,
+      -0.6170181064083345,
+      0.25638134100979426
+    ],
+    "weight": 0.7463651050080775,
+    "included": true,
+    "name": "Lenka Kovačevičová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Kovačevičová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:21",
+    "dims": [
+      -0.3072608328551714,
+      -0.4958345145905991,
+      0.24510036642904007
+    ],
+    "weight": 0.9105256617372934,
+    "included": true,
+    "name": "Michal Krcho",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Krcho"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:22",
+    "dims": [
+      0.840977233390005,
+      0.18889175623595753,
+      0.11027902627936795
+    ],
+    "weight": 0.7881197961973406,
+    "included": true,
+    "name": "Matej Kundrát",
+    "given_names": [
+      "Matej"
+    ],
+    "family_names": [
+      "Kundrát"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:23",
+    "dims": [
+      -0.7479663256144279,
+      0.2069211062354131,
+      0.1161515969788491
+    ],
+    "weight": 0.6698148378277619,
+    "included": true,
+    "name": "Štefan Lasky",
+    "given_names": [
+      "Štefan"
+    ],
+    "family_names": [
+      "Lasky"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:24",
+    "dims": [
+      0.8875161191655901,
+      0.11286543203282225,
+      0.01849309981231407
+    ],
+    "weight": 0.8669069218342239,
+    "included": true,
+    "name": "Ladislav Lörinc",
+    "given_names": [
+      "Ladislav"
+    ],
+    "family_names": [
+      "Lörinc"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:25",
+    "dims": [
+      0.8833280963394515,
+      0.17173031643472153,
+      -0.02876071112745221
+    ],
+    "weight": 0.9307816577606561,
+    "included": true,
+    "name": "Roman Matoušek",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Matoušek"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:26",
+    "dims": [
+      -0.8593347753385312,
+      0.32841988983086345,
+      0.1261042896407028
+    ],
+    "weight": 0.9235740027339381,
+    "included": true,
+    "name": "Peter Múdry",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Múdry"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:27",
+    "dims": [
+      0.2597520961532926,
+      -0.3632650330604561,
+      -0.09396530296663189
+    ],
+    "weight": 0.7138063874735926,
+    "included": true,
+    "name": "Igor Petrovčik",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Petrovčik"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:28",
+    "dims": [
+      0.8379080888130611,
+      0.09637991641833643,
+      -0.0011081812667684393
+    ],
+    "weight": 0.9515347334410338,
+    "included": true,
+    "name": "Vladimír Saxa",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Saxa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:29",
+    "dims": [
+      -0.8097598931621122,
+      0.2201831856934548,
+      0.06723532373234675
+    ],
+    "weight": 0.4835342363613769,
+    "included": true,
+    "name": "Ján Sekáč",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Sekáč"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:3",
+    "dims": [
+      0.8356577249403934,
+      0.07892533044928665,
+      0.03532020832961171
+    ],
+    "weight": 0.8659127625201938,
+    "included": true,
+    "name": "Dominik Babušík",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Babušík"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:30",
+    "dims": [
+      0.8038514107737985,
+      0.040953454886389414,
+      0.07014519190706059
+    ],
+    "weight": 0.49993786504287313,
+    "included": true,
+    "name": "Martin Seman",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Seman"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:31",
+    "dims": [
+      0.80479497594559,
+      0.12658317822799398,
+      -0.0021911816084903505
+    ],
+    "weight": 0.8057661240213744,
+    "included": true,
+    "name": "Róbert Schwarcz",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Schwarcz"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:32",
+    "dims": [
+      -0.3978820278492095,
+      -0.03799284126731625,
+      -0.7908636635188241
+    ],
+    "weight": 0.5188268920094445,
+    "included": true,
+    "name": "Andrej Sitkár",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Sitkár"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:33",
+    "dims": [
+      0.7567406935769098,
+      0.09227090546865067,
+      0.14946427747099977
+    ],
+    "weight": 0.7628930036038275,
+    "included": true,
+    "name": "Zuzana Slivenská",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Slivenská"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:34",
+    "dims": [
+      -0.2502158320687068,
+      -0.46528089479205254,
+      0.11477601883892762
+    ],
+    "weight": 0.7748229153721884,
+    "included": true,
+    "name": "Anna Súkeníková",
+    "given_names": [
+      "Anna"
+    ],
+    "family_names": [
+      "Súkeníková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:35",
+    "dims": [
+      -0.7669731305780748,
+      0.2843563651171739,
+      0.16259800995556406
+    ],
+    "weight": 0.8646700633776564,
+    "included": true,
+    "name": "Marcel Šaňa",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Šaňa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:36",
+    "dims": [
+      -0.04779311646210304,
+      -0.31545871787222424,
+      0.2872623510752977
+    ],
+    "weight": 0.84528395675407,
+    "included": true,
+    "name": "Miroslav Špak",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Špak"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "name": "Starostovia a nezávislí kandidáti",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:37",
+    "dims": [
+      -0.7597863356183755,
+      0.11918110161681325,
+      -0.20572673107655295
+    ],
+    "weight": 0.801292407108239,
+    "included": true,
+    "name": "František Ténai",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Ténai"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:38",
+    "dims": [
+      -0.8861897021144329,
+      0.3336543046318009,
+      0.07727990330218915
+    ],
+    "weight": 0.8939977631415434,
+    "included": true,
+    "name": "Tomáš Vasok",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Vasok"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:39",
+    "dims": [
+      0.5991321067974476,
+      0.25548146159282653,
+      -0.0699903639257123
+    ],
+    "weight": 0.8098670311917484,
+    "included": true,
+    "name": "Marcel Vrchota",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Vrchota"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:4",
+    "dims": [
+      0.6655421580471741,
+      0.197725219748027,
+      -0.01805721571350005
+    ],
+    "weight": 0.9066732943954268,
+    "included": true,
+    "name": "Tibor Bačinský",
+    "given_names": [
+      "Tibor"
+    ],
+    "family_names": [
+      "Bačinský"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:40",
+    "dims": [
+      0.8556260573655032,
+      0.13339430038236783,
+      0.029742067664552584
+    ],
+    "weight": 0.8173232260469739,
+    "included": true,
+    "name": "Erik Weiss",
+    "given_names": [
+      "Erik"
+    ],
+    "family_names": [
+      "Weiss"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:41",
+    "dims": [
+      -0.04568431779280818,
+      -0.16401528137394703,
+      -0.31713059532773424
+    ],
+    "weight": 0.9535230520690942,
+    "included": true,
+    "name": "Beáta Zemková",
+    "given_names": [
+      "Beáta"
+    ],
+    "family_names": [
+      "Zemková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:5",
+    "dims": [
+      -0.8291992081940631,
+      0.31583902833208766,
+      0.1928831953174612
+    ],
+    "weight": 0.9496706847272274,
+    "included": true,
+    "name": "Bernard Berberich",
+    "given_names": [
+      "Bernard"
+    ],
+    "family_names": [
+      "Berberich"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:6",
+    "dims": [
+      -0.7531359910262904,
+      0.3471160502830592,
+      0.26396697711209566
+    ],
+    "weight": 0.8159562569901827,
+    "included": true,
+    "name": "Peter Berinšter",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Berinšter"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "name": "Spolupráca pre Košice",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:7",
+    "dims": [
+      -0.31114276425154336,
+      -0.052274968910370055,
+      0.08579123161487859
+    ],
+    "weight": 0.793090592767491,
+    "included": true,
+    "name": "Ľubica Blaškovičová",
+    "given_names": [
+      "Ľubica"
+    ],
+    "family_names": [
+      "Blaškovičová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:8",
+    "dims": [
+      -0.6490613217764701,
+      0.012802144717321579,
+      -0.25599203489054034
+    ],
+    "weight": 0.8836833602584814,
+    "included": true,
+    "name": "Michal Djordjevič",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Djordjevič"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:9",
+    "dims": [
+      0.8359875018071823,
+      0.03378263673103034,
+      0.08046602772667502
+    ],
+    "weight": 0.8706350192618366,
+    "included": true,
+    "name": "Marek Fedoročko",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Fedoročko"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:assembly",
+        "name": "Mestské zastupiteľstvo v Košiciach",
+        "classification": "parliament",
+        "since": "2022-11-11",
+        "until": null
+      },
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "name": "Košický klub",
+        "classification": "groups",
+        "since": "2022-11-11",
+        "until": null
+      }
+    ],
+    "since": "2022-11-11"
+  }
+]

@@ -1,0 +1,1623 @@
+[
+  {
+    "person_id": "bratislava:person:143964",
+    "dims": [
+      0.3960016495974858,
+      0.08219622730742504,
+      0.20193688610529464
+    ],
+    "weight": 0.7954866008462624,
+    "included": true,
+    "name": "Katarína Augustinič",
+    "given_names": [
+      "Katarína"
+    ],
+    "family_names": [
+      "Augustinič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "dims": [
+      -1.246258015922054,
+      0.26537355901266224,
+      -0.6403977081748191
+    ],
+    "weight": 0.8779971791255289,
+    "included": true,
+    "name": "Dana Čahojová",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Čahojová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "dims": [
+      -0.7701404743448472,
+      -0.3444579856147557,
+      0.15321599488233129
+    ],
+    "weight": 0.7433004231311706,
+    "included": true,
+    "name": "Gabriela Ferenčáková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Ferenčáková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "name": "Klub SOM Bratislava",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "dims": [
+      -0.7797795205283681,
+      -0.5837256984797397,
+      0.10341761212482393
+    ],
+    "weight": 0.7207334273624822,
+    "included": true,
+    "name": "Jozef Krúpa",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Krúpa"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-29",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "name": "Klub SOM Bratislava",
+        "classification": "groups",
+        "since": "2022-11-29",
+        "until": null
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "dims": [
+      0.4907186649594186,
+      -0.08243036830011131,
+      0.0696462556751928
+    ],
+    "weight": 0.7588152327221438,
+    "included": true,
+    "name": "Martin Kuruc",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kuruc"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "dims": [
+      -0.9350176901753754,
+      0.46375912716130085,
+      0.23940077455384204
+    ],
+    "weight": 0.7433004231311706,
+    "included": true,
+    "name": "Alžbeta Ožvaldová",
+    "given_names": [
+      "Alžbeta"
+    ],
+    "family_names": [
+      "Ožvaldová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "dims": [
+      -0.8663159351119079,
+      -0.8110910652794662,
+      -0.19891037166011744
+    ],
+    "weight": 0.8208744710860366,
+    "included": true,
+    "name": "Zdenka Zaťovičová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Zaťovičová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "name": "Klub SOM Bratislava",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "dims": [
+      -0.2275606534646662,
+      0.5310334523135121,
+      0.47333260782672976
+    ],
+    "weight": 0.5169252468265163,
+    "included": true,
+    "name": "Martin Chren",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Chren"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "dims": [
+      -1.206196210949122,
+      0.24092656037183804,
+      -0.2174979631584636
+    ],
+    "weight": 0.6304654442877292,
+    "included": true,
+    "name": "Ján Hrčka",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Hrčka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "dims": [
+      -1.0339543039453676,
+      0.3252110283497443,
+      0.25639651082785686
+    ],
+    "weight": 0.3984485190409026,
+    "included": true,
+    "name": "Radovan Jenčík",
+    "given_names": [
+      "Radovan"
+    ],
+    "family_names": [
+      "Jenčík"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2024-01-01",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": "2023-12-31"
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "dims": [
+      -0.5353968580983325,
+      -0.9360570898906442,
+      -0.0729992693860128
+    ],
+    "weight": 0.691114245416079,
+    "included": true,
+    "name": "Juraj Káčer",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Káčer"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "name": "Klub SOM Bratislava",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "dims": [
+      0.6337378992125436,
+      0.002489046059903438,
+      0.025724819494582586
+    ],
+    "weight": 0.8779971791255289,
+    "included": true,
+    "name": "Lucia Štasselová",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Štasselová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "dims": [
+      -0.8853895411531845,
+      0.3162655414845973,
+      0.4830422140857726
+    ],
+    "weight": 0.8244005641748943,
+    "included": true,
+    "name": "Jozef Uhler",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Uhler"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "dims": [
+      -1.2132832563974527,
+      0.2653015786360429,
+      -0.5942669446992176
+    ],
+    "weight": 0.842031029619182,
+    "included": true,
+    "name": "Branislav Záhradník",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Záhradník"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "dims": [
+      0.5664210618763164,
+      0.021785955448852923,
+      0.053524312470444264
+    ],
+    "weight": 0.9393511988716502,
+    "included": true,
+    "name": "Lenka Antalová Plavuchová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Antalová Plavuchová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "dims": [
+      0.5487876892350276,
+      -0.12071249348943609,
+      -0.15570666953999387
+    ],
+    "weight": 0.7616361071932298,
+    "included": true,
+    "name": "Adam Berka",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Berka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "dims": [
+      -0.21290426301960133,
+      0.4645504167797373,
+      -0.19307256939520812
+    ],
+    "weight": 0.7475317348377998,
+    "included": true,
+    "name": "Ján Karman",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Karman"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2025-05-01",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": "2025-04-30"
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "dims": [
+      0.5869636629603313,
+      0.08699926445150685,
+      0.06407132808959758
+    ],
+    "weight": 0.9816643159379406,
+    "included": true,
+    "name": "Tatiana Kratochvílová",
+    "given_names": [
+      "Tatiana"
+    ],
+    "family_names": [
+      "Kratochvílová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "dims": [
+      0.6358466438321616,
+      0.05482678336519741,
+      0.08633859838710661
+    ],
+    "weight": 0.70098730606488,
+    "included": true,
+    "name": "Roman Lamoš",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Lamoš"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "dims": [
+      0.561969152861027,
+      -0.010700399892443476,
+      0.041944703144158255
+    ],
+    "weight": 0.8949224259520451,
+    "included": true,
+    "name": "Jakub Mrva",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Mrva"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "dims": [
+      0.5732584041127053,
+      -0.021679442211486873,
+      -0.11425095417794268
+    ],
+    "weight": 0.9372355430183357,
+    "included": true,
+    "name": "Matej Vagač",
+    "given_names": [
+      "Matej"
+    ],
+    "family_names": [
+      "Vagač"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "dims": [
+      0.5714757467829557,
+      -0.04542355981219255,
+      -0.07872882268458377
+    ],
+    "weight": 0.7574047954866008,
+    "included": true,
+    "name": "Jakub Vallo",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Vallo"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "dims": [
+      0.6070359386787455,
+      -0.07310013766821043,
+      -0.04346986987925976
+    ],
+    "weight": 0.9901269393511988,
+    "included": true,
+    "name": "Martin Vlačiky",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Vlačiky"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "dims": [
+      0.5112507003032892,
+      0.0009834945991528676,
+      -0.05900958036626054
+    ],
+    "weight": 0.9569816643159379,
+    "included": true,
+    "name": "Igor Polakovič",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Polakovič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "dims": [
+      -0.8863278556288714,
+      0.18167581339376607,
+      0.4727103255193508
+    ],
+    "weight": 0.7919605077574048,
+    "included": true,
+    "name": "Michal Vlček",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Vlček"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-29",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-29",
+        "until": null
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "dims": [
+      -0.709681722836351,
+      -0.780124018641928,
+      0.0035854532154093455
+    ],
+    "weight": 0.7122708039492242,
+    "included": true,
+    "name": "Dárius Krajčír",
+    "given_names": [
+      "Dárius"
+    ],
+    "family_names": [
+      "Krajčír"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "name": "Klub SOM Bratislava",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "dims": [
+      0.4815543640117874,
+      0.550841363996388,
+      -0.08547892053595985
+    ],
+    "weight": 0.19675599435825106,
+    "included": true,
+    "name": "Jakub Kuruc",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Kuruc"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": "2024-04-14"
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": "2024-04-14"
+      }
+    ],
+    "since": "2022-11-15",
+    "until": "2024-04-14"
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "dims": [
+      0.6246956626533196,
+      0.0008813293097037858,
+      0.04924798496851008
+    ],
+    "weight": 0.8596614950634697,
+    "included": true,
+    "name": "Kamil Bodnár",
+    "given_names": [
+      "Kamil"
+    ],
+    "family_names": [
+      "Bodnár"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "dims": [
+      0.6151397937970017,
+      -0.04540870870810554,
+      -0.019681984209448333
+    ],
+    "weight": 0.9252468265162199,
+    "included": true,
+    "name": "Matúš Čupka",
+    "given_names": [
+      "Matúš"
+    ],
+    "family_names": [
+      "Čupka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "dims": [
+      0.6218903428570148,
+      0.02142567912734998,
+      0.07509530068904922
+    ],
+    "weight": 0.7700987306064879,
+    "included": true,
+    "name": "Dávid Dej",
+    "given_names": [
+      "Dávid"
+    ],
+    "family_names": [
+      "Dej"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "dims": [
+      0.6228404731365778,
+      -0.08748502608492008,
+      -0.14494556357018157
+    ],
+    "weight": 0.9153737658674188,
+    "included": true,
+    "name": "Monika Ďurajková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Ďurajková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "dims": [
+      0.6601111306509275,
+      -0.012814370900878488,
+      -0.04772399513626859
+    ],
+    "weight": 0.5289139633286317,
+    "included": true,
+    "name": "Oskar Dvořák",
+    "given_names": [
+      "Oskar"
+    ],
+    "family_names": [
+      "Dvořák"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "dims": [
+      0.5154815570514167,
+      0.005118061420887604,
+      -0.04430811287650179
+    ],
+    "weight": 0.932299012693935,
+    "included": true,
+    "name": "Petra Hudáková",
+    "given_names": [
+      "Petra"
+    ],
+    "family_names": [
+      "Hudáková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "dims": [
+      0.5714445550093828,
+      -0.002015496579483957,
+      -0.06399934688271525
+    ],
+    "weight": 0.7700987306064879,
+    "included": true,
+    "name": "Lenka Jakubčová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Jakubčová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "dims": [
+      0.5684534742755636,
+      0.011013773096621946,
+      -0.1562675589354627
+    ],
+    "weight": 0.7870239774330041,
+    "included": true,
+    "name": "Dana Kleinert",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Kleinert"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "dims": [
+      0.6146345065076645,
+      -0.03125286481844432,
+      -0.06186700992550335
+    ],
+    "weight": 0.8490832157968969,
+    "included": true,
+    "name": "Marek et Mgr. Machata",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "et Mgr. Machata"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "dims": [
+      0.6326593614779024,
+      0.06035602367653717,
+      -0.006967083344882827
+    ],
+    "weight": 0.806064880112835,
+    "included": true,
+    "name": "Miroslav Macko",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Macko"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "dims": [
+      -1.091411735835674,
+      0.1529106153258052,
+      0.09794031061599748
+    ],
+    "weight": 0.8519040902679831,
+    "included": true,
+    "name": "Róbert Pajdlhauser",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Pajdlhauser"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "dims": [
+      -0.8450461082455607,
+      0.2955868415251126,
+      0.47702622831981994
+    ],
+    "weight": 0.5952045133991536,
+    "included": true,
+    "name": "Martin Patoprstý",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Patoprstý"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "name": "Klub starostov",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "dims": [
+      0.585760949760121,
+      0.1082634437890274,
+      0.0707682020842424
+    ],
+    "weight": 0.37023977433004235,
+    "included": true,
+    "name": "Lucia Plaváková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Plaváková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "dims": [
+      0.5550832633320651,
+      0.5168918843464855,
+      -0.05075411451737197
+    ],
+    "weight": 0.15655853314527504,
+    "included": true,
+    "name": "Michal Sabo",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Sabo"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": "2023-12-14"
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": "2023-12-14"
+      }
+    ],
+    "since": "2022-11-15",
+    "until": "2023-12-14"
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "dims": [
+      0.5414730098364097,
+      -0.03665913321518479,
+      -0.08482117217854006
+    ],
+    "weight": 0.9280677009873061,
+    "included": true,
+    "name": "Adam Sarlós",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Sarlós"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "dims": [
+      -1.0802081343094811,
+      0.509620060087891,
+      -0.8041787117348861
+    ],
+    "weight": 0.9344146685472495,
+    "included": true,
+    "name": "Martin Winkler",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Winkler"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "name": "Nezaradení poslanci",
+        "classification": "groups",
+        "since": "2024-02-01",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": "2024-01-31"
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "dims": [
+      -0.8586139406635541,
+      -0.6385349124072772,
+      0.29361423697288985
+    ],
+    "weight": 0.8131170662905499,
+    "included": true,
+    "name": "Jana Jakubkovič",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Jakubkovič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "name": "Klub SOM Bratislava",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "dims": [
+      0.55990782221551,
+      -0.0005205041776101563,
+      0.01209520135011141
+    ],
+    "weight": 0.7447108603667136,
+    "included": true,
+    "name": "Daniel Klimovský",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Klimovský"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2022-11-15",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2022-11-15",
+        "until": null
+      }
+    ],
+    "since": "2022-11-15"
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "dims": [
+      0.5774458146743611,
+      -0.16489483699609297,
+      -0.1176670275964498
+    ],
+    "weight": 0.6755994358251057,
+    "included": true,
+    "name": "Pavol Škápik",
+    "given_names": [
+      "Pavol"
+    ],
+    "family_names": [
+      "Škápik"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2024-02-29",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2024-02-29",
+        "until": null
+      }
+    ],
+    "since": "2024-02-29"
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "dims": [
+      -0.3327088183129561,
+      0.217928723193099,
+      0.41570943008452166
+    ],
+    "weight": 0.6614950634696755,
+    "included": true,
+    "name": "Elena Pätoprstá Smatana",
+    "given_names": [
+      "Elena"
+    ],
+    "family_names": [
+      "Pätoprstá Smatana"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:assembly",
+        "name": "Mestské zastupiteľstvo hlavného mesta SR Bratislavy",
+        "classification": "parliament",
+        "since": "2024-04-25",
+        "until": null
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "classification": "groups",
+        "since": "2024-04-25",
+        "until": null
+      }
+    ],
+    "since": "2024-04-25"
+  }
+]

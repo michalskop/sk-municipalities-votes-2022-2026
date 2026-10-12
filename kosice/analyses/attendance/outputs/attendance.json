@@ -11,6 +11,14 @@
     "family_names": [
       "Adamčíková"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.8228764479
@@ -26,6 +34,14 @@
     ],
     "family_names": [
       "Géci"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -43,6 +59,14 @@
     "family_names": [
       "Gibóda"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.7712355212
@@ -58,6 +82,14 @@
     ],
     "family_names": [
       "Gurbáľová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -75,6 +107,14 @@
     "family_names": [
       "Horenský"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.9483590734
@@ -90,6 +130,14 @@
     ],
     "family_names": [
       "Ihnát"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -107,6 +155,14 @@
     "family_names": [
       "Iľaščíková"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.6568532819
@@ -122,6 +178,14 @@
     ],
     "family_names": [
       "Kandráč"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -139,6 +203,14 @@
     "family_names": [
       "Karabin"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.6920849421
@@ -154,6 +226,14 @@
     ],
     "family_names": [
       "Karaffa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -171,6 +251,14 @@
     "family_names": [
       "Knap"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.4811776062
@@ -186,6 +274,14 @@
     ],
     "family_names": [
       "Andrejčák"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -203,6 +299,14 @@
     "family_names": [
       "Kovačevičová"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.7538610039
@@ -218,6 +322,14 @@
     ],
     "family_names": [
       "Krcho"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -235,6 +347,14 @@
     "family_names": [
       "Kundrát"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.7828185328
@@ -250,6 +370,14 @@
     ],
     "family_names": [
       "Lasky"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -267,6 +395,14 @@
     "family_names": [
       "Lörinc"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.8658301158
@@ -282,6 +418,14 @@
     ],
     "family_names": [
       "Matoušek"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -299,6 +443,14 @@
     "family_names": [
       "Múdry"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.9025096525
@@ -314,6 +466,14 @@
     ],
     "family_names": [
       "Petrovčik"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -331,6 +491,14 @@
     "family_names": [
       "Saxa"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.957046332
@@ -346,6 +514,14 @@
     ],
     "family_names": [
       "Sekáč"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -363,6 +539,14 @@
     "family_names": [
       "Babušík"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.8721042471
@@ -378,6 +562,14 @@
     ],
     "family_names": [
       "Seman"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -395,6 +587,14 @@
     "family_names": [
       "Schwarcz"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.8030888031
@@ -410,6 +610,14 @@
     ],
     "family_names": [
       "Sitkár"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -427,6 +635,14 @@
     "family_names": [
       "Slivenská"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.7765444015
@@ -442,6 +658,14 @@
     ],
     "family_names": [
       "Súkeníková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -459,6 +683,14 @@
     "family_names": [
       "Šaňa"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.819015444
@@ -474,6 +706,14 @@
     ],
     "family_names": [
       "Špak"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -491,6 +731,14 @@
     "family_names": [
       "Ténai"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.8277027027
@@ -506,6 +754,14 @@
     ],
     "family_names": [
       "Vasok"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -523,6 +779,14 @@
     "family_names": [
       "Vrchota"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.8431467181
@@ -538,6 +802,14 @@
     ],
     "family_names": [
       "Bačinský"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -555,6 +827,14 @@
     "family_names": [
       "Weiss"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.7861969112
@@ -570,6 +850,14 @@
     ],
     "family_names": [
       "Zemková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -587,6 +875,14 @@
     "family_names": [
       "Berberich"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.9546332046
@@ -602,6 +898,14 @@
     ],
     "family_names": [
       "Berinšter"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",
@@ -619,6 +923,14 @@
     "family_names": [
       "Blaškovičová"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.8431467181
@@ -635,6 +947,14 @@
     "family_names": [
       "Djordjevič"
     ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
     "since": "2022-11-11",
     "until": "2026-10-05",
     "present_share": 0.9092664093
@@ -650,6 +970,14 @@
     ],
     "family_names": [
       "Fedoročko"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
     ],
     "since": "2022-11-11",
     "until": "2026-10-05",

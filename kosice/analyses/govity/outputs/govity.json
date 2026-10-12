@@ -1,0 +1,904 @@
+[
+  {
+    "person_id": "kosice:person:1",
+    "govity_total": 1408,
+    "govity_possible": 1687,
+    "govity": 0.834618,
+    "name": "Iveta Adamčíková",
+    "given_names": [
+      "Iveta"
+    ],
+    "family_names": [
+      "Adamčíková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:10",
+    "govity_total": 1651,
+    "govity_possible": 1802,
+    "govity": 0.916204,
+    "name": "Patrik Géci",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Géci"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:11",
+    "govity_total": 1534,
+    "govity_possible": 1575,
+    "govity": 0.973968,
+    "name": "Marcel Gibóda",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Gibóda"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:12",
+    "govity_total": 1934,
+    "govity_possible": 1966,
+    "govity": 0.983723,
+    "name": "Lucia Gurbáľová",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Gurbáľová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:13",
+    "govity_total": 1562,
+    "govity_possible": 1935,
+    "govity": 0.807235,
+    "name": "Marián Horenský",
+    "given_names": [
+      "Marián"
+    ],
+    "family_names": [
+      "Horenský"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:14",
+    "govity_total": 1795,
+    "govity_possible": 2001,
+    "govity": 0.897051,
+    "name": "Miloš Ihnát",
+    "given_names": [
+      "Miloš"
+    ],
+    "family_names": [
+      "Ihnát"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:15",
+    "govity_total": 1181,
+    "govity_possible": 1349,
+    "govity": 0.875463,
+    "name": "Lucia Iľaščíková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Iľaščíková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:16",
+    "govity_total": 1265,
+    "govity_possible": 1391,
+    "govity": 0.909418,
+    "name": "Marek Kandráč",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Kandráč"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:17",
+    "govity_total": 1224,
+    "govity_possible": 1419,
+    "govity": 0.862579,
+    "name": "Jozef Karabin",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Karabin"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:18",
+    "govity_total": 1406,
+    "govity_possible": 1681,
+    "govity": 0.836407,
+    "name": "Dominik Karaffa",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Karaffa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:19",
+    "govity_total": 880,
+    "govity_possible": 991,
+    "govity": 0.887992,
+    "name": "Viliam Knap",
+    "given_names": [
+      "Viliam"
+    ],
+    "family_names": [
+      "Knap"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:2",
+    "govity_total": 1462,
+    "govity_possible": 1626,
+    "govity": 0.899139,
+    "name": "Jozef Andrejčák",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Andrejčák"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:20",
+    "govity_total": 1391,
+    "govity_possible": 1549,
+    "govity": 0.897999,
+    "name": "Lenka Kovačevičová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Kovačevičová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:21",
+    "govity_total": 1649,
+    "govity_possible": 1821,
+    "govity": 0.905546,
+    "name": "Michal Krcho",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Krcho"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:22",
+    "govity_total": 1324,
+    "govity_possible": 1596,
+    "govity": 0.829574,
+    "name": "Matej Kundrát",
+    "given_names": [
+      "Matej"
+    ],
+    "family_names": [
+      "Kundrát"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:23",
+    "govity_total": 1279,
+    "govity_possible": 1320,
+    "govity": 0.968939,
+    "name": "Štefan Lasky",
+    "given_names": [
+      "Štefan"
+    ],
+    "family_names": [
+      "Lasky"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:24",
+    "govity_total": 1348,
+    "govity_possible": 1769,
+    "govity": 0.762012,
+    "name": "Ladislav Lörinc",
+    "given_names": [
+      "Ladislav"
+    ],
+    "family_names": [
+      "Lörinc"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:25",
+    "govity_total": 1577,
+    "govity_possible": 1933,
+    "govity": 0.81583,
+    "name": "Roman Matoušek",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Matoušek"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:26",
+    "govity_total": 1818,
+    "govity_possible": 1850,
+    "govity": 0.982703,
+    "name": "Peter Múdry",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Múdry"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:27",
+    "govity_total": 1253,
+    "govity_possible": 1452,
+    "govity": 0.862948,
+    "name": "Igor Petrovčik",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Petrovčik"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:28",
+    "govity_total": 1600,
+    "govity_possible": 1954,
+    "govity": 0.818833,
+    "name": "Vladimír Saxa",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Saxa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:29",
+    "govity_total": 865,
+    "govity_possible": 888,
+    "govity": 0.974099,
+    "name": "Ján Sekáč",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Sekáč"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:3",
+    "govity_total": 1498,
+    "govity_possible": 1778,
+    "govity": 0.84252,
+    "name": "Dominik Babušík",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Babušík"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:30",
+    "govity_total": 766,
+    "govity_possible": 947,
+    "govity": 0.80887,
+    "name": "Martin Seman",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Seman"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:31",
+    "govity_total": 1365,
+    "govity_possible": 1638,
+    "govity": 0.833333,
+    "name": "Róbert Schwarcz",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Schwarcz"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:32",
+    "govity_total": 1123,
+    "govity_possible": 1197,
+    "govity": 0.938179,
+    "name": "Andrej Sitkár",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Sitkár"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:33",
+    "govity_total": 1327,
+    "govity_possible": 1593,
+    "govity": 0.833019,
+    "name": "Zuzana Slivenská",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Slivenská"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:34",
+    "govity_total": 1480,
+    "govity_possible": 1634,
+    "govity": 0.905753,
+    "name": "Anna Súkeníková",
+    "given_names": [
+      "Anna"
+    ],
+    "family_names": [
+      "Súkeníková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:35",
+    "govity_total": 1634,
+    "govity_possible": 1681,
+    "govity": 0.97204,
+    "name": "Marcel Šaňa",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Šaňa"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:36",
+    "govity_total": 1398,
+    "govity_possible": 1668,
+    "govity": 0.838129,
+    "name": "Miroslav Špak",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Špak"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:starostovia-a-nezavisli",
+        "classification": "group",
+        "name": "Starostovia a nezávislí kandidáti",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:37",
+    "govity_total": 1619,
+    "govity_possible": 1694,
+    "govity": 0.955726,
+    "name": "František Ténai",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Ténai"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:38",
+    "govity_total": 1690,
+    "govity_possible": 1717,
+    "govity": 0.984275,
+    "name": "Tomáš Vasok",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Vasok"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:39",
+    "govity_total": 1470,
+    "govity_possible": 1721,
+    "govity": 0.854155,
+    "name": "Marcel Vrchota",
+    "given_names": [
+      "Marcel"
+    ],
+    "family_names": [
+      "Vrchota"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:4",
+    "govity_total": 1535,
+    "govity_possible": 1811,
+    "govity": 0.847598,
+    "name": "Tibor Bačinský",
+    "given_names": [
+      "Tibor"
+    ],
+    "family_names": [
+      "Bačinský"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:40",
+    "govity_total": 1280,
+    "govity_possible": 1601,
+    "govity": 0.7995,
+    "name": "Erik Weiss",
+    "given_names": [
+      "Erik"
+    ],
+    "family_names": [
+      "Weiss"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:41",
+    "govity_total": 1780,
+    "govity_possible": 1985,
+    "govity": 0.896725,
+    "name": "Beáta Zemková",
+    "given_names": [
+      "Beáta"
+    ],
+    "family_names": [
+      "Zemková"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:5",
+    "govity_total": 1921,
+    "govity_possible": 1955,
+    "govity": 0.982609,
+    "name": "Bernard Berberich",
+    "given_names": [
+      "Bernard"
+    ],
+    "family_names": [
+      "Berberich"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:6",
+    "govity_total": 1608,
+    "govity_possible": 1637,
+    "govity": 0.982285,
+    "name": "Peter Berinšter",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Berinšter"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:spolupraca-pre-kosice",
+        "classification": "group",
+        "name": "Spolupráca pre Košice",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:7",
+    "govity_total": 1590,
+    "govity_possible": 1717,
+    "govity": 0.926034,
+    "name": "Ľubica Blaškovičová",
+    "given_names": [
+      "Ľubica"
+    ],
+    "family_names": [
+      "Blaškovičová"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:8",
+    "govity_total": 1702,
+    "govity_possible": 1855,
+    "govity": 0.91752,
+    "name": "Michal Djordjevič",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Djordjevič"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  },
+  {
+    "person_id": "kosice:person:9",
+    "govity_total": 1301,
+    "govity_possible": 1643,
+    "govity": 0.791844,
+    "name": "Marek Fedoročko",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Fedoročko"
+    ],
+    "organizations": [
+      {
+        "id": "kosice:org:group:kosicky-klub",
+        "classification": "group",
+        "name": "Košický klub",
+        "since": "2022-11-11"
+      }
+    ],
+    "since": "2022-11-11"
+  }
+]

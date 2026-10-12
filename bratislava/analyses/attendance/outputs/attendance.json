@@ -11,6 +11,14 @@
     "family_names": [
       "Augustinič"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.633870006
@@ -26,6 +34,14 @@
     ],
     "family_names": [
       "Čahojová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -43,6 +59,14 @@
     "family_names": [
       "Ferenčáková"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.7513416816
@@ -58,6 +82,14 @@
     ],
     "family_names": [
       "Krúpa"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-29"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -75,6 +107,14 @@
     "family_names": [
       "Kuruc"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.7179487179
@@ -90,6 +130,14 @@
     ],
     "family_names": [
       "Ožvaldová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -107,6 +155,14 @@
     "family_names": [
       "Zaťovičová"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.7155635063
@@ -122,6 +178,14 @@
     ],
     "family_names": [
       "Chren"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -139,6 +203,14 @@
     "family_names": [
       "Hrčka"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.5587358378
@@ -154,6 +226,21 @@
     ],
     "family_names": [
       "Jenčík"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2024-01-01"
+      },
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-15",
+        "until": "2023-12-31"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -171,6 +258,14 @@
     "family_names": [
       "Káčer"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.71019678
@@ -186,6 +281,14 @@
     ],
     "family_names": [
       "Štasselová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -203,6 +306,14 @@
     "family_names": [
       "Uhler"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.7048300537
@@ -218,6 +329,14 @@
     ],
     "family_names": [
       "Záhradník"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -235,6 +354,14 @@
     "family_names": [
       "Antalová Plavuchová"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.8837209302
@@ -250,6 +377,14 @@
     ],
     "family_names": [
       "Berka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -267,6 +402,21 @@
     "family_names": [
       "Karman"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2025-05-01"
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2025-04-30"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.6768038163
@@ -282,6 +432,14 @@
     ],
     "family_names": [
       "Kratochvílová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -299,6 +457,14 @@
     "family_names": [
       "Lamoš"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.6499701849
@@ -314,6 +480,14 @@
     ],
     "family_names": [
       "Mrva"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -331,6 +505,14 @@
     "family_names": [
       "Vagač"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.9546809779
@@ -346,6 +528,14 @@
     ],
     "family_names": [
       "Vallo"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -363,6 +553,14 @@
     "family_names": [
       "Vlačiky"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.9588550984
@@ -378,6 +576,14 @@
     ],
     "family_names": [
       "Polakovič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -395,6 +601,14 @@
     "family_names": [
       "Vlček"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-29"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.6906044285
@@ -410,6 +624,14 @@
     ],
     "family_names": [
       "Krajčír"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -427,6 +649,15 @@
     "family_names": [
       "Kuruc"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2024-04-14"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.9456706282
@@ -442,6 +673,14 @@
     ],
     "family_names": [
       "Bodnár"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -459,6 +698,14 @@
     "family_names": [
       "Čupka"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.8962432916
@@ -474,6 +721,14 @@
     ],
     "family_names": [
       "Dej"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -491,6 +746,14 @@
     "family_names": [
       "Ďurajková"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.9093619559
@@ -506,6 +769,14 @@
     ],
     "family_names": [
       "Dvořák"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -523,6 +794,14 @@
     "family_names": [
       "Hudáková"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.9338103757
@@ -538,6 +817,14 @@
     ],
     "family_names": [
       "Jakubčová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -555,6 +842,14 @@
     "family_names": [
       "Kleinert"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.7561121049
@@ -570,6 +865,14 @@
     ],
     "family_names": [
       "et Mgr. Machata"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -587,6 +890,14 @@
     "family_names": [
       "Macko"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.8491353608
@@ -602,6 +913,14 @@
     ],
     "family_names": [
       "Pajdlhauser"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -619,6 +938,14 @@
     "family_names": [
       "Patoprstý"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.5658914729
@@ -634,6 +961,14 @@
     ],
     "family_names": [
       "Plaváková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -651,6 +986,15 @@
     "family_names": [
       "Sabo"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2023-12-14"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.6577946768
@@ -666,6 +1010,14 @@
     ],
     "family_names": [
       "Sarlós"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -683,6 +1035,21 @@
     "family_names": [
       "Winkler"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2024-02-01"
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2024-01-31"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.824090638
@@ -698,6 +1065,14 @@
     ],
     "family_names": [
       "Jakubkovič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",
@@ -715,6 +1090,14 @@
     "family_names": [
       "Klimovský"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.7221228384
@@ -731,6 +1114,14 @@
     "family_names": [
       "Škápik"
     ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2024-02-29"
+      }
+    ],
     "since": "2022-11-29",
     "until": "2026-09-17",
     "present_share": 0.7402258905
@@ -746,6 +1137,14 @@
     ],
     "family_names": [
       "Pätoprstá Smatana"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2024-04-25"
+      }
     ],
     "since": "2022-11-29",
     "until": "2026-09-17",

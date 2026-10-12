@@ -1,0 +1,1059 @@
+[
+  {
+    "person_id": "bratislava:person:143964",
+    "govity_total": 1056,
+    "govity_possible": 1063,
+    "govity": 0.993415,
+    "name": "Katarína Augustinič",
+    "given_names": [
+      "Katarína"
+    ],
+    "family_names": [
+      "Augustinič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "govity_total": 1152,
+    "govity_possible": 1212,
+    "govity": 0.950495,
+    "name": "Dana Čahojová",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Čahojová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "govity_total": 1234,
+    "govity_possible": 1260,
+    "govity": 0.979365,
+    "name": "Gabriela Ferenčáková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Ferenčáková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "govity_total": 1056,
+    "govity_possible": 1084,
+    "govity": 0.97417,
+    "name": "Jozef Krúpa",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Krúpa"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-29"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "govity_total": 1201,
+    "govity_possible": 1204,
+    "govity": 0.997508,
+    "name": "Martin Kuruc",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kuruc"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "govity_total": 1059,
+    "govity_possible": 1093,
+    "govity": 0.968893,
+    "name": "Alžbeta Ožvaldová",
+    "given_names": [
+      "Alžbeta"
+    ],
+    "family_names": [
+      "Ožvaldová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "govity_total": 1157,
+    "govity_possible": 1200,
+    "govity": 0.964167,
+    "name": "Zdenka Zaťovičová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Zaťovičová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "govity_total": 647,
+    "govity_possible": 662,
+    "govity": 0.977341,
+    "name": "Martin Chren",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Chren"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "govity_total": 890,
+    "govity_possible": 937,
+    "govity": 0.94984,
+    "name": "Ján Hrčka",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Hrčka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "govity_total": 556,
+    "govity_possible": 571,
+    "govity": 0.97373,
+    "name": "Radovan Jenčík",
+    "given_names": [
+      "Radovan"
+    ],
+    "family_names": [
+      "Jenčík"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2024-01-01"
+      },
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-15",
+        "until": "2023-12-31"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "govity_total": 1162,
+    "govity_possible": 1191,
+    "govity": 0.975651,
+    "name": "Juraj Káčer",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Káčer"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "govity_total": 1407,
+    "govity_possible": 1409,
+    "govity": 0.998581,
+    "name": "Lucia Štasselová",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Štasselová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "govity_total": 1145,
+    "govity_possible": 1182,
+    "govity": 0.968697,
+    "name": "Jozef Uhler",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Uhler"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "govity_total": 1151,
+    "govity_possible": 1205,
+    "govity": 0.955187,
+    "name": "Branislav Záhradník",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Záhradník"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "govity_total": 1479,
+    "govity_possible": 1482,
+    "govity": 0.997976,
+    "name": "Lenka Antalová Plavuchová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Antalová Plavuchová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "govity_total": 1232,
+    "govity_possible": 1235,
+    "govity": 0.997571,
+    "name": "Adam Berka",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Berka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "govity_total": 1110,
+    "govity_possible": 1135,
+    "govity": 0.977974,
+    "name": "Ján Karman",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Karman"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2025-05-01"
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2025-04-30"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "govity_total": 1651,
+    "govity_possible": 1652,
+    "govity": 0.999395,
+    "name": "Tatiana Kratochvílová",
+    "given_names": [
+      "Tatiana"
+    ],
+    "family_names": [
+      "Kratochvílová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "govity_total": 1090,
+    "govity_possible": 1090,
+    "govity": 1.0,
+    "name": "Roman Lamoš",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Lamoš"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "govity_total": 1470,
+    "govity_possible": 1475,
+    "govity": 0.99661,
+    "name": "Jakub Mrva",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Mrva"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "govity_total": 1598,
+    "govity_possible": 1601,
+    "govity": 0.998126,
+    "name": "Matej Vagač",
+    "given_names": [
+      "Matej"
+    ],
+    "family_names": [
+      "Vagač"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "govity_total": 1188,
+    "govity_possible": 1191,
+    "govity": 0.997481,
+    "name": "Jakub Vallo",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Vallo"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "govity_total": 1605,
+    "govity_possible": 1608,
+    "govity": 0.998134,
+    "name": "Martin Vlačiky",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Vlačiky"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "govity_total": 1634,
+    "govity_possible": 1637,
+    "govity": 0.998167,
+    "name": "Igor Polakovič",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Polakovič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "govity_total": 1125,
+    "govity_possible": 1154,
+    "govity": 0.97487,
+    "name": "Michal Vlček",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Vlček"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-29"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "govity_total": 1126,
+    "govity_possible": 1150,
+    "govity": 0.97913,
+    "name": "Dárius Krajčír",
+    "given_names": [
+      "Dárius"
+    ],
+    "family_names": [
+      "Krajčír"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "govity_total": 556,
+    "govity_possible": 557,
+    "govity": 0.998205,
+    "name": "Jakub Kuruc",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Kuruc"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2024-04-14"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "govity_total": 1433,
+    "govity_possible": 1433,
+    "govity": 1.0,
+    "name": "Kamil Bodnár",
+    "given_names": [
+      "Kamil"
+    ],
+    "family_names": [
+      "Bodnár"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "govity_total": 1502,
+    "govity_possible": 1503,
+    "govity": 0.999335,
+    "name": "Matúš Čupka",
+    "given_names": [
+      "Matúš"
+    ],
+    "family_names": [
+      "Čupka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "govity_total": 1025,
+    "govity_possible": 1026,
+    "govity": 0.999025,
+    "name": "Dávid Dej",
+    "given_names": [
+      "Dávid"
+    ],
+    "family_names": [
+      "Dej"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "govity_total": 1522,
+    "govity_possible": 1525,
+    "govity": 0.998033,
+    "name": "Monika Ďurajková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Ďurajková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "govity_total": 746,
+    "govity_possible": 747,
+    "govity": 0.998661,
+    "name": "Oskar Dvořák",
+    "given_names": [
+      "Oskar"
+    ],
+    "family_names": [
+      "Dvořák"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "govity_total": 1561,
+    "govity_possible": 1566,
+    "govity": 0.996807,
+    "name": "Petra Hudáková",
+    "given_names": [
+      "Petra"
+    ],
+    "family_names": [
+      "Hudáková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "govity_total": 1427,
+    "govity_possible": 1428,
+    "govity": 0.9993,
+    "name": "Lenka Jakubčová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Jakubčová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "govity_total": 1266,
+    "govity_possible": 1268,
+    "govity": 0.998423,
+    "name": "Dana Kleinert",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Kleinert"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "govity_total": 1351,
+    "govity_possible": 1353,
+    "govity": 0.998522,
+    "name": "Marek et Mgr. Machata",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "et Mgr. Machata"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "govity_total": 1423,
+    "govity_possible": 1424,
+    "govity": 0.999298,
+    "name": "Miroslav Macko",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Macko"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "govity_total": 1445,
+    "govity_possible": 1486,
+    "govity": 0.972409,
+    "name": "Róbert Pajdlhauser",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Pajdlhauser"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "govity_total": 922,
+    "govity_possible": 949,
+    "govity": 0.971549,
+    "name": "Martin Patoprstý",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Patoprstý"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "govity_total": 582,
+    "govity_possible": 583,
+    "govity": 0.998285,
+    "name": "Lucia Plaváková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Plaváková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "govity_total": 346,
+    "govity_possible": 346,
+    "govity": 1.0,
+    "name": "Michal Sabo",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Sabo"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2023-12-14"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "govity_total": 1524,
+    "govity_possible": 1530,
+    "govity": 0.996078,
+    "name": "Adam Sarlós",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Sarlós"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "govity_total": 1291,
+    "govity_possible": 1382,
+    "govity": 0.934153,
+    "name": "Martin Winkler",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Winkler"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2024-02-01"
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2024-01-31"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "govity_total": 1224,
+    "govity_possible": 1259,
+    "govity": 0.9722,
+    "name": "Jana Jakubkovič",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Jakubkovič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "govity_total": 1210,
+    "govity_possible": 1211,
+    "govity": 0.999174,
+    "name": "Daniel Klimovský",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Klimovský"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "govity_total": 849,
+    "govity_possible": 852,
+    "govity": 0.996479,
+    "name": "Pavol Škápik",
+    "given_names": [
+      "Pavol"
+    ],
+    "family_names": [
+      "Škápik"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2024-02-29"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "govity_total": 884,
+    "govity_possible": 903,
+    "govity": 0.978959,
+    "name": "Elena Pätoprstá Smatana",
+    "given_names": [
+      "Elena"
+    ],
+    "family_names": [
+      "Pätoprstá Smatana"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2024-04-25"
+      }
+    ],
+    "since": "2022-11-29"
+  }
+]

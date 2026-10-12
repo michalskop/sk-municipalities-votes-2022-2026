@@ -1,0 +1,27 @@
+{
+  "since": "2022-11-29",
+  "until": null,
+  "present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "absent_options": [
+    "absent",
+    "not_voting"
+  ],
+  "yes_options": [
+    "yes"
+  ],
+  "no_options": [
+    "no"
+  ],
+  "government_groups": [
+    "bratislava:org:group:team-bratislava-ps-sas"
+  ],
+  "government_members": [],
+  "extras": {
+    "coalition_status": "verified",
+    "coalition_note": "Governing coalition formed by Klub Team Bratislava, PS, SaS supporting Mayor Mat\u00fa\u0161 Vallo."
+  }
+}

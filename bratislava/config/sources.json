@@ -10,10 +10,13 @@
   "research_date": "2026-10-11",
   "status": "source-adapter-samples",
   "analyses": [
-    "attendance"
+    "attendance",
+    "rebelity",
+    "govity",
+    "wpca"
   ],
-  "groups_status": "unverified",
-  "coalition_status": "unverified",
+  "groups_status": "verified",
+  "coalition_status": "verified",
   "source_present_options": [
     "yes",
     "no",

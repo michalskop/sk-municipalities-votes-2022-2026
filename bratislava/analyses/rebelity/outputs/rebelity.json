@@ -1,0 +1,1059 @@
+[
+  {
+    "person_id": "bratislava:person:143964",
+    "rebelity_total": 7,
+    "rebelity_possible": 1677,
+    "rebelity": 0.004174,
+    "name": "Katarína Augustinič",
+    "given_names": [
+      "Katarína"
+    ],
+    "family_names": [
+      "Augustinič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145440",
+    "rebelity_total": 12,
+    "rebelity_possible": 1660,
+    "rebelity": 0.007229,
+    "name": "Dana Čahojová",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Čahojová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145445",
+    "rebelity_total": 17,
+    "rebelity_possible": 1604,
+    "rebelity": 0.010599,
+    "name": "Gabriela Ferenčáková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Ferenčáková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145451",
+    "rebelity_total": 8,
+    "rebelity_possible": 1604,
+    "rebelity": 0.004988,
+    "name": "Jozef Krúpa",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Krúpa"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-29"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145452",
+    "rebelity_total": 3,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001789,
+    "name": "Martin Kuruc",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kuruc"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145455",
+    "rebelity_total": 4,
+    "rebelity_possible": 1660,
+    "rebelity": 0.00241,
+    "name": "Alžbeta Ožvaldová",
+    "given_names": [
+      "Alžbeta"
+    ],
+    "family_names": [
+      "Ožvaldová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145464",
+    "rebelity_total": 5,
+    "rebelity_possible": 1604,
+    "rebelity": 0.003117,
+    "name": "Zdenka Zaťovičová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Zaťovičová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145466",
+    "rebelity_total": 9,
+    "rebelity_possible": 1660,
+    "rebelity": 0.005422,
+    "name": "Martin Chren",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Chren"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145474",
+    "rebelity_total": 13,
+    "rebelity_possible": 1660,
+    "rebelity": 0.007831,
+    "name": "Ján Hrčka",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Hrčka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145476",
+    "rebelity_total": 2,
+    "rebelity_possible": 1340,
+    "rebelity": 0.001493,
+    "name": "Radovan Jenčík",
+    "given_names": [
+      "Radovan"
+    ],
+    "family_names": [
+      "Jenčík"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2024-01-01"
+      },
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2022-11-15",
+        "until": "2023-12-31"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145477",
+    "rebelity_total": 5,
+    "rebelity_possible": 1604,
+    "rebelity": 0.003117,
+    "name": "Juraj Káčer",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Káčer"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145485",
+    "rebelity_total": 2,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001193,
+    "name": "Lucia Štasselová",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Štasselová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:145488",
+    "rebelity_total": 4,
+    "rebelity_possible": 1660,
+    "rebelity": 0.00241,
+    "name": "Jozef Uhler",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Uhler"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:197872",
+    "rebelity_total": 11,
+    "rebelity_possible": 1660,
+    "rebelity": 0.006627,
+    "name": "Branislav Záhradník",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Záhradník"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212609",
+    "rebelity_total": 3,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001789,
+    "name": "Lenka Antalová Plavuchová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Antalová Plavuchová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212682",
+    "rebelity_total": 3,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001789,
+    "name": "Adam Berka",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Berka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212687",
+    "rebelity_total": 13,
+    "rebelity_possible": 1547,
+    "rebelity": 0.008403,
+    "name": "Ján Karman",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Karman"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2025-05-01"
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2025-04-30"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212690",
+    "rebelity_total": 1,
+    "rebelity_possible": 1677,
+    "rebelity": 0.000596,
+    "name": "Tatiana Kratochvílová",
+    "given_names": [
+      "Tatiana"
+    ],
+    "family_names": [
+      "Kratochvílová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212692",
+    "rebelity_total": 0,
+    "rebelity_possible": 1677,
+    "rebelity": 0.0,
+    "name": "Roman Lamoš",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Lamoš"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212693",
+    "rebelity_total": 5,
+    "rebelity_possible": 1677,
+    "rebelity": 0.002982,
+    "name": "Jakub Mrva",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Mrva"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212708",
+    "rebelity_total": 3,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001789,
+    "name": "Matej Vagač",
+    "given_names": [
+      "Matej"
+    ],
+    "family_names": [
+      "Vagač"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212709",
+    "rebelity_total": 3,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001789,
+    "name": "Jakub Vallo",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Vallo"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212710",
+    "rebelity_total": 3,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001789,
+    "name": "Martin Vlačiky",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Vlačiky"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212849",
+    "rebelity_total": 3,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001789,
+    "name": "Igor Polakovič",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Polakovič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212918",
+    "rebelity_total": 1,
+    "rebelity_possible": 1660,
+    "rebelity": 0.000602,
+    "name": "Michal Vlček",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Vlček"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-29"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:212920",
+    "rebelity_total": 4,
+    "rebelity_possible": 1604,
+    "rebelity": 0.002494,
+    "name": "Dárius Krajčír",
+    "given_names": [
+      "Dárius"
+    ],
+    "family_names": [
+      "Krajčír"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:215312",
+    "rebelity_total": 1,
+    "rebelity_possible": 589,
+    "rebelity": 0.001698,
+    "name": "Jakub Kuruc",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Kuruc"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2024-04-14"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297320",
+    "rebelity_total": 0,
+    "rebelity_possible": 1677,
+    "rebelity": 0.0,
+    "name": "Kamil Bodnár",
+    "given_names": [
+      "Kamil"
+    ],
+    "family_names": [
+      "Bodnár"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297321",
+    "rebelity_total": 1,
+    "rebelity_possible": 1677,
+    "rebelity": 0.000596,
+    "name": "Matúš Čupka",
+    "given_names": [
+      "Matúš"
+    ],
+    "family_names": [
+      "Čupka"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297322",
+    "rebelity_total": 1,
+    "rebelity_possible": 1677,
+    "rebelity": 0.000596,
+    "name": "Dávid Dej",
+    "given_names": [
+      "Dávid"
+    ],
+    "family_names": [
+      "Dej"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297323",
+    "rebelity_total": 3,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001789,
+    "name": "Monika Ďurajková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Ďurajková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297324",
+    "rebelity_total": 1,
+    "rebelity_possible": 1677,
+    "rebelity": 0.000596,
+    "name": "Oskar Dvořák",
+    "given_names": [
+      "Oskar"
+    ],
+    "family_names": [
+      "Dvořák"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297325",
+    "rebelity_total": 5,
+    "rebelity_possible": 1677,
+    "rebelity": 0.002982,
+    "name": "Petra Hudáková",
+    "given_names": [
+      "Petra"
+    ],
+    "family_names": [
+      "Hudáková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297326",
+    "rebelity_total": 1,
+    "rebelity_possible": 1677,
+    "rebelity": 0.000596,
+    "name": "Lenka Jakubčová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Jakubčová"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297327",
+    "rebelity_total": 2,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001193,
+    "name": "Dana Kleinert",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Kleinert"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297328",
+    "rebelity_total": 2,
+    "rebelity_possible": 1677,
+    "rebelity": 0.001193,
+    "name": "Marek et Mgr. Machata",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "et Mgr. Machata"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297329",
+    "rebelity_total": 1,
+    "rebelity_possible": 1677,
+    "rebelity": 0.000596,
+    "name": "Miroslav Macko",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Macko"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297330",
+    "rebelity_total": 10,
+    "rebelity_possible": 1660,
+    "rebelity": 0.006024,
+    "name": "Róbert Pajdlhauser",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Pajdlhauser"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297331",
+    "rebelity_total": 5,
+    "rebelity_possible": 1660,
+    "rebelity": 0.003012,
+    "name": "Martin Patoprstý",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Patoprstý"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-starostov",
+        "classification": "group",
+        "name": "Klub starostov",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297332",
+    "rebelity_total": 1,
+    "rebelity_possible": 1677,
+    "rebelity": 0.000596,
+    "name": "Lucia Plaváková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Plaváková"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297333",
+    "rebelity_total": 0,
+    "rebelity_possible": 526,
+    "rebelity": 0.0,
+    "name": "Michal Sabo",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Sabo"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2023-12-14"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297334",
+    "rebelity_total": 6,
+    "rebelity_possible": 1677,
+    "rebelity": 0.003578,
+    "name": "Adam Sarlós",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Sarlós"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297335",
+    "rebelity_total": 5,
+    "rebelity_possible": 1473,
+    "rebelity": 0.003394,
+    "name": "Martin Winkler",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Winkler"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:nezaradeni",
+        "classification": "group",
+        "name": "Nezaradení poslanci",
+        "since": "2024-02-01"
+      },
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15",
+        "until": "2024-01-31"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297336",
+    "rebelity_total": 5,
+    "rebelity_possible": 1604,
+    "rebelity": 0.003117,
+    "name": "Jana Jakubkovič",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Jakubkovič"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:klub-som-bratislava",
+        "classification": "group",
+        "name": "Klub SOM Bratislava",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:297337",
+    "rebelity_total": 1,
+    "rebelity_possible": 1677,
+    "rebelity": 0.000596,
+    "name": "Daniel Klimovský",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Klimovský"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2022-11-15"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:313925",
+    "rebelity_total": 3,
+    "rebelity_possible": 1151,
+    "rebelity": 0.002606,
+    "name": "Pavol Škápik",
+    "given_names": [
+      "Pavol"
+    ],
+    "family_names": [
+      "Škápik"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2024-02-29"
+      }
+    ],
+    "since": "2022-11-29"
+  },
+  {
+    "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+    "rebelity_total": 19,
+    "rebelity_possible": 1088,
+    "rebelity": 0.017463,
+    "name": "Elena Pätoprstá Smatana",
+    "given_names": [
+      "Elena"
+    ],
+    "family_names": [
+      "Pätoprstá Smatana"
+    ],
+    "organizations": [
+      {
+        "id": "bratislava:org:group:team-bratislava-ps-sas",
+        "classification": "group",
+        "name": "Klub Team Bratislava, PS, SaS",
+        "since": "2024-04-25"
+      }
+    ],
+    "since": "2022-11-29"
+  }
+]

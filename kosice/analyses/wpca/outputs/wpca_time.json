@@ -1,0 +1,4799 @@
+[
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.626455472409284,
+      0.6470129914168667,
+      -1.5341968808687436
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.46510026928825315,
+      4.88034413641884,
+      -3.169511501433752
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -8.613757202237679,
+      -7.791588042879177,
+      -0.673838684059448
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -10.661860657973584,
+      -8.122094608972334,
+      -2.214787237761791
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      9.454383875452733,
+      3.552029129722733,
+      1.2798920863472711
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.36589304867191125,
+      -3.5743012546886392,
+      -9.535757267892333
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.6221103731699247,
+      6.559766971625335,
+      1.6987097643026985
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      7.307084319541425,
+      7.955846596123835,
+      6.841416222389697
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.802421959872834,
+      7.063699478206538,
+      7.596556501268439
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -11.237173018933083,
+      -11.708228092582504,
+      -1.265368283403987
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7464296139684388,
+      7.529645935107389,
+      6.286312412386233
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.6371465762961925,
+      5.649100898167656,
+      -1.317832503466371
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.1955256648394204,
+      6.20189049588848,
+      6.793882053331664
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.39785631555884504,
+      5.47627229649655,
+      6.6560964065872446
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.827225934228195,
+      0.9758038477914057,
+      1.4741700927964145
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -9.93162986200785,
+      -9.24676256309741,
+      -7.838342740461451
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      9.97138872902013,
+      4.8458515353964255,
+      2.973364538769156
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      10.314133486227552,
+      4.107459788424291,
+      1.9840490191188132
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -10.049692785066771,
+      -9.865163527382004,
+      -1.0869357173781462
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      7.7981109015624455,
+      7.325643642242613,
+      3.717766213785293
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      9.880535182796375,
+      5.0325771418617515,
+      0.8461162099246462
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -10.380894284399059,
+      -2.1050996855434323,
+      1.53818989659069
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      10.122993319439814,
+      5.676616430924685,
+      2.488359228248842
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      10.574378036819198,
+      1.5986562227894905,
+      0.4729696641880979
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      8.51957783233297,
+      1.4137489783434307,
+      3.0471365050442505
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.482194598584812,
+      -3.8939994467386168,
+      -11.0723283734203
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      8.705178738032513,
+      3.934569910112757,
+      0.20117767875176018
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.2215946683739243,
+      5.139912146217448,
+      3.9356858784701085
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -9.109885298719027,
+      -4.085560426268741,
+      3.2819968731645695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      5.886550898193337,
+      6.492678631095602,
+      4.016265352729619
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -11.23441341340494,
+      -10.867441285740288,
+      -2.584808134772925
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -10.975877709560699,
+      -10.757864435897735,
+      -1.00043780785084
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.3334875684725622,
+      -1.949061373984886,
+      -7.014644500041262
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.19633953832073,
+      -2.2667498729920688,
+      -0.9319883203461152
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      8.228525252607897,
+      3.2213976327598064,
+      -1.566498974318083
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7577937771953016,
+      -1.4864259951149905,
+      -7.133994489862478
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -11.799779091439966,
+      -10.454094561848668,
+      -0.2775074182028533
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -11.1775498337755,
+      -9.375571821326199,
+      0.14516346548272951
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -4.52946158097726,
+      -0.6143936730108931,
+      -2.2598340234298613
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -9.04817578879613,
+      -5.409245398025713,
+      -3.611679218699355
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      10.292840040616351,
+      6.439802479823528,
+      2.6234597277615443
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      8.628093765058555,
+      5.24853944218674,
+      3.8847258832957783
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.376679850664323,
+      0.09927318964543869,
+      -6.178041336385201
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -9.668689170450495,
+      -6.500231025227207,
+      -1.1818726425165833
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -11.286304256523886,
+      -8.382855771478697,
+      -1.9173389075562541
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      8.031333760550723,
+      3.5473983869684234,
+      1.4358719507420998
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.07819751932063,
+      2.0707031715434883,
+      -2.8455786337524205
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      6.2921400943790795,
+      7.183301452131868,
+      1.7178532035737109
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.658567660779542,
+      4.785936146117723,
+      2.7807529095316674
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -8.388003462575892,
+      -9.04387641499443,
+      -5.9456807636017714
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.5402082694416772,
+      6.841758733505132,
+      -2.4297700598765086
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.4262986007978937,
+      5.618233900545268,
+      1.522599426628549
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.2853425236740734,
+      6.838696788572607,
+      4.4218781209334965
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.1292053896667809,
+      4.934465350536006,
+      2.0938713858874887
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      9.076218839000333,
+      3.3302773573625952,
+      4.190434307813337
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -6.128492799582937,
+      -5.200268152761125,
+      0.47185893705540083
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      8.917528831666838,
+      1.7157019547128727,
+      3.6068005250460904
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      8.833549473545474,
+      2.373826519007202,
+      2.5123173896495046
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -10.949959392307917,
+      -8.935347313460824,
+      -2.712466732103536
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      6.958377202402093,
+      6.41425200099451,
+      0.7667538362690535
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      8.764850233384067,
+      5.3607408582727265,
+      2.1006964457066495
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -7.957874587552647,
+      -6.975488844110979,
+      1.9573136877765211
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      8.355374037826978,
+      2.6704675966651767,
+      1.3653974400653335
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      8.903450313475364,
+      4.034608705482571,
+      1.7635203711854048
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      7.577322177578642,
+      3.4582816877542206,
+      2.223709970117042
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.199252957490158,
+      -3.57777449806193,
+      -10.281069736985003
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      8.043615981811945,
+      -0.43177157626691354,
+      2.8529294424232368
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.9458840598792342,
+      4.0146430537779665,
+      2.163753847466357
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -9.892899043567642,
+      -8.358853970147182,
+      -2.3324694797297023
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      3.1314784239310556,
+      3.165487929885923,
+      2.5773206688063963
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -9.032573885171468,
+      -6.768098231470061,
+      -6.117528388940647
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -11.283707014063541,
+      -9.275045109348412,
+      -2.8111118966105826
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.3159664867333444,
+      -1.3732759535931085,
+      -1.2335167598363932
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      7.2130147047673185,
+      1.4413229064190491,
+      0.9260425140211441
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      9.537857684966486,
+      3.651062417142433,
+      2.8773096320396734
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.4899647115279766,
+      3.4865471313999667,
+      -0.05734101646424113
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -11.034562693981558,
+      -7.746572916202953,
+      -2.230574961570748
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -10.764739439401938,
+      -8.941339627210736,
+      -0.4438697731645537
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.0339967662662457,
+      2.12820325981516,
+      1.52148413693079
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -7.917941733420603,
+      -5.994927703273658,
+      -3.4217715162099225
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      9.489795610986032,
+      4.771643687551835,
+      2.6517683620654204
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      9.502068889048248,
+      2.8196056999590207,
+      1.8346648830906258
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.16882904314438,
+      -3.0380997650007955,
+      3.9836304899210355
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.706888701285417,
+      4.5609113923812235,
+      -2.7945209626025935
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -10.060210100518452,
+      3.0495347969424142,
+      -2.2162067513371464
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      10.78738483392578,
+      2.8954931364680334,
+      1.4066525529348628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.7029892832541145,
+      -1.725182443469436,
+      5.0748550954626985
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.9798064654141814,
+      -6.714520227974333,
+      -1.9674457813091994
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -5.792052867477132,
+      -6.83655384125851,
+      -2.2270772796251315
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      4.624366036389744,
+      -3.7787264374300236,
+      4.282731458821545
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.655672188170342,
+      0.9170817185813692,
+      0.5994197241412426
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -4.965937855026095,
+      -6.8046310139098685,
+      -3.942329495245387
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.6865496718604307,
+      -5.923621624636478,
+      -0.6027725998227803
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.666999776796038,
+      -7.207183560791974,
+      -5.324106484380482
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.289287974334591,
+      -5.654248159020478,
+      -3.970249094066869
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      11.28280847418123,
+      3.0916298480830653,
+      0.30657788661835894
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -8.198809557551453,
+      0.2193612696155804,
+      -1.3464028445905167
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      10.937105435102428,
+      2.041364542022376,
+      1.8011386136927408
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      11.298531405989971,
+      3.0129274598476066,
+      1.4821993041494712
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -10.882614999338562,
+      1.2356888414840481,
+      -2.124597813120501
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      4.407455473029356,
+      -3.457302832668848,
+      3.658218112646963
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      10.468222638186448,
+      1.9555523668428045,
+      2.6865862667172866
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -10.18619848961546,
+      1.7364522488599712,
+      -1.9223389456606785
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      10.40264803658583,
+      1.7355549190418753,
+      1.5978053381899433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      10.896031006995042,
+      2.811753262609547,
+      1.5562528775602527
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      10.66638321881437,
+      2.0830145194691245,
+      1.7591352363979602
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.4517390575004194,
+      0.9313540425520188,
+      9.972418474919055
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      9.071257539129856,
+      2.0282581943206295,
+      -0.2926505218194123
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -5.717575266298876,
+      -7.031906763293431,
+      -2.612329720693461
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -10.436819711952001,
+      3.3551620469027443,
+      -5.238296072725843
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.229058890522364,
+      -3.44510859161948,
+      -4.476925826056302
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -10.19037684446804,
+      -2.0108147772597533,
+      -1.0224117856851223
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -11.01002067527371,
+      2.292622909210016,
+      -2.462282193035731
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      9.515725158747571,
+      3.1413432548504896,
+      0.6870595769832449
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      9.700145902333267,
+      3.149362356566143,
+      1.9420164639911786
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      10.929534461107231,
+      2.868830536267184,
+      1.0718378987569983
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.15537048444019935,
+      -1.7437220151936688,
+      4.911395132224211
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -10.791324519796033,
+      1.635441402989929,
+      -4.751161999539233
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -9.30691039486976,
+      3.2171196765876715,
+      -5.701910679430896
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.2351743233629815,
+      -0.8122796552563973,
+      -1.3473547165681679
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -9.698444506044867,
+      -0.11502258529411453,
+      1.085729822392418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      10.126026762653074,
+      1.5501190876503932,
+      1.2076680847253807
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      8.149072071141347,
+      -0.008217452204663224,
+      3.5045950065155766
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.633147308052927,
+      -4.162377112536163,
+      4.055502223158236
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -12.086544972467538,
+      4.5415175727116734,
+      -6.294502848614778
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -10.56771693658033,
+      5.494992071848399,
+      -6.362464137103207
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      9.44809441082742,
+      0.9026162402094405,
+      3.033370413847691
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.298702436508122,
+      -1.5229104080718965,
+      3.91369777643751
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.224430763796469,
+      -5.729720013852203,
+      3.384305560142522
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.054051357930136,
+      -4.613524352112484,
+      -1.866042771787409
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.612012584517789,
+      -4.798129589791971,
+      2.057659039160798
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.9601698674220045,
+      0.13438464702530886,
+      7.304811991021205
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.8892859763490635,
+      -5.447135849121832,
+      -0.7654653306073209
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.3993149990894098,
+      -4.7370995197887105,
+      -0.33578818790198695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.8425335266887861,
+      -7.00664882622017,
+      -0.3027119558927279
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.659395624320699,
+      -5.041969041530929,
+      -3.1162968163541
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      8.884540150227966,
+      1.1326568227010043,
+      2.661957512246951
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -8.00354077649557,
+      5.370062893433481,
+      -7.748366976911847
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      9.524222412112739,
+      1.2685689846937744,
+      3.130991228074742
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      9.802545968296908,
+      1.169507253859772,
+      4.486306531824095
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -10.520276417309583,
+      4.428837310288911,
+      -7.461165390389737
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.6064404915664605,
+      -3.9500422743800194,
+      3.6415175437382548
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      9.251281985759745,
+      0.819705255192637,
+      3.143031241050401
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -9.875983216044887,
+      4.33747445814073,
+      -4.384707648532137
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      9.605275585401536,
+      1.6233714234688883,
+      3.622336743654014
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      7.058029429184549,
+      -1.2351626305671888,
+      2.1699725334686955
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      8.967359554662506,
+      1.039942059708597,
+      4.220056435113482
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.356147653666669,
+      -4.928567645032151,
+      7.590096255623907
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      8.335401375410578,
+      -0.5901006761650154,
+      1.552208988229818
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.535989802253974,
+      -5.269716997395978,
+      0.5385684958861603
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -8.592049437997828,
+      3.7388599413337604,
+      -5.2480020803268035
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.746136037356591,
+      -3.735477645480547,
+      -4.922044522944989
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -9.850971535398934,
+      -0.28386785796917624,
+      -1.2579903430247106
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -11.056170818772106,
+      3.873083950094515,
+      -7.212758061432124
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      9.350817952401728,
+      2.037850984432069,
+      2.675109467849827
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      9.298066494604942,
+      1.33600038035196,
+      1.8497912004509538
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      8.874040741768686,
+      1.7509559857597692,
+      3.4981840077967115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.6932258292622886,
+      -0.8460733832697714,
+      4.891496757719247
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -10.886065803341026,
+      4.02485937610133,
+      -7.64932942541076
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -9.0661976300091,
+      4.813347067539328,
+      -7.186006476694389
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.849445151449165,
+      1.2710214422108617,
+      -3.276155899540645
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.87093406689137,
+      -0.8619522456872941,
+      -1.1243548464714532
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      9.54264822391361,
+      1.2030355897637075,
+      2.8226778427274626
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      12.247623691994104,
+      5.564913196541207,
+      1.9342861048244988
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -8.002490970642848,
+      -4.126996345553142,
+      -4.08535283744948
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -11.105642329336987,
+      -1.3973627147838008,
+      0.4296926110055977
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -11.031978960468674,
+      -1.0990044829054124,
+      0.46984806679535923
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      13.203224782814932,
+      5.1266936517937,
+      0.3825836396892686
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -7.759587463196755,
+      -3.034146420936915,
+      -2.862695881081027
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.423846232806947,
+      -6.442005159672792,
+      0.11115841029452035
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.0090305440271923,
+      -6.457683919542581,
+      -0.4152334839246742
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.9832825841623556,
+      -0.9088921069083304,
+      -2.6534287526985554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      9.749327771215887,
+      3.7173107070882154,
+      -2.3767291380204503
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -6.39858289091198,
+      -6.681343270637241,
+      2.606066642522139
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -4.365402444843043,
+      -4.436531430968106,
+      -0.49687940982245205
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -8.460509508807863,
+      -6.567975475768397,
+      1.869330297812251
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.0922170852234169,
+      -6.665765850007539,
+      4.273374135018942
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      12.730240444260021,
+      6.554298259700389,
+      -0.5038575956991677
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -11.26718381544039,
+      -1.349131356390232,
+      -0.5626430019507472
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      13.07111775506874,
+      4.959030374315101,
+      0.5577899502042365
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      12.90941564237855,
+      4.761197664734003,
+      -0.25437105862016346
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -10.989036003766003,
+      -0.7961432386042757,
+      1.088940718722656
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.297190358727013,
+      -5.882526703315081,
+      -2.5679705290964354
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      12.69643664068792,
+      4.5654678023980395,
+      -0.33721742512118064
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -9.687914471652762,
+      0.9605435658574158,
+      -0.5445433896947197
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      12.495837936204097,
+      4.370881745383269,
+      1.0240608289051432
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      13.670074035348186,
+      8.201192256099683,
+      4.012627788092587
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      12.346869938568188,
+      2.916119948529995,
+      1.1531639327975038
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -10.285672426603886,
+      -4.024095725009426,
+      -6.428891462313784
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      10.921014755880233,
+      3.459145375538528,
+      3.6436921149554093
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.591287899573731,
+      -4.648164267097765,
+      2.7649170849370392
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -10.586142023594741,
+      -0.6356422638230484,
+      0.05583331167048188
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.29178395767715315,
+      -2.840513142328235,
+      3.058403397504596
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -10.40017554241192,
+      -1.8018775094135646,
+      -1.8187231433035627
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -10.435153595847302,
+      -0.9833484479051491,
+      0.28290670712585203
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      12.267035490592194,
+      6.255269587022713,
+      2.194100311771824
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      12.712683127870964,
+      5.932859069557955,
+      0.24068527414564111
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      13.134642703087001,
+      6.049231961248942,
+      1.1703179411704918
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.643468907138283,
+      -2.6432526421305935,
+      -4.771138486586375
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -10.509232500827398,
+      -0.612413273353169,
+      -1.5301505254298997
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -10.60388517599034,
+      -2.3329471836087325,
+      2.2839118173631636
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.1290838567031916,
+      -2.4495823511209793,
+      -1.4456029529547283
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -8.834025052177022,
+      -2.301618339344268,
+      -3.6255140124873915
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      11.69169905898998,
+      3.954737581137283,
+      4.05091259606046
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      7.128256618494284,
+      1.6333124085617208,
+      1.6687039168401205
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.0606236752339235,
+      -5.766609057617689,
+      -5.32713388582918
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -8.429717001250742,
+      4.084349868836347,
+      0.5522376668435819
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -9.228557932376104,
+      4.405550093699898,
+      2.241178733405089
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      9.945066582874336,
+      0.5592518578246608,
+      0.47231790861511463
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -6.683570602969296,
+      -1.3132924803262918,
+      -4.829238679490136
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.627329275973899,
+      -4.936994065657181,
+      -2.1000435413158933
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      3.110671541640582,
+      -6.180356305190005,
+      0.09597829261193555
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.429144942560802,
+      -4.132384582643175,
+      -5.23516171105244
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      5.280218359662624,
+      3.490568905850938,
+      -2.6653424371304917
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.17745903107075,
+      -4.7564422522535095,
+      1.624315216771313
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.299093239468446,
+      -4.0736600629286315,
+      0.11816603072981116
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.902982278671296,
+      -3.091770525428827,
+      3.5487630279724827
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -2.8861650990992747,
+      -5.43484086220808,
+      0.7393428208028137
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      10.037447603982333,
+      1.0093914459220183,
+      1.7626727655023597
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -9.119332403628274,
+      2.053510397240893,
+      0.12602185425109189
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      10.883708517377881,
+      1.4588754019544423,
+      0.40228005401754036
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      10.78659304456405,
+      1.3139638563309195,
+      0.520813546505284
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -8.621049066105869,
+      2.1515151470670504,
+      2.5495757804389405
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.4643138979300405,
+      -2.4484864378326807,
+      -2.1662561101067754
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      10.692370026688263,
+      2.0140785720250136,
+      0.7902303899968933
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -10.833995168685009,
+      4.042126136329699,
+      1.3154083866482764
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      9.946676549179529,
+      1.491605175012603,
+      1.1713774174826737
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      2.2846190227460053,
+      -1.5477755791350865,
+      1.0469061916477551
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      9.852857847831679,
+      0.8477603642348482,
+      -0.36109696214545434
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.8143286593995605,
+      -3.649268933776317,
+      -9.27226571344221
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      9.703975686191653,
+      2.981564383734345,
+      2.8874534054360037
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.5028441079091324,
+      -3.899738716803558,
+      0.8064736740133756
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -7.479610111462531,
+      2.5972591229948425,
+      3.4357112401165155
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.733983816991077,
+      -3.8922150465890013,
+      1.5957088484241004
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -6.430636301217225,
+      -0.5769427208495885,
+      -2.472265601037671
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -8.526643294103998,
+      1.5011985545958637,
+      0.9257917356734234
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      6.990100116089555,
+      4.582129721808913,
+      0.09492613126207523
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      5.875923779251352,
+      4.510992047600909,
+      0.3643170086203229
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      9.701599745605773,
+      -0.08176164375622881,
+      1.6467954266725406
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.174789902327669,
+      -2.4502216696553227,
+      -2.7379798961674733
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -7.821865895081424,
+      3.5218176519330098,
+      2.906436722582472
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -7.731219580127073,
+      2.850821634044765,
+      4.440051769980809
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.8436573518006567,
+      -1.2876398626085344,
+      1.443566550741059
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -7.983833938234717,
+      -2.0586105448245777,
+      -3.338243945451195
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      9.788707596711768,
+      0.9470729331511787,
+      1.3322306464025093
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.846325566034178,
+      -0.0798911727917611,
+      2.66784622725432
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.74916790493647,
+      -6.8453498002417525,
+      5.3480122720936665
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.953318995482124,
+      1.173931070525032,
+      -2.986926965928966
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.266103904084989,
+      3.0183059537623307,
+      -6.217173632735545
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      10.029408180090721,
+      5.569043409101962,
+      1.9679608893190403
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.6148649216146005,
+      -4.929824673193662,
+      3.2334609199119235
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.2446190280645648,
+      -6.07505488090685,
+      1.3230841065778733
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.769728519983073,
+      -8.051291547736247,
+      -0.6159528040069902
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      2.1281800010655685,
+      -2.907063542334006,
+      6.329389825332462
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.8494099575030605,
+      2.1384039764107037,
+      4.78942570737203
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.610599404155389,
+      -6.277807531669881,
+      -4.188085883185212
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.079271173384803,
+      -7.285188311283666,
+      -2.0456884446259367
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.235534269376404,
+      -7.466543300988804,
+      -1.7903228401882665
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.462413949135642,
+      -5.877252753251968,
+      -3.925576805067355
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      8.426757858960519,
+      5.839553907821297,
+      -0.8741675217656428
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -8.09789712160952,
+      1.1022393984720913,
+      -4.958970265348139
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      10.547736997490494,
+      2.2433953685961874,
+      6.294828042116168
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      10.724825827778949,
+      6.63573104532894,
+      2.8431837838431626
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -8.026790255699925,
+      0.5483321279462432,
+      -3.5189751613131883
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      2.9271918669104373,
+      -4.75394703865088,
+      0.9104540481121669
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.350963519722561,
+      7.126651033490515,
+      -1.3536056100546918
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      8.297708304882857,
+      4.549509188966721,
+      0.7025913918443732
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      9.6602817415679,
+      5.316733131950099,
+      1.3328567443164447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.05086987442491552,
+      -4.254508952691219,
+      7.567070268493728
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      10.058584074380748,
+      7.184831413585524,
+      -0.3756282453721625
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.948256265126239,
+      -7.55098505421502,
+      1.5121280994415918
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.9279333312289255,
+      0.532086161240466,
+      -4.021710981965233
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.4160310761017759,
+      -4.712491692610445,
+      -1.7980937565940802
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.715035863114509,
+      -1.9571870289912108,
+      0.8111508461401541
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -8.23718524055909,
+      0.08395206216917762,
+      -1.9514762801919718
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.278341645582925,
+      3.684821795860279,
+      0.5564689437809831
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      8.157611801786029,
+      4.164857966684603,
+      1.6898291610937348
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      9.887556311866756,
+      6.419341329309391,
+      1.3040135328542308
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.6935704468080925,
+      -1.8887623418085082,
+      4.717997622606604
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.840994643226742,
+      2.553496695904682,
+      -5.588219831827447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.853682074211904,
+      1.782789851193356,
+      -5.273759192864078
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.9778442190195513,
+      1.243176287282838,
+      -1.5983886626258756
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.662958131290007,
+      -5.062529792958166,
+      4.660170630843809
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      9.545428526335376,
+      4.2645319550940215,
+      1.4462979541468037
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.418902471561093,
+      -1.8883405033715444,
+      3.4876899960115435
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -9.768711932308417,
+      1.7363391758106688,
+      -8.255780178895987
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -8.71348214579863,
+      4.844549530642417,
+      -2.327470968500451
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -10.414520164093982,
+      5.444935528538651,
+      0.5043958374777427
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      10.381876305178098,
+      -0.8440211089688472,
+      1.0628677684670076
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -5.728881116245633,
+      0.578839743067131,
+      -4.550624009477685
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.5859285115871661,
+      -4.268378044109217,
+      2.244911205608586
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.27042610987719057,
+      -5.101517733866861,
+      2.5057185463719804
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      5.4829925713504055,
+      -2.1552918732471738,
+      1.897972556599789
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.742879417850491,
+      3.7499488965429735,
+      -3.667670511426385
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -4.635376576101433,
+      -2.8777553185876292,
+      -1.1656358475104693
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.6867233856253383,
+      -6.416336962141937,
+      4.685421357243774
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.4086086678163685,
+      -6.3697644056321465,
+      4.420007613648916
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.851584282910367,
+      -7.156369917977561,
+      2.039761875668602
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      12.339546017300234,
+      0.5105899877438788,
+      5.178504972266672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -11.606733596103826,
+      4.539422759421654,
+      -1.225680705682177
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      11.411305094412391,
+      0.17841984702331862,
+      1.7688151517544433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.796771887224676,
+      0.5468930525854567,
+      0.05928086833814812
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -11.231544666490485,
+      5.602199181541215,
+      -0.6281481205609067
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.154515026770645,
+      -1.2207836110942032,
+      0.35158601758816216
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      10.358049260798133,
+      -0.11013907914383068,
+      0.65960040839772
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -8.60934978456144,
+      4.406071995901846,
+      -3.20387284823333
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.294414278354006,
+      -0.2757869607288181,
+      0.4201401752758242
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.41015810653838,
+      -0.09481382134529713,
+      1.5046375190181642
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.388418978793421,
+      1.2396705197658298,
+      3.1617052838040505
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.937359404603317,
+      1.2713562136441454,
+      -7.825156754875082
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.311285657598159,
+      -1.8489577560345336,
+      4.366560257341745
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.684967974761611,
+      -5.786323450635018,
+      1.1994810606226618
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -9.05405030432648,
+      4.572694776855433,
+      0.903522430873332
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.3513366406785494,
+      -5.637909832361551,
+      4.681697876298849
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -8.220033443107615,
+      2.826955362494876,
+      -6.659261478617157
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -12.053191245381381,
+      6.525851151690609,
+      -3.424704549740439
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.388136858149265,
+      -0.8705765665709216,
+      0.2785557734412406
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      5.832115304583648,
+      0.07144570808961997,
+      0.7689861740750703
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      10.731208748560633,
+      -0.7515110614278808,
+      2.8666723583715257
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.283507130857672,
+      -4.233000985415404,
+      -3.3322694002387916
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -11.171501733727824,
+      4.62336979348728,
+      0.5872927689055919
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -11.08662037682536,
+      5.113267601913015,
+      0.9890932190648646
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.1938047207458418,
+      -3.40023771267443,
+      0.4068687193945069
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.55816792894364,
+      1.7947547489345348,
+      -6.446628724625465
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      10.543855773965737,
+      0.04338667740919057,
+      2.167169245820222
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:1",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      7.765537801763325,
+      -0.1628085720725182,
+      5.6085082724085
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:10",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -5.5782788367506955,
+      -2.885012156756759,
+      -1.9042215560797575
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:11",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -10.718663689869794,
+      7.399949796819053,
+      -0.7174377660089951
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:12",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -9.76613661215019,
+      8.966700955824916,
+      -0.3359586354215107
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:13",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.014848299632298,
+      1.5394910498403045,
+      3.948889506883238
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:14",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.342797406901112,
+      -3.438253710815507,
+      -10.32057896913144
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:15",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.131693189406036,
+      -10.037599836862835,
+      -3.899782808017444
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:16",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      4.497227308464232,
+      -10.19001367167615,
+      0.23615688559602782
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:17",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      3.6972883147424342,
+      -8.641954927203535,
+      -5.186812856033736
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:18",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -0.3334632202253255,
+      -3.674995802838529,
+      -3.0574928784122086
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:19",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      1.6709576283864598,
+      -10.204327085603234,
+      -5.139669214511993
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:2",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -3.313156194902924,
+      -5.137291917850155,
+      -7.004980810387142
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:20",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      4.393047631324678,
+      -10.735512824151687,
+      -5.66611810162421
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:21",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -2.7400137416393693,
+      -6.389762662143657,
+      2.8944073858447394
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:22",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      7.714442518923121,
+      -2.877833330490649,
+      3.802604729164538
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:23",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -4.124103089004117,
+      3.3421609576780247,
+      -1.7393390489577154
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:24",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      6.290390398464269,
+      6.535547294099673,
+      5.262771194756176
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:25",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      4.858587193941838,
+      5.678188963699533,
+      4.06055313395607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:26",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -8.376227161948592,
+      8.599354100305815,
+      -1.8019094650659149
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:27",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -6.342938501214191,
+      1.0421744827990296,
+      -0.13871138208312822
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:28",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.704716831553998,
+      0.5829148614076444,
+      1.947939697375086
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:29",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "kosice:person:3",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      7.122562559004574,
+      -3.1016048795306004,
+      2.742890681068396
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:30",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      1.6561515579888033,
+      7.797385538898706,
+      3.064867816926776
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:31",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.920506251280233,
+      7.2990531832702334,
+      5.054971865472312
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:32",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -3.335616693021709,
+      -3.3880421926627644,
+      -9.879997353696751
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:33",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      8.077050098529574,
+      -1.983400255593616,
+      6.194968163772502
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:34",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -3.0848570120797634,
+      -4.403533368164993,
+      -0.6423135928183763
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:35",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.583251847442133,
+      9.364449181466913,
+      -0.13011866534564986
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:36",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      1.5093987054831755,
+      -1.0444715153261104,
+      6.384910352107807
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:37",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -10.567036684615202,
+      7.780923826738124,
+      -2.1697451356931574
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:38",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -11.842186658748801,
+      11.207660820692992,
+      4.105899889318307
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:39",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      0.29226284203968506,
+      3.1499537607400905,
+      0.49101426431465356
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:4",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.772140882380074,
+      -4.078219442921481,
+      -0.6085942948541321
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:40",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      8.374690410561776,
+      -4.362777137026319,
+      4.6107334611344335
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:41",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -2.6552867726486573,
+      -4.134715792294314,
+      -8.221009261216166
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:5",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -2.434610422894562,
+      2.8787797263074246,
+      2.833375987857518
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:6",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -2.0998201691344796,
+      8.771021402450593,
+      4.949652926954476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:7",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -1.4845153131157518,
+      -0.9022974142251644,
+      -0.8378394759246762
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:8",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -5.722887364228458,
+      -1.4849043851933472,
+      -7.473273143592508
+    ],
+    "included": true
+  },
+  {
+    "person_id": "kosice:person:9",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      9.303379091791086,
+      -4.804084594502764,
+      9.997993676402047
+    ],
+    "included": true
+  }
+]

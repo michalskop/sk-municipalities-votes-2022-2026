@@ -1,0 +1,652 @@
+{
+  "city": "bratislava",
+  "review_status": "reviewed",
+  "groups": [
+    {
+      "id": "bratislava:org:group:team-bratislava-ps-sas",
+      "name": "Klub Team Bratislava, PS, SaS",
+      "classification": "group",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Inaugural voting annex establishing council clubs"
+        }
+      ]
+    },
+    {
+      "id": "bratislava:org:group:klub-starostov",
+      "name": "Klub starostov",
+      "classification": "group",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Inaugural voting annex establishing council clubs"
+        }
+      ]
+    },
+    {
+      "id": "bratislava:org:group:klub-som-bratislava",
+      "name": "Klub SOM Bratislava",
+      "classification": "group",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Inaugural voting annex establishing council clubs"
+        }
+      ]
+    },
+    {
+      "id": "bratislava:org:group:nezaradeni",
+      "name": "Nezaradení poslanci",
+      "classification": "group",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Inaugural voting annex establishing council clubs"
+        }
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "person_id": "bratislava:person:145445",
+      "organization_id": "bratislava:org:group:klub-som-bratislava",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub SOM Bratislava"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145451",
+      "organization_id": "bratislava:org:group:klub-som-bratislava",
+      "start_date": "2022-11-29",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/85a/113411.eedf74.pdf",
+          "note": "Oath 29.11.2022, member of Klub SOM Bratislava"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145464",
+      "organization_id": "bratislava:org:group:klub-som-bratislava",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub SOM Bratislava"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145477",
+      "organization_id": "bratislava:org:group:klub-som-bratislava",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub SOM Bratislava"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212920",
+      "organization_id": "bratislava:org:group:klub-som-bratislava",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub SOM Bratislava"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297336",
+      "organization_id": "bratislava:org:group:klub-som-bratislava",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub SOM Bratislava"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145440",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145455",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145466",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145474",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145476",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/71788.pdf",
+          "note": "Joined Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145488",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:197872",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212918",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-29",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/70093.pdf",
+          "note": "Oath 29.11.2022, member of Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297330",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297331",
+      "organization_id": "bratislava:org:group:klub-starostov",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub starostov"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145476",
+      "organization_id": "bratislava:org:group:nezaradeni",
+      "start_date": "2022-11-15",
+      "end_date": "2023-12-31",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Nezaradený poslanec"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212687",
+      "organization_id": "bratislava:org:group:nezaradeni",
+      "start_date": "2025-05-01",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/85a/113411.eedf74.pdf",
+          "note": "Nezaradený poslanec"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297335",
+      "organization_id": "bratislava:org:group:nezaradeni",
+      "start_date": "2024-02-01",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/71788.pdf",
+          "note": "Nezaradený poslanec"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:143964",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145452",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:145485",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212609",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212682",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212687",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": "2025-04-30",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Left club spring 2025"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212690",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212692",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212693",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212708",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212709",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212710",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:212849",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:215312",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": "2024-04-14",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Resigned 15 April 2024"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297320",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297321",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297322",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297323",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297324",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297325",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297326",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297327",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297328",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297329",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297332",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297333",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": "2023-12-14",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Resigned 15 December 2023"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297334",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297335",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": "2024-01-31",
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Left club early 2024"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:297337",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2022-11-15",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/data/att/65270.pdf",
+          "note": "Klub Team Bratislava, PS, SaS"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:313925",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2024-02-29",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-29022024/bod-1/",
+          "note": "Replacement oath 29 February 2024"
+        }
+      ]
+    },
+    {
+      "person_id": "bratislava:person:slug-patoprsta-smatana-elena",
+      "organization_id": "bratislava:org:group:team-bratislava-ps-sas",
+      "start_date": "2024-04-25",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://zastupitelstvo.bratislava.sk/mestske-zastupitelstvo-hlavneho-mesta-sr-bratislavy-2022-2026-zasadnutie-25042024/bod-1/",
+          "note": "Replacement oath 25 April 2024"
+        }
+      ]
+    }
+  ]
+}

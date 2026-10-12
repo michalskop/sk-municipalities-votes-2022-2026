@@ -1,0 +1,544 @@
+{
+  "city": "kosice",
+  "review_status": "reviewed",
+  "groups": [
+    {
+      "id": "kosice:org:group:kosicky-klub",
+      "name": "Košický klub",
+      "classification": "group",
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Košice council political club"
+        }
+      ]
+    },
+    {
+      "id": "kosice:org:group:starostovia-a-nezavisli",
+      "name": "Starostovia a nezávislí kandidáti",
+      "classification": "group",
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Košice council political club"
+        }
+      ]
+    },
+    {
+      "id": "kosice:org:group:spolupraca-pre-kosice",
+      "name": "Spolupráca pre Košice",
+      "classification": "group",
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Košice council political club"
+        }
+      ]
+    },
+    {
+      "id": "kosice:org:group:nezaradeni",
+      "name": "Nezaradení poslanci",
+      "classification": "group",
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Košice council political club"
+        }
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "person_id": "kosice:person:1",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:13",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:22",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:24",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:25",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:28",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:3",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:30",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:31",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:33",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:39",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:4",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:40",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:9",
+      "organization_id": "kosice:org:group:kosicky-klub",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Košický klub"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:10",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:14",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:17",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:18",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:32",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:37",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:41",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:7",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:8",
+      "organization_id": "kosice:org:group:nezaradeni",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Nezaradení"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:11",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:12",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:23",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:26",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:29",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:35",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:38",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:5",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:6",
+      "organization_id": "kosice:org:group:spolupraca-pre-kosice",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Spolupráca pre Košice"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:15",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:16",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:19",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:2",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:20",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:21",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:27",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:34",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    },
+    {
+      "person_id": "kosice:person:36",
+      "organization_id": "kosice:org:group:starostovia-a-nezavisli",
+      "start_date": "2022-11-11",
+      "end_date": null,
+      "sources": [
+        {
+          "url": "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026",
+          "note": "Member of Starostovia a nezávislí kandidáti"
+        }
+      ]
+    }
+  ]
+}

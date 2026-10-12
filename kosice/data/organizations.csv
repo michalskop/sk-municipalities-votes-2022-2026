@@ -1,2 +1,6 @@
 classification,id,name,sources
 assembly,kosice:org:assembly,Mestské zastupiteľstvo v Košiciach,"[{""url"": ""https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026""}]"
+group,kosice:org:group:kosicky-klub,Košický klub,"[{""url"": ""https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026"", ""note"": ""Košice council political club""}]"
+group,kosice:org:group:starostovia-a-nezavisli,Starostovia a nezávislí kandidáti,"[{""url"": ""https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026"", ""note"": ""Košice council political club""}]"
+group,kosice:org:group:spolupraca-pre-kosice,Spolupráca pre Košice,"[{""url"": ""https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026"", ""note"": ""Košice council political club""}]"
+group,kosice:org:group:nezaradeni,Nezaradení poslanci,"[{""url"": ""https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo/2022-2026"", ""note"": ""Košice council political club""}]"

@@ -1,2 +1,6 @@
 classification,id,name,sources
 assembly,bratislava:org:assembly,Mestské zastupiteľstvo hlavného mesta SR Bratislavy,"[{""url"": ""https://zastupitelstvo.bratislava.sk/""}]"
+group,bratislava:org:group:team-bratislava-ps-sas,"Klub Team Bratislava, PS, SaS","[{""url"": ""https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"", ""note"": ""Inaugural voting annex establishing council clubs""}]"
+group,bratislava:org:group:klub-starostov,Klub starostov,"[{""url"": ""https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"", ""note"": ""Inaugural voting annex establishing council clubs""}]"
+group,bratislava:org:group:klub-som-bratislava,Klub SOM Bratislava,"[{""url"": ""https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"", ""note"": ""Inaugural voting annex establishing council clubs""}]"
+group,bratislava:org:group:nezaradeni,Nezaradení poslanci,"[{""url"": ""https://zastupitelstvo.bratislava.sk/data/att/65270.pdf"", ""note"": ""Inaugural voting annex establishing council clubs""}]"

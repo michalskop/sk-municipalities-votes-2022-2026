@@ -87,11 +87,12 @@ After preparing a real `source/reviewed.json` using the
 
 ```bash
 .venv/bin/python -m scripts.standardize kosice
-.venv/bin/python -m scripts.run_attendance kosice
+.venv/bin/python -m scripts.run_analyses kosice
 ```
 
-Both commands validate against locally built **Legislature Data Standard** schemas.
-The attendance runner invokes the existing, unmodified shared analysis engine.
+Commands validate against locally built **Legislature Data Standard** schemas.
+The analysis runner invokes the existing, unmodified shared analysis engines
+(attendance, rebelity, govity, and wpca).
 Defaults use `/home/michal/project/legislature-data/`; override with `--schemas`
 and `--shared` on another machine. The upstream engine itself also needs its
 sibling `legislature-data-standard/dist` directory.
