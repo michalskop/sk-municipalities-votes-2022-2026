@@ -29,4 +29,4 @@ tables, source metadata preservation, club date boundaries, withdrawn events,
 neutral vote counts, safe event filenames and artifact-size limits. Frontend tests
 verify single-event fetches and reject invalid/cross-city IDs before fetching.
 Release checks must also prove real cache hits for both default and prefixed
-language routes and zero HTTP requests during layout switching.
+language routes and zero page/RSC/data requests during layout switching.
