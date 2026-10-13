@@ -30,3 +30,18 @@ neutral vote counts, safe event filenames and artifact-size limits. Frontend tes
 verify single-event fetches and reject invalid/cross-city IDs before fetching.
 Release checks must also prove real cache hits for both default and prefixed
 language routes and zero page/RSC/data requests during layout switching.
+Run the shared `scripts/check-vote-cache.cjs` and optional Python Playwright
+`scripts/check-vote-browser.py` from the dashboard app against a clean build and
+the live site. Do not use `force-static` to mask presentation query handling:
+server/browser search parameters can then disagree and break deep-link hydration.
+
+## Verified rollout
+
+Dashboard commit `b588e14` deployed the CPU remediation on 14 October 2026 to
+Vercel project `legislature-dashboard-sk-cities`, aliased to `mesta.datatimes.sk`.
+Commit `4d8c1af` preserves Suspense hydration for layout deep links and adds a
+reusable browser regression for deep links and Back/Forward.
+Production build logs have no oversized-cache warnings. HTTP smoke checks
+returned `x-vercel-cache: HIT` for representative Slovak and English vote paths,
+both with and without layout query parameters. All 39 data tests and six
+frontend request tests passed, along with type checking, lint and the build.

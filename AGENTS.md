@@ -31,7 +31,7 @@ python3 -m unittest discover -s tests -v
 
 ## Dashboard & Domain Integration
 - Frontend dashboard: `apps/sk-cities` in `/home/michal/project/legislature-dashboard`.
-- Production deployment: Vercel project `legislature-dashboard` aliased to `mesta.datatimes.sk`.
+- Production deployment: Vercel project `legislature-dashboard-sk-cities` (formerly `legislature-dashboard`) aliased to `mesta.datatimes.sk`.
 - Cloudflare DNS requirement: `mesta.datatimes.sk` must be configured as **CNAME `cname.vercel-dns.com`** with **Proxy status: DNS only (Grey cloud ☁️ OFF)**. Enabling Cloudflare Proxy causes Error 525 (SSL handshake failed) with Vercel.
 
 ## Analysis Rules & Constraints

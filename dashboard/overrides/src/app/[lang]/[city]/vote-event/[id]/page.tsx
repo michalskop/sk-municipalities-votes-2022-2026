@@ -10,7 +10,6 @@ import { VoteEventView, VoteEventPresentation } from "@/components/VoteEventView
 // Generate and cache each vote on its first visit, then refresh hourly.
 export function generateStaticParams() { return []; }
 export const dynamicParams = true;
-export const dynamic = "force-static";
 export const revalidate = 3600;
 
 function buildGroups(votes: VoteEventVoter[], ungroupedLabel?: string): VoteEventPartyGroup[] {
