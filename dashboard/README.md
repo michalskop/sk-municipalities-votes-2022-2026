@@ -6,6 +6,31 @@ the Slovak changes; `scripts.prepare_dashboard` composes them over `apps/cz-citi
 in an isolated output directory. It records the template Git revision in
 `TEMPLATE.json` and fails when required transformation markers have changed.
 
+## Cached vote pages
+
+Standardization now writes `CITY/data/dashboard/index.json`, small summary
+shards, and `vote-events/IDENTIFIER.json` detail files. These contain reviewed
+ballots, names and historical club affiliations; detail files retain source
+URLs and extraction metadata. Every artifact has a 1 MB size limit, below
+Next.js's 2 MB cache-entry limit after serialization.
+
+To regenerate these files from already standardized tables:
+
+```bash
+python3 -m scripts.dashboard_votes bratislava
+python3 -m scripts.dashboard_votes kosice
+```
+
+The web app fetches one detail file per vote and generates that page on its
+first visit, caching it with hourly revalidation. Layout selection uses browser
+history and does not request another server render. The vote index reads only
+summary shards and disables automatic detail-page prefetching. Publish data
+artifacts before deploying the frontend that consumes them.
+
+Frontend request regressions: `node scripts/test-vote-fetch.cjs` from the app
+directory. `SK_DATA_BASE` and `SK_PUBLISHED_CITIES` must be included in the
+dashboard's Turbo build environment so build cache keys reflect their values.
+
 The generated `apps/sk-cities` uses shared UI, charts, utilities, and parliament
 types. Default URLs are `/`, `/bratislava`, `/kosice`; English uses `/en/...`.
 Pending cities appear on the landing page but have no active dataset routes.

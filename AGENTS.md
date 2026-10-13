@@ -41,3 +41,4 @@ python3 -m unittest discover -s tests -v
    - Košice: Mayor & administration faction club `spolupraca-pre-kosice`.
 3. **Government Axis**: Determined via point-biserial correlation with government club membership across WPCA dimensions.
 4. **Data Provenance**: Always preserve source URLs, extraction hashes, and dates for all council documents.
+5. **Dashboard Vote Performance**: Read `docs/dashboard-cpu-incident.md` before changing vote exports or composing another dashboard. Publish bounded per-event files and separate summary shards; never reconstruct a whole vote history inside a detail request. Preserve provenance and verify actual page-cache hits across language routes and browser-only layout switching.

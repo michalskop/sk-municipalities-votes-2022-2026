@@ -78,7 +78,7 @@ class PipelineTests(unittest.TestCase):
             validate(tables, DEFAULT_SCHEMAS)
             with tempfile.TemporaryDirectory() as temp:
                 write_tables(tables, Path(temp))
-                self.assertEqual(len(list(Path(temp).iterdir())), 6)
+                self.assertEqual(len(list(Path(temp).iterdir())), 7)
 
     def test_missing_member_is_not_silently_absent(self):
         data = fixture()

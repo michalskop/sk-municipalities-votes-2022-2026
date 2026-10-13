@@ -13,6 +13,7 @@ from functools import lru_cache
 from pathlib import Path
 
 import jsonschema
+from scripts.dashboard_votes import write_dashboard_votes
 
 ROOT = Path(__file__).resolve().parents[1]
 OPTIONS = ("yes", "no", "abstain", "not_voting", "absent")
@@ -222,6 +223,7 @@ def write_tables(tables, out):
                              else val for key, val in row.items()} for row in tables[name])
     for name in ("vote_events", "motions"):
         (out / f"{name}.json").write_text(json.dumps(tables[name], ensure_ascii=False, indent=2) + "\n")
+    write_dashboard_votes(tables, out / "dashboard")
 
 
 if __name__ == "__main__":
@@ -240,7 +242,11 @@ if __name__ == "__main__":
         target = city_root / "data"
         target.mkdir(exist_ok=True)
         for file in Path(temp).iterdir():
-            file.replace(target / file.name)
+            if file.is_dir():
+                # The dashboard directory contains only generated vote sidecars.
+                write_dashboard_votes(tables, target / file.name)
+            else:
+                file.replace(target / file.name)
     work = city_root / "work/analysis_inputs"
     work.mkdir(parents=True, exist_ok=True)
     (work / "all_members.json").write_text(json.dumps(tables["all_members"], ensure_ascii=False, indent=2) + "\n")

@@ -36,7 +36,8 @@ def prepare(template, out, reuse_dependencies=False):
     package["name"] = "@legislature/sk-cities"
     package["scripts"].pop("prebuild", None)
     package["scripts"]["dev"] = "next dev --port 3014"
-    package["scripts"]["lint"] = "eslint ."
+    package["scripts"]["lint"] = "next lint"
+    package["scripts"]["test:votes"] = "node scripts/test-vote-fetch.cjs"
     (app / "package.json").write_text(json.dumps(package, indent=2) + "\n")
     public = app / "public"
     public.mkdir()
@@ -90,6 +91,8 @@ export const PARTY_COLORS: Record<string, string> = { other: "#bcbcb0" };
     text = text[:start] + text[end:]
     text = text.replace('className={`${robotoSlab.variable} overflow-x-hidden`}', 'className="overflow-x-hidden"')
     layout.write_text(text)
+    replace_required(layout, "export const dynamicParams = false;",
+                     "export const dynamicParams = true;")
     css = app / "src/app/globals.css"
     css.write_text(css.read_text() + '\n:root { --font-roboto-slab: Georgia; }\n')
     if reuse_dependencies:
