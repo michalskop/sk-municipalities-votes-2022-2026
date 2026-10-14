@@ -45,3 +45,7 @@ Production build logs have no oversized-cache warnings. HTTP smoke checks
 returned `x-vercel-cache: HIT` for representative Slovak and English vote paths,
 both with and without layout query parameters. All 39 data tests and six
 frontend request tests passed, along with type checking, lint and the build.
+The final deployment `dpl_D4kvFgdZFzJZ8Ly3NmRgdnXxagMm` serves commit `4d8c1af`.
+The live browser regression passed for both languages: non-default layout deep
+links, Back/Forward, zero page/data requests during switching, and no hydration
+errors. The reusable cache regression also passed all four path/query cases.
